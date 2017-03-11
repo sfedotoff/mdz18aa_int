@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="setup_wizard_next_button_label">Далее</string>
   <string name="setup_wizard_back_button_label">Назад</string>
@@ -92,9 +92,9 @@
   <string name="ethernet_mask">Маска подсети</string>
   <string name="ethernet_ipv4">IPV4</string>
   <string name="ip_address_invalid">Формат IP-адреса некорректен и не сохранен</string>
-  <string name="ethernet_connected_faild">Подключение не удалось</string>
-  <string name="ethernet_turned_off">Проводная сеть отключена. Если вы хотите увидеть список сетей, включите ее</string>
-  <string name="ethernet_not_available">Проводная сеть недоступна. Убедитесь, что сетевой кабель подключен</string>
+  <string name="ethernet_connected_faild">Подключение не удалось.</string>
+  <string name="ethernet_turned_off">Проводная сеть отключена. Если вы хотите увидеть список сетей, включите ее.</string>
+  <string name="ethernet_not_available">Проводная сеть недоступна. Убедитесь, что сетевой кабель подключен.</string>
   <string name="ethernet_on_success">Подключено</string>
   <string name="ethernet_on_fail">Подключение невозможно</string>
   <string name="static_ip_config_title">Статический IP-адрес</string>
@@ -134,8 +134,8 @@
   <string name="beam_share_mgmt_notification_ticker">История Луч доля</string>
   <string name="beam_share_mgmt_notification_title">История Луч доля</string>
   <string name="beam_share_mgmt_notification_message">"Выберите, чтобы просмотреть историю Луч акцию."</string>
-  <string name="beam_share_mgmt_tab_menu_clear">"Удалить все настройки веб-сайтов?"</string>
-  <string name="beam_share_open_file_dialog_title">Невозможно открыть файл.</string>
+  <string name="beam_share_mgmt_tab_menu_clear">Удалить все настройки веб-сайтов</string>
+  <string name="beam_share_open_file_dialog_title">Невозможно открыть файл</string>
   <string name="beam_share_open_file_unsupported_message">Невозможно открыть файл.</string>
   <string name="beam_share_open_file_not_found_message">"Файл не найден: %1$s</string>
   <string name="beam_share_transfer_fail_dialog_title">"Луч не удалось"</string>
@@ -156,7 +156,7 @@
   <string name="nfc_card_emulation_category_title">режим эмуляции карты</string>
   <string name="nfc_card_emulation">Эмуляция карты</string>
   <string name="card_emulation_settings_category_title">доступный элемент защиты</string>
-  <string name="card_emulation_settings_no_element_found">Нет доступного элемента защиты</string>
+  <string name="card_emulation_settings_no_element_found">Нет доступного элемента защиты.</string>
   <string name="card_emulation_settings_off_text">Для просмотра элемента защиты включите режим эмуляции карты.</string>
   <string name="card_emulation_turning_off_text">Отключение режима эмуляции карты...</string>
   <string name="card_emulation_turning_on_text">Включение режима эмуляции карты...</string>
@@ -322,8 +322,8 @@
   <string name="input_wifi_password">Пожалуйста, введите пароль беспроводной сети</string>
   <string name="input_wifi_user">Введите имя пользователя</string>
   <string name="input_wifi_ssid">Введите название сети</string>
-  <string name="getingip">Получение IP-адреса...</string>
-  <string name="authenticating">Авторизация...</string>
+  <string name="getingip">Получение IP-адреса…</string>
+  <string name="authenticating">Авторизация…</string>
   <string name="ip_address">IP-адрес</string>
   <string name="net_mask">Маска подсети</string>
   <string name="gateway">Шлюз</string>
@@ -335,7 +335,7 @@
   <string name="proxy_port">Порт</string>
   <string name="proxy_excl">Исключать URL</string>
   <string name="ignore_network">Игнорировать эту сеть</string>
-  <string name="connecting">Подключение...</string>
+  <string name="connecting">Подключение…</string>
   <string name="connected">Подключено</string>
   <string name="input_wifi_security">Настройте безопасность</string>
   <string name="is_searching_wifi">Поиск сети</string>
@@ -343,8 +343,8 @@
   <string name="add_ap">Добавить сеть</string>
   <string name="skip_setting">Временно пропустить настройку сети</string>
   <string name="static_ip">Статический IP-адрес</string>
-  <string name="switcher_on">Вкл.</string>
-  <string name="switcher_off">Откл.</string>
+  <string name="switcher_on">Включить</string>
+  <string name="switcher_off">Отключить</string>
   <string name="ethernet">Проводная сеть</string>
   <string name="ethernet_desc">Настройки проводной сети</string>
   <string name="ethernet_invalid_netmask">Укажите корректную маску подсети</string>
@@ -384,7 +384,7 @@
   <string name="fr_skip_cancel_button_string">Нет</string>
   <string name="fr_skip_title1">Пропустить</string>
   <string name="fr_skip_title2">Пропустить?</string>
-  <string name="fr_skip_subtitle_string1">Не настраивать сеть</string>
+  <string name="fr_skip_subtitle_string1">Не настраивать сеть?</string>
   <string name="fr_skip_subtitle_string2">Это приведет к невозможности использования сетевого доступа</string>
   <string name="fr_skip_subtitle_string3">Вы сможете подключиться к сети в настройках</string>
   <string name="eth_setting_title_string">Проводная сеть</string>
@@ -408,7 +408,7 @@
   <string name="xiaoqiang_connect_method1">Метод 1: пожалуйста, введите пароль</string>
   <string name="xiaoqiang_connect_method2">Метод 2: быстрое подключение</string>
   <string name="xiaoqiang_connect_method2_desc">Свяжитесь с администратором роутера для авторизации вашего подключения</string>
-  <string name="waiting_xiaoqiang_manager">Ожидание авторизации подключения администратором...</string>
+  <string name="waiting_xiaoqiang_manager">Ожидание авторизации подключения администратором…</string>
   <string name="re_connect">Подключиться</string>
   <string name="wifi_title">Подключитесь к беспроводной сети</string>
   <string name="wifi_skip">Пропустить</string>
