@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="app_name">"Администратор устройства"</string>
-    <string name="provisioning_error_title">"Ошибка"</string>
+    <string name="provisioning_error_title">Ошибка!</string>
     <string name="setup_work_space">"Настройка профиля"</string>
     <string name="company_controls_workspace">"Ваша организация управляет этим профилем и обеспечивает его защиту. Ко всем остальным данным, приложениям и настройкам на устройстве есть доступ только у вас."</string>
     <string name="the_following_is_your_mdm">"Доступ к этому профилю потребуется следующему приложению:"</string>
@@ -10,7 +10,7 @@
     <string name="admin_has_ability_to_monitor_profile">"Администратор может контролировать настройки, приложения и параметры доступа к корпоративным ресурсам в этом профиле, а также связанные с ним данные, например сведения о местоположении или действиях в Сети."</string>
     <string name="admin_has_ability_to_monitor_device">"Администратор может контролировать настройки, приложения и параметры доступа к корпоративным ресурсам на этом устройстве, а также связанные с ним данные, например сведения о местоположении или действиях в Сети."</string>
     <string name="contact_your_admin_for_more_info">"Обратитесь к администратору за дополнительной информацией, в том числе политикой конфиденциальности вашей организации."</string>
-    <string name="learn_more_link">"Подробнее…"</string>
+    <string name="learn_more_link">Подробнее</string>
     <string name="cancel_setup">"Отмена"</string>
     <string name="ok_setup">"ОК"</string>
     <string name="default_managed_profile_name">"Рабочий профиль"</string>
@@ -49,7 +49,7 @@
     <string name="device_owner_error_package_invalid">"Нельзя использовать приложение для администрирования, так как в нем не хватает компонентов или они повреждены. Обратитесь в отдел технической поддержки вашей компании."</string>
     <string name="device_owner_error_installation_failed">"Не удалось установить приложение для администрирования"</string>
     <string name="device_owner_error_package_not_installed">"На вашем устройстве не установлено приложение для администрирования"</string>
-    <string name="profile_owner_cancel_title">"Подтвердите действие"</string>
+    <string name="profile_owner_cancel_title">Подтвердите действие?</string>
     <string name="profile_owner_cancel_message">"Прервать настройку?"</string>
     <string name="profile_owner_cancel_cancel">"Нет"</string>
     <string name="profile_owner_cancel_ok">"Да"</string>
