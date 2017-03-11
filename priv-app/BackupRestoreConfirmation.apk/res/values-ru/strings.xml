@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="backup_confirm_title">"Полное резервное копирование"</string>
     <string name="restore_confirm_title">"Полное восстановление"</string>
     <string name="backup_confirm_text">Запрошено резервное копирование всех данных на подключенном компьютере. Разрешить?
+
 Если вы не запрашивали этого, не разрешайте выполнение операции.</string>
     <string name="allow_backup_button_label">"Создать резервную копию данных"</string>
     <string name="deny_backup_button_label">"Не создавать резервную копию"</string>
