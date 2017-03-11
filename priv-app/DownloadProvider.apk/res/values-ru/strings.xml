@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="app_label">"Диспетчер загрузки"</string>
     <string name="permlab_downloadManager">"Доступ к менеджеру загрузки."</string>
@@ -16,10 +16,10 @@
     <string name="permlab_accessAllDownloads">"Доступ ко всем загрузкам"</string>
     <string name="permdesc_accessAllDownloads">"Позволяет приложению считывать и изменять все загрузки, запущенные любым приложением в системе."</string>
     <string name="download_unknown_title">"&lt;без названия&gt;"</string>
-    <string name="notification_download_complete">"Загрузка завершена"</string>
-    <string name="notification_download_failed">"Ошибка загрузки"</string>
-    <string name="notification_need_wifi_for_size">"Размер файла требует Wi-Fi"</string>
-    <string name="notification_paused_in_background">"Загрузка приостановлена"</string>
+    <string name="notification_download_complete">Загрузка завершена.</string>
+    <string name="notification_download_failed">Ошибка загрузки.</string>
+    <string name="notification_need_wifi_for_size">Размер файла требует Wi-Fi.</string>
+    <string name="notification_paused_in_background">Загрузка приостановлена.</string>
     <string name="wifi_required_title">"Слишком большой файл для сети оператора"</string>
     <string name="wifi_required_body" formatted="false">"Необходимо использовать Wi-Fi для выполнения этой загрузки (%s ). "\n\n"Нажмите %s , чтобы начать эту загрузку в следующий раз, когда подключитесь к сети Wi-Fi."</string>
     <string name="wifi_recommended_title">"Поставить в очередь на загрузку позже?"</string>
@@ -41,9 +41,9 @@
       	<item quantity="other">Скачивается %d файла</item>
     </plurals>
     <plurals name="notif_summary_waiting">
-        <item quantity="one">Ожидается скачивание %d файла…</item>
-      	<item quantity="few">Ожидается скачивание %d файлов…</item>
-      	<item quantity="many">Ожидается скачивание %d файлов…</item>
-      	<item quantity="other">Ожидается скачивание %d файла…</item>
-    </plurals>
+	<item quantity="one">Ожидается скачивание %d файла</item>
+	<item quantity="few">Ожидается скачивание %d файлов</item>
+	<item quantity="many">Ожидается скачивание %d файлов</item>
+	<item quantity="other"/>
+</plurals>
 </resources>
