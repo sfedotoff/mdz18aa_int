@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_weather_signs">
+        <item>Солнечно</item>
+        <item>Облачно</item>
+        <item>Прогноз</item>
+        <item>Ливень</item>
+        <item>Гроза</item>
+        <item>Гроза с градом</item>
+        <item>Мокрый снег</item>
+        <item>Легкий дождь</item>
+        <item>Дождь</item>
+        <item>Сильный дождь</item>
+        <item>Гроза с дождем</item>
+        <item>Гроза с сильным дождем</item>
+        <item>Гроза с проливным дождем</item>
+        <item>Метель</item>
+        <item>Легкий снег</item>
+        <item>Снег</item>
+        <item>Сильный снег</item>
+        <item>Вьюга</item>
+        <item>Туман</item>
+        <item>Ледяной дождь</item>
+        <item>Пыльная буря</item>
+        <item>Небольшой дождь</item>
+        <item>Дождь</item>
+        <item>Сильный дождь</item>
+        <item>Ливневый дождь</item>
+        <item>Проливной дождь</item>
+        <item>Проливной дождь</item>
+        <item>Снег</item>
+        <item>Сильный снег</item>
+        <item>Пылевая взвесь</item>
+        <item>Песчаная буря</item>
+        <item>Сильная песчаная буря</item>
+        <item>Сильный туман</item>
+        <item>Снег</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Сильный туман</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Дымка</item>
+        <item>Дымка</item>
+        <item>Сильная дымка</item>
+        <item>Смог</item>
+        <item>Туман</item>
+        <item>Сильный туман</item>
+    </string-array>
+</resources>

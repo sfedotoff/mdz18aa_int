@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/item_mirrlvImage" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="100.0dip" android:src="@android:drawable/sym_def_app_icon" android:layout_alignParentLeft="true" />
+    <TextView android:textSize="20.0sp" android:id="@id/item_mirrlvText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/mirrlist_devices" android:layout_toRightOf="@id/item_mirrlvImage" android:layout_alignBottom="@id/item_mirrlvImage" />
+</RelativeLayout>

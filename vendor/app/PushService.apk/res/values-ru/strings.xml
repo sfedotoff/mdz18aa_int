@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Xiaomi sync</string>
+    <string name="sync_item_sms_title">Синхронизировать SMS</string>
+    <string name="sync_item_sms_summary">Включить после синхронизации SMS</string>
+    <string name="sub_sync_item_sms_title_wifi_only">Синхронизировать MMS: только WiFi</string>
+    <string name="sub_sync_item_sms_summary">Рекомендуется включить, в противном случае возрастут расходы на услуги связи</string>
+    <string name="pref_title_sync_contacts_title">Синхронизировать контакты</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only">Фото: только WiFi</string>
+    <string name="pref_summary_sync_display_photo_on_wifi_only">Рекомендуется включить, в противном случае возрастут расходы на услуги связи</string>
+    <string name="find_device">Поиск устройства</string>
+    <string name="find_device_stop_noise">Нажмите ОК для прекращения звукового сигнала</string>
+</resources>

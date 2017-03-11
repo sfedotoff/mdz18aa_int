@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screensaver_policy">
+        <item>Off</item>
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>4 minutes</item>
+        <item>8 minutes</item>
+        <item>12 minutes</item>
+    </string-array>
+    <integer-array name="screensaver_policy_values">
+        <item>-1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>8</item>
+        <item>12</item>
+    </integer-array>
+    <string-array name="display_sound_profile">
+        <item>Standard</item>
+        <item>User</item>
+        <item>Display</item>
+        <item>Cinema</item>
+        <item>Game</item>
+        <item>Enhance</item>
+        <item>Sport</item>
+        <item>Monitor</item>
+    </string-array>
+    <string-array name="display_sound_profile_desc">
+        <item>Standard image and audio</item>
+        <item>Use custom display settings</item>
+        <item>Optimised for display use</item>
+        <item>Recover film texture on screen</item>
+        <item>Optimised for gaming</item>
+        <item>Best for colourful images</item>
+        <item>Reduces blur for rapid movements</item>
+        <item>Optimised for computer monitors</item>
+    </string-array>
+    <string-array name="display_parameters">
+        <item>Brightness</item>
+        <item>Contrast</item>
+        <item>Saturation</item>
+        <item>Sharpness</item>
+        <item>Hue</item>
+        <item>Colors</item>
+    </string-array>
+    <string-array name="display_parameters_inception_box">
+        <item>Brightness</item>
+        <item>Contrast</item>
+        <item>Saturation</item>
+        <item>Sharpness</item>
+        <item>Hue</item>
+    </string-array>
+    <string-array name="display_color_temperatures">
+        <item>Cold</item>
+        <item>Standard</item>
+        <item>Warm</item>
+        <item>custom</item>
+    </string-array>
+    <string-array name="sound_input">
+        <item>Bluetooth</item>
+        <item>spdif</item>
+        <item>aux</item>
+    </string-array>
+    <string-array name="sound_interface">
+        <item>HDMI ARC</item>
+        <item>AMP</item>
+        <item>SPDIF</item>
+    </string-array>
+    <string-array name="sound_output">
+        <item>TV speaker</item>
+        <item>External speaker</item>
+    </string-array>
+    <string-array name="sound_output_desc">
+        <item>TV speaker output</item>
+        <item>External speaker output</item>
+    </string-array>
+    <string-array name="xiaomi_sound_output">
+        <item>TV speaker</item>
+        <item>Bar &amp; woofer</item>
+        <item>External</item>
+    </string-array>
+    <string-array name="xiaomi_sound_output_desc">
+        <item>TV speaker</item>
+        <item>Bar &amp; woofer</item>
+        <item>External</item>
+    </string-array>
+    <string-array name="soundBar_customize">
+        <item>High frequency</item>
+        <item>Medium frequency</item>
+        <item>Low frequency</item>
+        <item>Ultra low frequency</item>
+    </string-array>
+    <string-array name="SPDIF1">
+        <item>PCM</item>
+        <item>Raw data</item>
+        <item>Off</item>
+    </string-array>
+    <string-array name="SPDIF2">
+        <item>Disable</item>
+        <item>Enable</item>
+    </string-array>
+    <string-array name="sound_output_inception">
+        <item>TV speaker</item>
+        <item>HDMI(ARC)</item>
+    </string-array>
+    <string-array name="xiaomi_sound_output_inception_desc">
+        <item>audio output by TV speaker</item>
+        <item>audio output by first HDMI port(ARC)</item>
+    </string-array>
+    <string-array name="sound_output_inception_box">
+        <item>自带音响</item>
+        <item>Mi Port</item>
+    </string-array>
+    <string-array name="SPDIF_INCEPTION">
+        <item>PCM</item>
+        <item>Raw data</item>
+    </string-array>
+    <string-array name="sound_output_pulpfiction">
+        <item>Speaker</item>
+        <item>HDMI(ARC)</item>
+        <item>S/PDIF</item>
+        <item>Mi Soundbar</item>
+    </string-array>
+    <string-array name="xiaomi_sound_output_pulpfiction_desc">
+        <item>Sound is output through the TV speaker</item>
+        <item>Sound is output to the amplifier via the HDMI port (ARC)</item>
+        <item>Sound is output to the amplifier via S/PDIF</item>
+        <item>Mi Home Theater system</item>
+    </string-array>
+    <string-array name="sound_output_missionImpossible">
+        <item>Speaker</item>
+        <item>HDMI(ARC)</item>
+        <item>S/PDIF</item>
+    </string-array>
+    <string-array name="xiaomi_sound_output_missionImpossible_desc">
+        <item>Sound is output through the TV speaker</item>
+        <item>Sound is output to the amplifier via the HDMI port (ARC)</item>
+        <item>Sound is output to the amplifier via S/PDIF</item>
+    </string-array>
+    <string-array name="sound_output_rainman">
+        <item>Speaker</item>
+        <item>HDMI(ARC)</item>
+        <item>S/PDIF</item>
+        <item>Headphones</item>
+    </string-array>
+    <string-array name="xiaomi_sound_output_rainman_desc">
+        <item>Sound is output through the TV speaker</item>
+        <item>Sound is output to the amplifier via the HDMI port (ARC)</item>
+        <item>Sound is output to the amplifier via S/PDIF</item>
+        <item>Sound is output to headphones</item>
+    </string-array>
+    <string-array name="acoustics">
+        <item>Balance</item>
+        <item>Clear</item>
+        <item>Strong</item>
+    </string-array>
+    <string-array name="SPDIF_desc">
+        <item>2-channel</item>
+        <item>5.1-channel</item>
+        <item>Turn off for analog audio</item>
+    </string-array>
+    <string-array name="priority">
+        <item>Bluetooth first</item>
+        <item>Recent device first</item>
+    </string-array>
+    <string-array name="recovery_retain">
+        <item>Keep</item>
+        <item>Delete</item>
+    </string-array>
+    <string-array name="box_sound_output">
+        <item>Analog audio</item>
+        <item>S/PDIF-PCM</item>
+        <item>S/PDIF-Raw</item>
+    </string-array>
+    <string-array name="sd_install_policy">
+        <item>Disabled</item>
+        <item>Apps only</item>
+        <item>Apps and data</item>
+    </string-array>
+    <string-array name="screensaver_interval_policy">
+        <item>Always</item>
+        <item>5 minutes</item>
+        <item>30 minutes</item>
+        <item>Never</item>
+    </string-array>
+    <integer-array name="screensaver_interval_values">
+        <item>0</item>
+        <item>5</item>
+        <item>30</item>
+        <item>-1</item>
+    </integer-array>
+    <string-array name="udisk_install_policy">
+        <item>Off</item>
+        <item>On</item>
+    </string-array>
+    <string-array name="wb_policy">
+        <item>Red gain</item>
+        <item>Green gain</item>
+        <item>Blue gain</item>
+        <item>Red offset</item>
+        <item>Green offset</item>
+        <item>Blue offset</item>
+    </string-array>
+    <string-array name="ble_touch_option">
+        <item>Off</item>
+        <item>On</item>
+        <item>Rotation only</item>
+        <item>Swipes only</item>
+    </string-array>
+    <string-array name="screen_style_array">
+        <item>Fashion</item>
+        <item>Clock 04</item>
+        <item>Clock 01</item>
+        <item>Clock 03</item>
+        <item>World clock</item>
+        <item>Clock 02</item>
+        <item>Page clock 02</item>
+        <item>Page clock 01</item>
+        <item>Clock 05</item>
+    </string-array>
+    <integer-array name="screen_style_id">
+        <item>0</item>
+        <item>7</item>
+        <item>6</item>
+        <item>4</item>
+        <item>2</item>
+        <item>5</item>
+        <item>3</item>
+        <item>1</item>
+        <item>8</item>
+    </integer-array>
+    <string-array name="device_names">
+        <item>Mi Box - Living room</item>
+        <item>Mi Box - Bedroom</item>
+        <item>Mi Box - Guest room</item>
+        <item>Mi Box - Study room</item>
+        <item>Customise</item>
+    </string-array>
+    <string-array name="device_names_project">
+        <item>Mi TV - Living room</item>
+        <item>Mi TV - Bedroom</item>
+        <item>Mi TV - Guest room</item>
+        <item>Mi TV - Study room</item>
+        <item>Customise</item>
+    </string-array>
+    <string-array name="sleep_policy">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>60 minutes</item>
+        <item>90 minutes</item>
+        <item>120 minutes</item>
+        <item>Never</item>
+    </string-array>
+    <integer-array name="sleep_policy_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>2147483647</item>
+    </integer-array>
+</resources>

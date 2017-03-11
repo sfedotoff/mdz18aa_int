@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="share_reason_video_recommand_texts">
+        <item>Актер такой красавчик!</item>
+        <item>А ты помнишь тот фильм, который мы смотрели в кинотеатре?</item>
+        <item>Посмотри, этот фильм просто прекрасен.</item>
+        <item>Следи за временем, чтобы не опоздать с попкорном и салфетками.</item>
+        <item>Этот фильм стоит посмотреть.</item>
+        <item>Это просто хит.</item>
+        <item>Мне кажется, это тебе понравится.</item>
+        <item>Отличный фильм.</item>
+    </string-array>
+    <string-array name="share_reason_app_recommand_texts">
+        <item>Это очень практичное приложение</item>
+        <item>Это невероятное приложение</item>
+        <item>Затягивает</item>
+        <item>С недавних пор это приложение очень популярно</item>
+        <item>Это крутая игра!</item>
+    </string-array>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Профиль</string>
+    <string name="str_user_history">История</string>
+    <string name="str_bookmark">Избранное</string>
+    <string name="str_user_payment">Покупки</string>
+    <string name="str_movie">Фильмы</string>
+    <string name="str_tv">ТВ</string>
+    <string name="str_update">Доступны новые эпизоды</string>
+    <string name="str_login">Войти</string>
+    <string name="str_logout">Выйти</string>
+    <string name="str_register">Создать аккаунт</string>
+    <string name="str_no_data_history">Пусто</string>
+    <string name="str_no_data_bookmark">Пусто</string>
+    <string name="str_no_data_payment">Пусто</string>
+    <string name="str_findmovie">Поиск</string>
+    <string name="str_month_day_format">dd.MMM</string>
+    <string name="str_month_format">MMM</string>
+    <string name="str_valid_time">Действует с:</string>
+    <string name="str_expirated_time">Истекает:</string>
+    <string name="today">Сегодня</string>
+    <string name="yesterday">Вчера</string>
+    <string name="the_day_before_yesterday">Позавчера</string>
+    <string name="earlier">Ранее</string>
+    <string name="datetimeformat">d MMM yyyy HH:mm:ss</string>
+    <string name="datetimeformatv2">d MMM yyyy HH:mm:ss</string>
+    <string name="str_media_offline">Этот элемент более недоступен</string>
+    <string name="str_order_type_shop">Магазин MiTV</string>
+    <string name="str_order_type_video">Видео</string>
+    <string name="str_order_video_valid">Действует</string>
+    <string name="str_order_video_invalid">Истекло</string>
+    <string name="str_title_type">Тип</string>
+    <string name="str_title_name">Название</string>
+    <string name="str_title_status">Статус</string>
+    <string name="str_title_amount">Количество</string>
+    <string name="str_title_paytime">Дата платежа</string>
+    <string name="str_title_name_total_pre">...（всего</string>
+    <string name="str_title_name_total_last">）</string>
+    <plurals name="str_mibi">
+        <item quantity="other">Mi Кредиты</item>
+        <item quantity="one">Mi Кредит</item>
+    </plurals>
+    <plurals name="str_rmb">
+        <item quantity="other">Юани</item>
+        <item quantity="one">Юань</item>
+    </plurals>
+</resources>

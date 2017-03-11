@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Milink-Photo-Show"</string>
+    <string name="action_settings">"Настройки"</string>
+    <string name="hello_world">"Hello world!"</string>
+    <string name="menu_settings">"Настройки"</string>
+    <string name="showtype_sliding">"Слайдшоу"</string>
+    <string name="showtype_gallerywall">"Стена фото"</string>
+    <string name="receiving_photo_text">"Получение фото от: %s"</string>
+    <string name="default_device_name">"Мобильный телефон"</string>
+</resources>

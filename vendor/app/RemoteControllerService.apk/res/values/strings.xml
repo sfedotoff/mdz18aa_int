@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RemoteControllerService</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="loading"><CDATA>Loading...</CDATA></string>
+    <string name="share_friends_search_default_text">Find friends</string>
+    <string name="video_play">Play</string>
+    <string name="app_details">Details</string>
+    <string name="platform_box">Mi Box</string>
+    <string name="platform_tv">Mi TV</string>
+    <string name="platform_others">Others</string>
+    <string name="video_type">Video for you</string>
+    <string name="app_type">App for you</string>
+    <string name="confirm">OK</string>
+    <string name="share_input_message">Information</string>
+    <string name="get_share_friends_fail"><CDATA>Unable to get friends list...</CDATA></string>
+    <string name="share_input_default_message">Something cool, you should see</string>
+    <string name="share_reason_confirm">OK</string>
+    <string name="share_reason_cancel">Cancel</string>
+    <string name="share_reason_title">Message</string>
+    <string name="mihome_remote_logout_main">Your account was logged in remotely</string>
+    <string name="mihome_remote_logout_title">Sign in to change</string>
+    <string name="a_code_title">Verification code</string>
+    <string name="a_code_content_font">sans-serif-light</string>
+    <string name="a_code_note_1">Press</string>
+    <string name="a_code_note_2">to return</string>
+    <string name="upgrade_assistant_app_tip">Update MiTVAssistant app</string>
+    <string name="retry_too_many_times_tip">Too many failures, please try again in 24 hours</string>
+    <string name="notification_title">Attention</string>
+    <string name="notification_des">You entered wrong verification code multiple times, attack suspected</string>
+    <string name="modify_device_name">Device name has been changed to:</string>
+</resources>

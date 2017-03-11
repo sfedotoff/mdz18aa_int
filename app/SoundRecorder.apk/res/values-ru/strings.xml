@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Диктофон"</string>
+    <string name="record_your_message">"Запишите сообщение"</string>
+    <string name="message_recorded">"Сообщение записано"</string>
+    <string name="review_message">"Просмотреть сообщение"</string>
+    <string name="recording">"Запись"</string>
+    <string name="recording_stopped">"Запись остановлена"</string>
+    <string name="storage_is_full">"Память заполнена"</string>
+    <string name="max_length_reached">"Достигнута максимальная длина"</string>
+    <string name="insert_sd_card">"Вставьте SD-карту"</string>
+    <string name="min_available">"Осталось %d мин."</string>
+    <string name="sec_available">"Осталось %d сек."</string>
+    <string name="accept">"Использовать эту запись"</string>
+    <string name="discard">"Отменить"</string>
+    <string name="button_ok">"ОК"</string>
+    <string name="audio_db_artist_name">"Ваши записи"</string>
+    <string name="audio_db_album_name">"Аудиозаписи"</string>
+    <string name="audio_db_playlist_name">"Мои записи"</string>
+    <string name="error_sdcard_access">"Не удалось получить доступ к SD-карте"</string>
+    <string name="error_app_internal">"Внутренняя ошибка приложения"</string>
+    <string name="error_mediadb_new_record">"Не удалось сохранить аудиозапись"</string>
+</resources>

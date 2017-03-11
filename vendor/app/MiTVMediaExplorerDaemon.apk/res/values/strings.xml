@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiTVMediaExplorerDaemon</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_usb_device">New USB device was detected</string>
+    <string name="new_sdcard_device">New Micro SD card was detected</string>
+    <string name="open">Open</string>
+    <string name="cancel">Cancel</string>
+    <string name="default_name">Mobile storage</string>
+    <string name="sd_is_down_title">USB storage removed</string>
+    <string name="sd_is_unmounted_toast">MicroSD removed</string>
+</resources>

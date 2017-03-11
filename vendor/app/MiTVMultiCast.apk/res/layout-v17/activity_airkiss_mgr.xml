@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/airkiss_bg_imgage" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/weixin_mgr" />
+    <LinearLayout android:id="@id/ll_usr" android:layout_width="350.0dip" android:layout_height="wrap_content" android:layout_marginRight="75.0dip" android:layout_marginBottom="200.0dip" android:layout_alignRight="@id/airkiss_bg_imgage" android:layout_alignBottom="@id/airkiss_bg_imgage" android:layout_centerInParent="true" android:layout_alignEnd="@id/airkiss_bg_imgage">
+        <FrameLayout android:id="@id/weixin_add" android:background="@drawable/selector_webchat_add_button_hiligt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="15.0dip">
+            <Button android:id="@id/imageButton" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </FrameLayout>
+        <RelativeLayout android:id="@id/rl_usr_1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="15.0dip">
+            <com.xiaomi.mitv.smartshare.CircularImageView android:id="@id/userimage1" android:visibility="invisible" android:layout_width="70.0dip" android:layout_height="70.0dip" android:src="@android:drawable/sym_def_app_icon" />
+            <TextView android:textColor="@color/white" android:id="@id/username1" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/user" android:layout_below="@id/userimage1" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/rl_usr_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="15.0dip">
+            <com.xiaomi.mitv.smartshare.CircularImageView android:id="@id/userimage2" android:visibility="invisible" android:layout_width="70.0dip" android:layout_height="70.0dip" android:src="@android:drawable/sym_def_app_icon" />
+            <TextView android:textColor="@color/white" android:id="@id/username2" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/user" android:layout_below="@id/userimage2" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/rl_usr_3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="15.0dip">
+            <com.xiaomi.mitv.smartshare.CircularImageView android:id="@id/userimage3" android:visibility="invisible" android:layout_width="70.0dip" android:layout_height="70.0dip" android:src="@android:drawable/sym_def_app_icon" />
+            <TextView android:textColor="@color/white" android:id="@id/username3" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/user" android:layout_below="@id/userimage3" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+        </RelativeLayout>
+    </LinearLayout>
+    <FrameLayout android:id="@id/fl_function" android:background="@drawable/selector_button_hiligt" android:layout_width="163.19998dip" android:layout_height="64.599976dip" android:layout_alignLeft="@id/ll_usr" android:layout_alignTop="@id/fl_bingmgr" android:layout_alignStart="@id/ll_usr">
+        <Button android:textSize="15.0sp" android:textColor="#ffffffff" android:layout_gravity="center" android:id="@id/Functionbutton" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/function_desc" android:alpha="0.6" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/fl_bingmgr" android:background="@drawable/selector_button_hiligt" android:layout_width="163.19998dip" android:layout_height="64.599976dip" android:layout_marginLeft="36.0dip" android:layout_marginBottom="96.0dip" android:layout_toRightOf="@id/fl_function" android:layout_alignParentBottom="true" android:layout_marginStart="36.0dip" android:layout_toEndOf="@id/fl_function">
+        <Button android:textSize="15.0sp" android:textColor="#ffffffff" android:layout_gravity="center" android:id="@id/BindMgrbutton" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/binding_management" android:alpha="0.6" />
+    </FrameLayout>
+</RelativeLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="share_reason_video_recommand_texts">
+        <item>The actor is so cute!</item>
+        <item>Remember the movie we have seen at the cinema?</item>
+        <item>Watch it, this movie is superb.</item>
+        <item>Watch your time not to be late with popcorn.</item>
+        <item>This movie is worth watching.</item>
+        <item>This is a definite hit.</item>
+        <item>I think you are going to like it.</item>
+        <item>Great movie.</item>
+    </string-array>
+    <string-array name="share_reason_app_recommand_texts">
+        <item>This app is very useful</item>
+        <item>This is an incredible app</item>
+        <item>Steals my heart</item>
+        <item>This app has been very popular lately</item>
+        <item>This is a cool game!</item>
+    </string-array>
+</resources>

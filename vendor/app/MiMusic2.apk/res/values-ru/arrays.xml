@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dolby_list">
+        <item>Dolby Music</item>
+        <item>Dolby Movie</item>
+        <item>Откл.</item>
+        <item>Другой</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiUtilRes</string>
+    <string name="mitv_framework_res_global_ok">OK</string>
+    <string name="mitv_framework_res_global_cancel">Отмена</string>
+    <string name="mitv_framework_res_global_neutral">Выход</string>
+    <string name="mitv_framework_res_global_attention">Внимание</string>
+    <string name="mitv_framework_res_global_menu">Меню</string>
+</resources>

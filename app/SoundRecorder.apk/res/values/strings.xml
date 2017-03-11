@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sound Recorder</string>
+    <string name="record_your_message">Record your message</string>
+    <string name="message_recorded">Message recorded</string>
+    <string name="review_message">Review message</string>
+    <string name="recording">Recording</string>
+    <string name="recording_stopped">Recording stopped</string>
+    <string name="storage_is_full">Storage is full</string>
+    <string name="max_length_reached">Maximum length reached</string>
+    <string name="insert_sd_card">Insert an SD card</string>
+    <string name="min_available">%d min available</string>
+    <string name="sec_available">%ds available</string>
+    <string name="accept">Done</string>
+    <string name="discard">Discard</string>
+    <string name="button_ok">OK</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
+    <string name="audio_db_artist_name">Your recordings</string>
+    <string name="audio_db_album_name">Audio recordings</string>
+    <string name="audio_db_playlist_name">My recordings</string>
+    <string name="error_sdcard_access">"Can't access SD card."</string>
+    <string name="error_app_internal">Internal application error.</string>
+    <string name="error_mediadb_new_record">"Couldn't save recorded audio."</string>
+</resources>

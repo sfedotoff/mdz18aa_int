@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Downloads</string>
+    <string name="download_title_sorted_by_date">Downloads - Sorted by date</string>
+    <string name="download_title_sorted_by_size">Downloads - Sorted by size</string>
+    <string name="no_downloads">No downloads.</string>
+    <string name="missing_title">&lt;Unknown></string>
+    <string name="button_sort_by_size">Sort by size</string>
+    <string name="button_sort_by_date">Sort by date</string>
+    <string name="download_queued">Queued</string>
+    <string name="download_running">In progress</string>
+    <string name="download_success">Complete</string>
+    <string name="download_error">Unsuccessful</string>
+    <string name="dialog_title_not_available">"Couldn't download"</string>
+    <string name="dialog_failed_body">Do you want to retry downloading the file later or delete it from the queue?</string>
+    <string name="dialog_title_queued_body">File in queue</string>
+    <string name="dialog_queued_body">"This file is queued for future download so isn't available yet."</string>
+    <string name="dialog_file_missing_body">"Can't find the downloaded file."</string>
+    <string name="dialog_insufficient_space_on_external">"Can't finish download. There isn't enough space on external storage."</string>
+    <string name="dialog_insufficient_space_on_cache">"Can't finish download. There isn't enough space on internal download storage."</string>
+    <string name="dialog_cannot_resume">"Download was interrupted and can't be resumed."</string>
+    <string name="dialog_file_already_exists">"Can't download. The destination file already exists."</string>
+    <string name="dialog_media_not_found">"Can't download. The external media isn't available."</string>
+    <string name="download_no_application_title">"Can't open file"</string>
+    <string name="remove_download">Remove</string>
+    <string name="delete_download">Delete</string>
+    <string name="keep_queued_download">Keep</string>
+    <string name="cancel_running_download">Cancel</string>
+    <string name="retry_download">Retry</string>
+    <string name="deselect_all">Deselect all</string>
+    <string name="select_all">Select all</string>
+    <string name="selected_count">Selected %1$d out of %2$d</string>
+    <string name="download_share_dialog">Share via</string>
+</resources>

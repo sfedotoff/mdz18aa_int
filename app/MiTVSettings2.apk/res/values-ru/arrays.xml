@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="screensaver_policy">
+    <item>Отключена</item>
+    <item>1 минута</item>
+    <item>2 минуты</item>
+    <item>4 минуты</item>
+    <item>8 минут</item>
+    <item>12 минут</item>
+  </string-array>
+  <integer-array name="screensaver_policy_values">
+    <item>-1</item>
+    <item>1</item>
+    <item>2</item>
+    <item>4</item>
+    <item>8</item>
+    <item>12</item>
+  </integer-array>
+  <string-array name="display_sound_profile">
+    <item>Стандарт</item>
+    <item>Пользовательский</item>
+    <item>Экран</item>
+    <item>Кино</item>
+    <item>Игра</item>
+    <item>Улучшенный</item>
+    <item>Спорт</item>
+    <item>Монитор</item>
+  </string-array>
+  <string-array name="display_sound_profile_desc">
+    <item>Стандартный звук и изображение</item>
+    <item>Использовать настройки</item>
+    <item>Оптимизировано для использования экрана</item>
+    <item>Улучшение отображения видео</item>
+    <item>Оптимизировано для игр</item>
+    <item>Лучше подходит для ярких изображений</item>
+    <item>Снижает размытие быстрых движений</item>
+    <item>Оптимизировано для компьютерных мониторов</item>
+  </string-array>
+  <string-array name="display_parameters">
+    <item>Яркость</item>
+    <item>Контраст</item>
+    <item>Насыщенность</item>
+    <item>Четкость</item>
+    <item>Оттенок</item>
+    <item>Цвета</item>
+  </string-array>
+  <string-array name="display_parameters_inception_box">
+    <item>Яркость</item>
+    <item>Контраст</item>
+    <item>Насыщенность</item>
+    <item>Четкость</item>
+    <item>Оттенок</item>
+  </string-array>
+  <string-array name="display_color_temperatures">
+    <item>Холодный</item>
+    <item>Стандартный</item>
+    <item>Теплый</item>
+    <item>Другой</item>
+  </string-array>
+  <string-array name="sound_input">
+    <item>Bluetooth</item>
+    <item>SPDIF</item>
+    <item>AUX</item>
+  </string-array>
+  <string-array name="sound_interface">
+    <item>HDMI ARC</item>
+    <item>AMP</item>
+    <item>SPDIF</item>
+  </string-array>
+  <string-array name="sound_output">
+    <item>Динамик ТВ</item>
+    <item>Внешние динамики</item>
+  </string-array>
+  <string-array name="sound_output_desc">
+    <item>Вывод на динамик ТВ</item>
+    <item>Вывод на внешние динамики</item>
+  </string-array>
+  <string-array name="xiaomi_sound_output">
+    <item>Динамик ТВ</item>
+    <item>Саундбар и сабвуфер</item>
+    <item>Внешний</item>
+  </string-array>
+  <string-array name="xiaomi_sound_output_desc">
+    <item>Динамик ТВ</item>
+    <item>Саундбар и сабвуфер</item>
+    <item>Внешний</item>
+  </string-array>
+  <string-array name="soundBar_customize">
+    <item>Высокая частота</item>
+    <item>Средняя частота</item>
+    <item>Низкая частота</item>
+    <item>Ультра низкая частота</item>
+  </string-array>
+  <string-array name="SPDIF1">
+    <item>PCM</item>
+    <item>Прямой вывод</item>
+    <item>Откл</item>
+  </string-array>
+  <string-array name="SPDIF2">
+    <item>Выключен</item>
+    <item>Включен</item>
+  </string-array>
+  <string-array name="sound_output_inception">
+    <item>Динамик ТВ</item>
+    <item>HDMI(ARC)</item>
+  </string-array>
+  <string-array name="xiaomi_sound_output_inception_desc">
+    <item>вывод звука на динамик ТВ</item>
+    <item>вывод звука на первый HDMI порт (ARC)</item>
+  </string-array>
+  <string-array name="sound_output_inception_box">
+    <item>Встроенные динамики</item>
+    <item>Mi Port</item>
+  </string-array>
+  <string-array name="SPDIF_INCEPTION">
+    <item>PCM</item>
+    <item>Прямой вывод</item>
+  </string-array>
+  <string-array name="sound_output_pulpfiction">
+    <item>Встроенные динамики</item>
+    <item>HDMI(ARC)</item>
+    <item>S/PDIF</item>
+    <item>Домашний кинотеатр Xiaomi</item>
+  </string-array>
+  <string-array name="xiaomi_sound_output_pulpfiction_desc">
+    <item>Звук выводится на встроенные динамики ТВ</item>
+    <item>Звук выводится на порт HDMI (ARC)</item>
+    <item>Звук выводится через интерфейс S/PDIF</item>
+    <item>Подключение системы домашнего кинотеатра Xiaomi</item>
+  </string-array>
+  <string-array name="sound_output_missionImpossible">
+    <item>Вывод на встроенные динамики ТВ</item>
+    <item>HDMI(ARC)</item>
+    <item>S/PDIF</item>
+  </string-array>
+  <string-array name="xiaomi_sound_output_missionImpossible_desc">
+    <item>Звук выводится на встроенные динамики ТВ</item>
+    <item>Звук выводится на порт HDMI (ARC)</item>
+    <item>Звук выводится через интерфейс S/PDIF</item>
+  </string-array>
+  <string-array name="sound_output_rainman">
+    <item>Встроенный динамик</item>
+    <item>HDMI(ARC)</item>
+    <item>S/PDIF</item>
+    <item>Наушники</item>
+  </string-array>
+  <string-array name="xiaomi_sound_output_rainman_desc">
+    <item>Звук выводится на встроенные динамики ТВ</item>
+    <item>Звук выводится на порт HDMI (ARC)</item>
+    <item>Звук выводится через интерфейс S/PDIF</item>
+    <item>Звук выводится через наушники</item>
+  </string-array>
+  <string-array name="acoustics">
+    <item>Баланс</item>
+    <item>Очистить</item>
+    <item>Усиление</item>
+  </string-array>
+  <string-array name="SPDIF_desc">
+    <item>2-канальный</item>
+    <item>5.1-канальный</item>
+    <item>Отключить для аналогового звука</item>
+  </string-array>
+  <string-array name="priority">
+    <item>Сначала Bluetooth</item>
+    <item>Сначала недавние устройства</item>
+  </string-array>
+  <string-array name="recovery_retain">
+    <item>Сохранить</item>
+    <item>Удалить</item>
+  </string-array>
+  <string-array name="box_sound_output">
+    <item>Аналоговое аудио</item>
+    <item>S/PDIF-PCM</item>
+    <item>S/PDIF прямой вывод</item>
+  </string-array>
+  <string-array name="sd_install_policy">
+    <item>Отключить</item>
+    <item>Только приложения</item>
+    <item>Приложения и данные</item>
+  </string-array>
+  <string-array name="screensaver_interval_policy">
+    <item>Всегда</item>
+    <item>5 минут</item>
+    <item>30 минут</item>
+    <item>Никогда</item>
+  </string-array>
+  <integer-array name="screensaver_interval_values">
+    <item>0</item>
+    <item>5</item>
+    <item>30</item>
+    <item>-1</item>
+  </integer-array>
+  <string-array name="udisk_install_policy">
+    <item>Откл</item>
+    <item>Вкл</item>
+  </string-array>
+  <string-array name="wb_policy">
+    <item>Усиление красного</item>
+    <item>Усиление зеленого</item>
+    <item>Усиление синего</item>
+    <item>Смещение красного</item>
+    <item>Смещение зеленого</item>
+    <item>Смещение синего</item>
+  </string-array>
+  <string-array name="ble_touch_option">
+    <item>Откл</item>
+    <item>Вкл</item>
+    <item>Только поворот</item>
+    <item>Только свайп</item>
+  </string-array>
+  <string-array name="screen_style_array">
+    <item>Мода</item>
+    <item>Часы 04</item>
+    <item>Часы 01</item>
+    <item>Часы 03</item>
+    <item>Мировые часы</item>
+    <item>Часы 02</item>
+    <item>Перекидные часы 02</item>
+    <item>Перекидные часы 01</item>
+    <item>Часы 05</item>
+  </string-array>
+  <integer-array name="screen_style_id">
+    <item>0</item>
+    <item>7</item>
+    <item>6</item>
+    <item>4</item>
+    <item>2</item>
+    <item>5</item>
+    <item>3</item>
+    <item>1</item>
+    <item>8</item>
+  </integer-array>
+  <string-array name="device_names">
+    <item>Mi Box - Зал</item>
+    <item>Mi Box - Спальня</item>
+    <item>Mi Box - Гостинная</item>
+    <item>Mi Box - Кабинет</item>
+    <item>Настроить</item>
+  </string-array>
+  <string-array name="device_names_project">
+      <item>Mi TV - Зал</item>
+      <item>Mi TV - Спальня</item>
+      <item>Mi TV - Гостинная</item>
+      <item>Mi TV - Кабинет</item>
+      <item>Настроить</item>
+  </string-array>
+  <string-array name="sleep_policy">
+    <item>15 минут</item>
+    <item>30 минут</item>
+    <item>60 минут</item>
+    <item>90 минут</item>
+    <item>120 минут</item>
+    <item>Никогда</item>
+  </string-array>
+  <integer-array name="sleep_policy_values">
+    <item>15</item>
+    <item>30</item>
+    <item>60</item>
+    <item>90</item>
+    <item>120</item>
+    <item>2147483647</item>
+  </integer-array>
+</resources>

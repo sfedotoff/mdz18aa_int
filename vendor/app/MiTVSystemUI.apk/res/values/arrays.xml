@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_weather_signs">
+        <item>Sunny</item>
+        <item>Cloudy</item>
+        <item>Overcast</item>
+        <item>Shower</item>
+        <item>Thunder Showers</item>
+        <item>Thunder Showers accompanied with Hails</item>
+        <item>Sleet</item>
+        <item>Light Rain</item>
+        <item>Moderate Rain</item>
+        <item>Heavy Rain</item>
+        <item>Rainstorm</item>
+        <item>Large Rainstorm</item>
+        <item>Extraordinary Rainstorm</item>
+        <item>Snow Showers</item>
+        <item>Light Snow</item>
+        <item>Moderate Snow</item>
+        <item>Heavy Snow</item>
+        <item>Snowstorm</item>
+        <item>Fog</item>
+        <item>Freezing Rain</item>
+        <item>Sand Storm</item>
+        <item>Light to Moderate Rain</item>
+        <item>Moderate to heavy rain</item>
+        <item>Heavy to Torrential Rain</item>
+        <item>Torrential Rain to the Rainstorm</item>
+        <item>Large to Extraordinary Rainstorm</item>
+        <item>Torrential Rain to the Rainstorm</item>
+        <item>Moderate to Heavy Snow</item>
+        <item>Heavy Snow to Snowstorm</item>
+        <item>Floating Dust</item>
+        <item>Blowing Sand</item>
+        <item>Strong Sandstorm</item>
+        <item>Dense Fog</item>
+        <item>Snow</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Strong Fog</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Haze</item>
+        <item>Moderate Haze</item>
+        <item>Heavy Haze</item>
+        <item>Airpocalypse Haze</item>
+        <item>Moderate Fog</item>
+        <item>Heavy Fog</item>
+    </string-array>
+</resources>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+    <item>"Оповещение"</item>
+    <item>"Эл. почта"</item>
+    <item>"SMS"</item>
+    <item>"Сигнал"</item>
+  </string-array>
+  <string-array name="reminder_minutes_labels">
+    <item>"0 минут"</item>
+    <item>"1 минута"</item>
+    <item>"5 минут"</item>
+    <item>"10 минут"</item>
+    <item>"15 минут"</item>
+    <item>"20 минут"</item>
+    <item>"25 минут"</item>
+    <item>"30 минут"</item>
+    <item>"45 минут"</item>
+    <item>"1 час"</item>
+    <item>"2 часа"</item>
+    <item>"3 часа"</item>
+    <item>"12 часов"</item>
+    <item>"24 часа"</item>
+    <item>"2 дня"</item>
+    <item>"1 неделя"</item>
+  </string-array>
+  <string-array name="preferences_default_reminder_labels">
+    <item>"Нет"</item>
+    <item>"0 минут"</item>
+    <item>"1 минута"</item>
+    <item>"5 минут"</item>
+    <item>"10 минут"</item>
+    <item>"15 минут"</item>
+    <item>"20 минут"</item>
+    <item>"25 минут"</item>
+    <item>"30 минут"</item>
+    <item>"45 минут"</item>
+    <item>"1 час"</item>
+    <item>"2 часа"</item>
+    <item>"3 часа"</item>
+    <item>"12 часов"</item>
+    <item>"24 часа"</item>
+    <item>"2 дня"</item>
+    <item>"1 неделя"</item>
+  </string-array>
+  <string-array name="preferences_week_start_day_labels">
+    <item>"Региональные настройки по умолчанию"</item>
+    <item>"суббота"</item>
+    <item>"воскресенье"</item>
+    <item>"понедельник"</item>
+  </string-array>
+  <string-array name="availability">
+    <item>"Занят"</item>
+    <item>"Доступен"</item>
+    <item>"Может быть"</item>
+  </string-array>
+  <string-array name="visibility">
+    <item>"По умолчанию"</item>
+    <item>"Закрытое"</item>
+    <item>"Для всех"</item>
+  </string-array>
+  <string-array name="ordinal_labels">
+    <item>"1"</item>
+    <item>"2"</item>
+    <item>"3"</item>
+    <item>"4"</item>
+    <item>"посл."</item>
+  </string-array>
+  <string-array name="response_labels1">
+    <item>"Не ответили"</item>
+    <item>"Да"</item>
+    <item>"Может быть"</item>
+    <item>"Нет"</item>
+  </string-array>
+  <string-array name="delete_repeating_labels">
+    <item>"Только это мероприятие"</item>
+    <item>"Это и будущие мероприятия"</item>
+    <item>"Все мероприятия"</item>
+  </string-array>
+  <string-array name="delete_repeating_labels_no_selected">
+    <item>"Это и будущие мероприятия"</item>
+    <item>"Все мероприятия"</item>
+  </string-array>
+  <string-array name="change_response_labels">
+    <item>"Только это мероприятие"</item>
+    <item>"Все мероприятия в серии"</item>
+  </string-array>
+  <string-array name="buttons_list">
+    <item>"День"</item>
+    <item>"Неделя"</item>
+    <item>"Месяц"</item>
+    <item>"Расписание"</item>
+  </string-array>
+  <string-array name="preferences_skip_reminders_labels">
+    <item>"Только если отклонено"</item>
+    <item>"Если отклонено или нет ответа"</item>
+  </string-array>
+  <string-array name="recurrence_freq">
+    <item>"ЕЖЕДНЕВНО"</item>
+    <item>"ЕЖЕНЕДЕЛЬНО"</item>
+    <item>"ЕЖЕМЕСЯЧНО"</item>
+    <item>"ЕЖЕГОДНО"</item>
+  </string-array>
+  <string-array name="repeat_by_nth_sun">
+    <item>"первое воскресенье месяца"</item>
+    <item>"второе воскресенье месяца"</item>
+    <item>"третье воскресенье месяца"</item>
+    <item>"четвертое воскресенье месяца"</item>
+    <item>"последнее воскресенье месяца"</item>
+  </string-array>
+  <string-array name="repeat_by_nth_mon">
+    <item>"первый понедельник месяца"</item>
+    <item>"второй понедельник месяца"</item>
+    <item>"третий понедельник месяца"</item>
+    <item>"четвертый понедельник месяца"</item>
+    <item>"последний понедельник месяца"</item>
+  </string-array>
+  <string-array name="repeat_by_nth_tues">
+    <item>"первый вторник месяца"</item>
+    <item>"второй вторник месяца"</item>
+    <item>"третий вторник месяца"</item>
+    <item>"четвертый вторник месяца"</item>
+    <item>"последний вторник месяца"</item>
+  </string-array>
+  <string-array name="repeat_by_nth_wed">
+    <item>"первая среда месяца"</item>
+    <item>"вторая среда месяца"</item>
+    <item>"третья среда месяца"</item>
+    <item>"четвертая среда месяца"</item>
+    <item>"последняя среда месяца"</item>
+  </string-array>
+  <string-array name="repeat_by_nth_thurs">
+    <item>"первый четверг месяца"</item>
+    <item>"второй четверг месяца"</item>
+    <item>"третий четверг месяца"</item>
+    <item>"четвертый четверг месяца"</item>
+    <item>"последний четверг месяца"</item>
+  </string-array>
+  <string-array name="repeat_by_nth_fri">
+    <item>"первая пятница месяца"</item>
+    <item>"вторая пятница месяца"</item>
+    <item>"третья пятница месяца"</item>
+    <item>"четвертая пятница месяца"</item>
+    <item>"последняя пятница месяца"</item>
+  </string-array>
+  <string-array name="repeat_by_nth_sat">
+    <item>"первая суббота месяца"</item>
+    <item>"вторая суббота месяца"</item>
+    <item>"третья суббота месяца"</item>
+    <item>"четвертая суббота месяца"</item>
+    <item>"последняя суббота месяца"</item>
+  </string-array>
+    <string-array name="quick_response_defaults">
+        <item>"Задерживаюсь на пару минут."</item>
+        <item>"Буду примерно через 10 минут."</item>
+        <item>"Начинайте без меня."</item>
+        <item>"Не успеваю. Придется перенести."</item>
+    </string-array>
+    <string-array name="timezone_rename_labels">
+    <item>"Центр. Австралия – Сев. терр."</item>
+    <item>"Центр. Австралия – Юж. Австралия"</item>
+    <item>"Восточная Австралия – Квинсленд"</item>
+    <item>"Вост. Австралия – Нов. Юж. Уэльс"</item>
+    <item>"Горное стандартное – Досон-Крик"</item>
+    <item>"Средне-амер. станд. – Саскачеван"</item>
+    <item>"Восточно-амер. станд. – Атикокан"</item>
+    <item>"Атлантическое станд. – Квебек"</item>
+    <item>"Гавайи и Алеуты – Гавайские о-ва"</item>
+    <item>"Гавайи и Алеуты – Аляска"</item>
+    <item>"Тихоокеанск. станд. – Метлакатла"</item>
+    <item>"Горное стандартное – Аризона"</item>
+    <item>"Тихоокеанское – Нижн. Калифорния"</item>
+    <item>"Горное – Чиуауа"</item>
+    <item>"Центральное – Тамаулипас"</item>
+    <item>"Горное – Сонора"</item>
+    <item>"Восточноафриканское время"</item>
+    <item>"Атлантическое стандартное время"</item>
+    <item>"Атлантическое стандартное время"</item>
+    <item>"Восточноевропейское время"</item>
+    <item>"Время Калининграда"</item>
+    <item>"Амазонское – Рондония"</item>
+    <item>"Бразилия – Пара"</item>
+  </string-array>
+  <string-array name="backup_country_names">
+    <item>"Синт-Мартен"</item>
+    <item>"Карибские Нидерланды"</item>
+    <item>"Кюрасао"</item>
+    <item>"Южный Судан"</item>
+  </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:layout_gravity="center_horizontal" android:id="@id/textView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="56.0dip" android:text="@string/miracast_detail_1" android:layout_toRightOf="@id/imageView3" android:layout_above="@id/textView2" android:layout_toEndOf="@id/imageView3" />
+    <ImageView android:id="@id/imageView3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="133.0px" android:src="@drawable/phone" android:layout_toLeftOf="@id/start_miracast_Button" android:layout_above="@id/start_miracast_Button" android:layout_toStartOf="@id/start_miracast_Button" />
+    <TextView android:id="@id/textView2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/miracast_detail_2" android:singleLine="false" android:layout_toRightOf="@id/imageView3" android:layout_alignTop="@id/imageView3" android:layout_alignBottom="@id/imageView3" />
+    <Button android:textColor="@android:color/white" android:id="@id/start_miracast_Button" android:background="@drawable/selector_button_hiligt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="400.0px" android:text="@string/miracast_detail_3" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+</RelativeLayout>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="week_days">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednsday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+    <string-array name="menu_setting_scale">
+        <item>Adaptive</item>
+        <item>Force full screen</item>
+    </string-array>
+    <string-array name="menu_online_setting_resolution">
+        <item>Quality Priority</item>
+        <item>Speed Priority</item>
+    </string-array>
+    <string-array name="menu_subtitle_opts">
+        <item>Close subtitles</item>
+        <item>Automatically download subtitles</item>
+        <item>Set subtitle style</item>
+    </string-array>
+    <string-array name="menu_root_online">
+        <item>Episode</item>
+        <item>Resolution</item>
+        <item>Aspect Ratio</item>
+    </string-array>
+    <string-array name="menu_root_local">
+        <item>Select audio track</item>
+        <item>Subtitle settings</item>
+        <item>Aspect Ratio</item>
+        <item>Display playback progress</item>
+    </string-array>
+    <string-array name="menu_setting_3d_box">
+        <item>Close 3D</item>
+        <item>Left Right</item>
+        <item>Up Down</item>
+    </string-array>
+    <string-array name="menu_setting_3d">
+        <item>Close 3D</item>
+        <item>Left Right</item>
+        <item>Up Down</item>
+    </string-array>
+    <string-array name="menu_play_progress">
+        <item>Open</item>
+        <item>Close</item>
+    </string-array>
+    <string-array name="menu_switch">
+        <item>Open</item>
+        <item>Close</item>
+    </string-array>
+    <string-array name="menu_3dto2d_tv">
+        <item>Close</item>
+        <item>Auto detect</item>
+        <item>Left Right</item>
+        <item>Up Down</item>
+        <item>Frame encapsulation</item>
+    </string-array>
+    <string-array name="menu_3d_tv">
+        <item>Close 3D</item>
+        <item>Auto detect</item>
+        <item>Left Right</item>
+        <item>Up Down</item>
+        <item>Frame encapsulation</item>
+    </string-array>
+    <string-array name="menu_3d_box">
+        <item>Close 3D</item>
+        <item>Auto detect</item>
+        <item>Left Right</item>
+        <item>Up Down</item>
+    </string-array>
+    <string-array name="menu_sound_effect">
+        <item>Music Mode</item>
+        <item>Movie Mode</item>
+        <item>Close</item>
+        <item>Customized</item>
+    </string-array>
+    <string-array name="menu_scene_mode">
+        <item>Standard Mode</item>
+        <item>Movie Mode</item>
+        <item>Vibrant Mode</item>
+        <item>Sports Mode</item>
+        <item>Sony Mode</item>
+        <item>Samsung Mode</item>
+        <item>Custom Mode</item>
+    </string-array>
+    <string-array name="lang_detect">
+        <item>Chinese-S</item>
+        <item>Chinese-T</item>
+        <item>English</item>
+        <item>Korean</item>
+        <item>Japanese</item>
+        <item>French</item>
+    </string-array>
+    <string-array name="lang_fast_detect">
+        <item></item>
+        <item>German</item>
+        <item>English</item>
+        <item>Spanish</item>
+        <item>GreeK</item>
+        <item>French</item>
+        <item>Croatian</item>
+        <item>Italian</item>
+        <item>Dutch</item>
+        <item>Polish</item>
+        <item>Portuguese</item>
+        <item>Russian</item>
+        <item>Romanian</item>
+        <item>Swedish</item>
+        <item>Arabic</item>
+        <item>Chinese</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Farsi</item>
+        <item>Finnish</item>
+        <item>Norwegian</item>
+    </string-array>
+    <string-array name="lang_fast_internal_language_codes">
+        <item>Englis Up Chinese Down</item>
+        <item>Englis Down Chinese Up</item>
+    </string-array>
+    <string-array name="lang_fast_internal_language">
+        <item>English&amp;Chinese</item>
+        <item>Chinese&amp;English</item>
+    </string-array>
+    <string-array name="menu_languages">
+        <item>Unknow</item>
+        <item>Chinese</item>
+        <item>English</item>
+        <item>Cantonese</item>
+        <item>Minnan</item>
+        <item>French</item>
+        <item>Arabic</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Italian</item>
+        <item>German</item>
+        <item>Spanish</item>
+        <item>Thai</item>
+        <item>Russian</item>
+        <item>Polish</item>
+        <item>Hindi</item>
+        <item>GreeK</item>
+        <item>Czech</item>
+        <item>Portuguese</item>
+    </string-array>
+</resources>

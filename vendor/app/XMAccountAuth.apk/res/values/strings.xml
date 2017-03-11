@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiAccountOAuth</string>
+    <string name="get_account_info">Accessing your Mi account</string>
+    <string name="xiaomi_account_oauth">Xiaomi has authorized the access of your Thunder account</string>
+    <string name="xunlei_account_oauth">Verifying playback permissions</string>
+    <string name="oauth_failed_for_request_timeout">Network request timed out, please check network connection or try again.</string>
+    <string name="oauth_failed_for_network_disconnect">Network connection is lost, please check your network connection.</string>
+    <string name="oauth_failed_for_account_token_error">Mi account authorization failed, please log in again.</string>
+    <string name="oauth_failed_for_account_xiaomi_server_error">Xiaomi server exception, please try again.</string>
+</resources>

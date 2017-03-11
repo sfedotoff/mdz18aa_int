@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center" android:orientation="horizontal" android:id="@id/rl_out" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="-35.5dip">
+        <ImageView android:id="@id/bindmgr_item_img" android:background="@drawable/selector_bingmgr_item_hiligt" android:layout_width="340.5dip" android:layout_height="92.0dip" />
+        <RelativeLayout android:gravity="center" android:orientation="horizontal" android:id="@id/rl_name" android:layout_width="335.5dip" android:layout_height="83.0dip">
+            <ImageView android:id="@id/item_webchatIcon" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@android:drawable/sym_def_app_icon" android:scaleType="centerInside" />
+            <TextView android:textSize="18.0sp" android:textColor="@color/white" android:gravity="center" android:id="@id/item_webchatName" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="36.5dip" android:layout_marginTop="6.0dip" android:text="@string/username" android:layout_toRightOf="@id/item_webchatIcon" android:layout_alignBottom="@id/item_webchatIcon" android:alpha="0.6" />
+            <ImageView android:id="@id/item_ubindButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="7.5dip" android:layout_marginRight="24.0dip" android:src="@drawable/delete" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+    </RelativeLayout>
+</LinearLayout>

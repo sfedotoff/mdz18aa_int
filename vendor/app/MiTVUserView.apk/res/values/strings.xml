@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="str_user_history">History</string>
+    <string name="str_bookmark">Favorites</string>
+    <string name="str_user_payment">Purchases</string>
+    <string name="str_movie">Movies</string>
+    <string name="str_tv">Live</string>
+    <string name="str_update">New episodes available</string>
+    <string name="str_login">Sign in</string>
+    <string name="str_logout">Sign out</string>
+    <string name="str_register">Create an account</string>
+    <string name="str_no_data_history">Empty</string>
+    <string name="str_no_data_bookmark">Empty</string>
+    <string name="str_no_data_payment">Empty</string>
+    <string name="str_findmovie">Search</string>
+    <string name="str_month_day_format">d MMM</string>
+    <string name="str_month_format">MMM</string>
+    <string name="str_valid_time">Valid from:</string>
+    <string name="str_expirated_time">Expires:</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="the_day_before_yesterday">2 days ago</string>
+    <string name="earlier">Earlier</string>
+    <string name="datetimeformat">d MMM yyyy HH:mm:ss</string>
+    <string name="datetimeformatv2">d MMM yyyy HH:mm:ss</string>
+    <string name="str_media_offline">This item is no longer available.</string>
+    <string name="str_order_type_shop">MiTV Shop</string>
+    <string name="str_order_type_video">Video</string>
+    <string name="str_order_video_valid">Valid</string>
+    <string name="str_order_video_invalid">Expired</string>
+    <string name="str_title_type">Type</string>
+    <string name="str_title_name">Name</string>
+    <string name="str_title_status">Status</string>
+    <string name="str_title_amount">Amount</string>
+    <string name="str_title_paytime">Payment time</string>
+    <string name="str_title_name_total_pre">...( total</string>
+    <string name="str_title_name_total_last">)</string>
+    <plurals name="str_mibi">
+        <item quantity="other">Mi Credits</item>
+        <item quantity="one">Mi Credit</item>
+    </plurals>
+    <plurals name="str_rmb">
+        <item quantity="other">Yuans</item>
+        <item quantity="one">Yuan</item>
+    </plurals>
+</resources>

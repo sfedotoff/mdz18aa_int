@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_root">
+        <item>"Слайдшоу"</item>
+        <item>"Повернуть Влево"</item>
+        <item>"Повернуть Вправо"</item>
+        <item>"Удалить"</item>
+    </string-array>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RemoteControllerService</string>
+    <string name="action_settings">Настройки</string>
+    <string name="hello_world">Привет мир!</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="loading"><CDATA>Загрузка...</CDATA></string>
+    <string name="share_friends_search_default_text">Поиск друзей</string>
+    <string name="video_play">Воспроизвести</string>
+    <string name="app_details">Подробнее</string>
+    <string name="platform_box">Mi Box</string>
+    <string name="platform_tv">Mi TV</string>
+    <string name="platform_others">Другие</string>
+    <string name="video_type">Фильм для вас</string>
+    <string name="app_type">Приложение для вас</string>
+    <string name="confirm">ОК</string>
+    <string name="share_input_message">Информация</string>
+    <string name="get_share_friends_fail"><CDATA>Невозможно получить список друзей...</CDATA></string>
+    <string name="share_input_default_message">Нечто хорошее, тебе стоит увидеть</string>
+    <string name="share_reason_confirm">ОК</string>
+    <string name="share_reason_cancel">Отмена</string>
+    <string name="share_reason_title">Сообщение</string>
+    <string name="mihome_remote_logout_main">Ваш аккаунт выбран удаленно</string>
+    <string name="mihome_remote_logout_title">Войдите, чтобы сменить</string>
+    <string name="a_code_title">Код подтверждения</string>
+    <string name="a_code_content_font">sans-serif-light</string>
+    <string name="a_code_note_1">Нажмите</string>
+    <string name="a_code_note_2">для возврата</string>
+    <string name="upgrade_assistant_app_tip">Обновите приложение MiTVAssistant</string>
+    <string name="retry_too_many_times_tip">Слишком много неудачных попыток, повторите через 24 часа</string>
+    <string name="notification_title">Внимание</string>
+    <string name="notification_des">Код подтверждения установки был введен некорректно множество раз, подозревается атака</string>
+    <string name="modify_device_name">Имя устройства изменено на следующее:</string>
+</resources>

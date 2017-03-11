@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="week_days">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+    <string-array name="menu_setting_scale">
+        <item>Адаптивное</item>
+        <item>Принудительно полный экран</item>
+    </string-array>
+    <string-array name="menu_online_setting_resolution">
+        <item>Приоритет качества</item>
+        <item>Приоритет скорости</item>
+    </string-array>
+    <string-array name="menu_subtitle_opts">
+        <item>Закрыть субтитры</item>
+        <item>Автоматически загружать субтитры</item>
+        <item>Установить стиль субтитров</item>
+    </string-array>
+    <string-array name="menu_root_online">
+        <item>Серия</item>
+        <item>Разрешение</item>
+        <item>Соотношение сторон</item>
+    </string-array>
+    <string-array name="menu_root_local">
+        <item>Выберите аудиодорожку</item>
+        <item>Настройки субтитров</item>
+        <item>Соотношение сторон</item>
+        <item>Показывать прогресс воспроизведения</item>
+    </string-array>
+    <string-array name="menu_setting_3d_box">
+        <item>Закрыть 3D</item>
+        <item>Лево Право</item>
+        <item>Верх Низ</item>
+    </string-array>
+    <string-array name="menu_setting_3d">
+        <item>Закрыть 3D</item>
+        <item>Лево Право</item>
+        <item>Верх Низ</item>
+    </string-array>
+    <string-array name="menu_play_progress">
+        <item>Открыть</item>
+        <item>Закрыть</item>
+    </string-array>
+    <string-array name="menu_switch">
+        <item>Открыть</item>
+        <item>Закрыть</item>
+    </string-array>
+    <string-array name="menu_3dto2d_tv">
+        <item>Закрыть</item>
+        <item>Автоопределение</item>
+        <item>Лево Право</item>
+        <item>Верх Низ</item>
+        <item>Инкапсулирование</item>
+    </string-array>
+    <string-array name="menu_3d_tv">
+        <item>Закрыть</item>
+        <item>Автоопределение</item>
+        <item>Лево Право</item>
+        <item>Верх Низ</item>
+        <item>Инкапсулирование</item>
+    </string-array>
+    <string-array name="menu_3d_box">
+        <item>Закрыть</item>
+        <item>Автоопределение</item>
+        <item>Лево Право</item>
+        <item>Верх Низ</item>
+    </string-array>
+    <string-array name="menu_sound_effect">
+        <item>Музыка</item>
+        <item>Кино</item>
+        <item>Закрыть</item>
+        <item>Другой</item>
+    </string-array>
+    <string-array name="menu_scene_mode">
+        <item>Стандарт</item>
+        <item>Кино</item>
+        <item>Насыщенный</item>
+        <item>Спорт</item>
+        <item>Sony</item>
+        <item>Samsung</item>
+        <item>Другой</item>
+    </string-array>
+    <string-array name="lang_detect">
+        <item>Китайский упрощенный</item>
+        <item>Китайский традиционный</item>
+        <item>Английский</item>
+        <item>Корейский</item>
+        <item>Японский</item>
+        <item>Французский</item>
+    </string-array>
+    <string-array name="lang_fast_detect">
+        <item></item>
+        <item>Немецкий</item>
+        <item>Английский</item>
+        <item>Испанский</item>
+        <item>Греческий</item>
+        <item>Французский</item>
+        <item>Хорватский</item>
+        <item>Итальянский</item>
+        <item>Голландский</item>
+        <item>Польский</item>
+        <item>Португальский</item>
+        <item>Русский</item>
+        <item>Румынский</item>
+        <item>Шведский</item>
+        <item>Арабский</item>
+        <item>Китайский</item>
+        <item>Японский</item>
+        <item>Корейский</item>
+        <item>Фарси</item>
+        <item>Финнский</item>
+        <item>Норвежский</item>
+    </string-array>
+    <string-array name="lang_fast_internal_language_codes">
+        <item>Английский Вверх Китайский Вниз</item>
+        <item>Английский Вниз Китайский Вверх</item>
+    </string-array>
+    <string-array name="lang_fast_internal_language">
+        <item>Английский&amp;Китайский</item>
+        <item>Китайский&amp;Английский</item>
+    </string-array>
+    <string-array name="menu_languages">
+        <item>Неизвестно</item>
+        <item>Китайский</item>
+        <item>Английский</item>
+        <item>Кантонский</item>
+        <item>Миннанский</item>
+        <item>Французский</item>
+        <item>Арабский</item>
+        <item>Японский</item>
+        <item>Корейский</item>
+        <item>Итальянский</item>
+        <item>Немецкий</item>
+        <item>Испанский</item>
+        <item>Тайский</item>
+        <item>Русский</item>
+        <item>Польский</item>
+        <item>Хинди</item>
+        <item>Греческий</item>
+        <item>Чешский</item>
+        <item>Португальский</item>
+    </string-array>
+</resources>

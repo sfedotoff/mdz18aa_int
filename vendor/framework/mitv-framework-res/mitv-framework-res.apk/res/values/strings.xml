@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"MiUtilRes"</string>
+    <string name="mitv_framework_res_global_ok">"OK"</string>
+    <string name="mitv_framework_res_global_cancel">"Cancel"</string>
+    <string name="mitv_framework_res_global_neutral">"Quit"</string>
+    <string name="mitv_framework_res_global_attention">"Attention"</string>
+    <string name="mitv_framework_res_global_menu">"Menu"</string>
+</resources>

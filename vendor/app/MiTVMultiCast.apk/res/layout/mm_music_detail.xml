@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/ll_wifi" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="100.0px" android:layout_marginTop="224.0px">
+        <ImageView android:id="@id/imageView4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/music_same_wifi" />
+        <TextView android:id="@id/textView3" android:layout_width="188.0dip" android:layout_height="wrap_content" android:text="@string/mm_music_detail_1" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/ll_ios_center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="100.0px" android:layout_marginTop="224.0px">
+        <ImageView android:id="@id/imageView5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/music_device" />
+        <TextView android:id="@id/textView5" android:layout_width="222.0dip" android:layout_height="wrap_content" android:text="@string/mm_music_detail_2" />
+    </LinearLayout>
+</LinearLayout>

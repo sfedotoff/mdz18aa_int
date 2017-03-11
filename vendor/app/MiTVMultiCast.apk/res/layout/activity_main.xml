@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/bg" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="top" android:orientation="horizontal" android:id="@id/top" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="38.5dip" android:layout_marginTop="60.0dip" android:layout_marginRight="38.5dip">
+        <ImageView android:layout_width="182.0dip" android:layout_height="91.0dip" android:src="@drawable/xiaomishouji" android:layout_weight="1.0" />
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/fenge_home" />
+        <ImageView android:layout_width="182.0dip" android:layout_height="91.0dip" android:src="@drawable/pingguo" android:layout_weight="1.0" />
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/fenge_home" />
+        <ImageView android:layout_width="182.0dip" android:layout_height="91.0dip" android:src="@drawable/app" android:layout_weight="1.0" />
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:id="@id/middle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="38.5dip" android:layout_marginTop="50.0dip" android:layout_marginRight="38.5dip">
+        <LinearLayout android:orientation="vertical" android:id="@id/middle_left" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <TextView android:textSize="21.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/android_miui" />
+            <TextView android:textSize="12.0sp" android:textColor="#ffffffff" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/android_miui_desc" android:alpha="0.6" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/middle_center" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <TextView android:textSize="21.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/apple" />
+            <TextView android:textSize="12.0sp" android:textColor="#ffffffff" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/apple_desc" android:alpha="0.6" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/middle_right" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <TextView android:textSize="21.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/other_apps" />
+            <TextView android:textSize="12.0sp" android:textColor="#ffffffff" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/other_apps_desc" android:alpha="0.6" />
+        </LinearLayout>
+    </LinearLayout>
+    <RelativeLayout android:layout_gravity="bottom" android:orientation="horizontal" android:id="@id/low" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="5.5dip" android:layout_marginTop="25.0dip" android:layout_marginRight="5.5dip">
+        <RelativeLayout android:orientation="vertical" android:id="@id/low_left" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="100.0dip">
+            <FrameLayout android:id="@id/low_left_fl_mira" android:background="@drawable/selector_button_hiligt" android:layout_width="163.19998dip" android:layout_height="64.599976dip">
+                <Button android:textSize="18.0sp" android:textColor="#ffffffff" android:layout_gravity="center" android:id="@id/MiracastButton" android:background="@android:color/transparent" android:nextFocusRight="@id/airplayButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/miracast" android:drawableLeft="@drawable/miracast" android:drawablePadding="5.0dip" android:alpha="0.6" />
+            </FrameLayout>
+            <FrameLayout android:id="@id/low_left_fl_yingyin" android:background="@drawable/selector_button_hiligt" android:layout_width="163.19998dip" android:layout_height="64.599976dip" android:layout_marginTop="6.0dip" android:layout_below="@id/low_left_fl_mira">
+                <Button android:textSize="18.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:layout_gravity="center" android:id="@id/multimediaButton" android:background="@android:color/transparent" android:nextFocusRight="@id/airplayButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/screencast" android:drawableLeft="@drawable/yingyintouping" android:drawablePadding="5.0dip" android:alpha="0.6" />
+            </FrameLayout>
+        </RelativeLayout>
+        <RelativeLayout android:orientation="vertical" android:id="@id/low_middle" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="393.0dip">
+            <FrameLayout android:id="@id/low_middle_airplay" android:background="@drawable/selector_button_hiligt" android:layout_width="163.19998dip" android:layout_height="64.599976dip">
+                <Button android:textSize="18.0sp" android:textColor="#ffffffff" android:layout_gravity="center" android:id="@id/airplayButton" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/airplay" android:drawableLeft="@drawable/airplay" android:drawablePadding="5.0dip" android:alpha="0.6" />
+            </FrameLayout>
+        </RelativeLayout>
+        <RelativeLayout android:orientation="vertical" android:id="@id/low_right" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="688.0dip">
+            <FrameLayout android:id="@id/low_right_toupingshenqi" android:background="@drawable/selector_button_hiligt" android:layout_width="163.19998dip" android:layout_height="64.599976dip">
+                <Button android:textSize="18.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:layout_gravity="center" android:id="@id/toupingshenqiButton" android:background="@android:color/transparent" android:nextFocusLeft="@id/airplayButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/toupingshenqi" android:drawableLeft="@drawable/toupingshenqi" android:drawablePadding="5.0dip" android:alpha="0.6" />
+            </FrameLayout>
+            <FrameLayout android:id="@id/low_right_weixin" android:background="@drawable/selector_button_hiligt" android:layout_width="163.19998dip" android:layout_height="64.599976dip" android:layout_marginTop="6.0dip" android:layout_below="@id/low_right_toupingshenqi">
+                <Button android:textSize="18.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:layout_gravity="center" android:id="@id/webchatButton" android:background="@android:color/transparent" android:nextFocusLeft="@id/airplayButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/webchat" android:drawableLeft="@drawable/weixin" android:drawablePadding="5.0dip" android:alpha="0.6" />
+            </FrameLayout>
+            <FrameLayout android:id="@id/low_right_lebo" android:background="@drawable/selector_button_hiligt" android:layout_width="163.19998dip" android:layout_height="64.599976dip" android:layout_marginTop="6.0dip" android:layout_below="@id/low_right_weixin">
+                <Button android:textSize="18.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:layout_gravity="center" android:id="@id/leboButton" android:background="@android:color/transparent" android:nextFocusLeft="@id/airplayButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/lebo" android:drawableLeft="@drawable/btn_lebo" android:drawablePadding="5.0dip" android:alpha="0.6" />
+            </FrameLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+</LinearLayout>
