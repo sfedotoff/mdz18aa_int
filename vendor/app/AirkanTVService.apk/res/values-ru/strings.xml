@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="phonename_default">Устройство Xiaomi</string>
     <string name="xiaomi_default">Телефон Xiaomi</string>
@@ -11,17 +11,17 @@
     <string name="airkan_daemon_name">Airkan TV Daemon</string>
     <string name="rc_daemon_name">Remote Controller TV Daemon</string>
     <string name="airkan_daemon_config">Airkan TV Configure</string>
-    <string name="airkan_service_start">Airkan TV Serivce Started.</string>
-    <string name="airkan_daemon_start">Airkan TV Daemon Started.</string>
-    <string name="rc_daemon_start">Remote Controller TV Daemon Started.</string>
+    <string name="airkan_service_start">Сервис Airkan TV запущен.</string>
+    <string name="airkan_daemon_start">Airkan TV Daemon запущен.</string>
+    <string name="rc_daemon_start">TV Daemon удаленного управления запущен.</string>
     <string name="airkan_daemon_handle_progress">Airkan Handle Progress</string>
-    <string name="recv_service_start">to receive service start broadcast</string>
+    <string name="recv_service_start">для получения оповещения о запуске сервиса</string>
     <string name="send_service_start">to send service start broadcast</string>
-    <string name="mdns_service_name">mDNSSDRes Service</string>
-    <string name="mdns_service_start">mDNSSD Responder Serivce Started.</string>
+    <string name="mdns_service_name">Сервис mDNSSDRes</string>
+    <string name="mdns_service_start">Сервис ответчика mDNSSD запущен.</string>
     <string name="airplay_stub_activity_title">Airplay Stub Activity</string>
     <string name="airplay_applying_new_name">Установка имени устройства Airplay:</string>
-    <string name="airplay_please_wait">Пожалуйста, ждите...</string>
+    <string name="airplay_please_wait">Пожалуйста, ждите</string>
     <string name="airplay_service_started">Airplay Service Started ^_^</string>
     <string name="airplay_menu_settings">Настройки</string>
     <string name="airplay_starting_service">Запуск сервиса Airplay</string>
@@ -31,7 +31,7 @@
     <string name="itool_text">iTools.cn</string>
     <string name="milink_httpservice_name">MiLinkHttpServer</string>
     <string name="connect_fail_text">Подключение не удалось</string>
-    <string name="default_client_name" />
+    <string name="default_client_name"/>
     <string name="default_device_name">Mi Box</string>
     <string name="default_video_title">Видео</string>
     <string name="default_music_title">Аудио</string>
@@ -41,7 +41,7 @@
     <string name="miliao">MiChat</string>
     <string name="tv_notification_title">Устройство обнаружено</string>
     <string name="tv_notification_content">Передача изображения с дисплея ближайшего устройства.</string>
-    <string name="tv_not_support_mirror">MiTV в настоящее время не поддерживает передачу изображения с устройств Apple</string>
+    <string name="tv_not_support_mirror">MiTV в настоящее время не поддерживает передачу изображения с устройств Apple.</string>
     <string name="security_confirmation_title_tv">Неавторизованное устройство пытается передать изображение на MiTV</string>
     <string name="security_confirmation_title_box">Неавторизованное устройство пытается передать изображение на Mi Box</string>
     <string name="security_confirmation_main">Вы уверены, что хотите продолжить?</string>
@@ -60,4 +60,6 @@
     <string name="cast_ad_name_tv">MiTV</string>
     <string name="tvassistant">MiTV Assistant</string>
     <string name="sony">SonyDTV</string>
-</resources>
+<string name="hello_world">Привет, мир!</string>
+    <string name="action_settings">Настройки</string>
+    </resources>
