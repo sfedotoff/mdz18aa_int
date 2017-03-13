@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="pref_default_text_encoding_default">Latin-1</string>
     <string name="application_name">Browser</string>
@@ -159,7 +159,7 @@
     <string name="autofill_profile_successful_delete">Auto-fill text deleted.</string>
     <string name="autofill_profile_editor_delete_profile">Delete</string>
     <string name="autofill_setup_dialog_message">The browser can automatically complete web forms like this one. Do you want to set up your auto-fill text?</string>
-    <string name="autofill_setup_dialog_negative_toast">You can always set up your auto-fill text from the Browser > Settings > General screen.</string>
+    <string name="autofill_setup_dialog_negative_toast">You can always set up your auto-fill text from the Browser &gt; Settings &gt; General screen.</string>
     <string name="disable_autofill">Disable auto-fill</string>
     <string name="pref_privacy_security_title">Privacy &amp; security</string>
     <string name="pref_privacy_clear_cache">Clear cache</string>
@@ -257,7 +257,7 @@
     <string name="pref_link_prefetch_dialogtitle">Web page preloading</string>
     <string name="browserFrameNetworkErrorLabel">Connection problem</string>
     <string name="browserFrameFileErrorLabel">File problem</string>
-    <string name="browserFrameFormResubmitLabel" />
+    <string name="browserFrameFormResubmitLabel">Confirm</string>
     <string name="browserFrameFormResubmitMessage">"The page you're trying to view contains data that has already been submitted (\"POSTDATA\"). If you resend the data, any action the form on the page carried out (such as a search or online purchase) will be repeated."</string>
     <string name="loadSuspendedTitle">No connection</string>
     <string name="loadSuspended">"The browser can't load this page because there's no Internet connection."</string>
@@ -307,8 +307,8 @@
     <string name="geolocation_permissions_prompt_share">Share location</string>
     <string name="geolocation_permissions_prompt_dont_share">Decline</string>
     <string name="geolocation_permissions_prompt_remember">Remember preference</string>
-    <string name="geolocation_permissions_prompt_toast_allowed">This site can access your location. Change this on the Settings > Advanced > Website screen.</string>
-    <string name="geolocation_permissions_prompt_toast_disallowed">This site cannot access your location. Change this on the Settings > Advanced > Website screen.</string>
+    <string name="geolocation_permissions_prompt_toast_allowed">This site can access your location. Change this on the Settings &gt; Advanced &gt; Website screen.</string>
+    <string name="geolocation_permissions_prompt_toast_disallowed">This site cannot access your location. Change this on the Settings &gt; Advanced &gt; Website screen.</string>
     <string name="geolocation_settings_page_title">Clear location access</string>
     <string name="geolocation_settings_page_summary_allowed">This site can currently access your location</string>
     <string name="geolocation_settings_page_summary_not_allowed">"This site can't currently access your location"</string>
