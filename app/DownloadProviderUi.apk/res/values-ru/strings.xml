@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="app_label">"Диспетчер загрузки"</string>
     <string name="permlab_downloadManager">"Доступ к менеджеру загрузки."</string>
@@ -46,4 +46,30 @@
       	<item quantity="many">Ожидается скачивание %d файлов…</item>
       	<item quantity="other">Ожидается скачивание %d файла…</item>
     </plurals>
+<string name="download_title_sorted_by_date">Загрузки - Сортировка по дате</string>
+    <string name="download_title_sorted_by_size">Загрузки - Сортировка по размеру</string>
+    <string name="no_downloads">Нет загрузок.</string>
+    <string name="missing_title">&lt;Неизвестно&gt;</string>
+    <string name="button_sort_by_size">Сортировать по размеру</string>
+    <string name="button_sort_by_date">Сортировать по дате</string>
+    <string name="download_success">Завершено</string>
+    <string name="dialog_title_not_available">Невозможно загрузить</string>
+    <string name="dialog_failed_body">Вы хотите попробовать снова загрузить файл вместо его удаления из очереди?</string>
+    <string name="dialog_title_queued_body">Файл в очереди</string>
+    <string name="dialog_queued_body">Этот файл поставлен в очередь для последующей загрузки, поэтому пока не доступен.</string>
+    <string name="dialog_file_missing_body">Не удается найти загруженный файл.</string>
+    <string name="dialog_insufficient_space_on_external">Невозможно завершить загрузку. На внешнем носителе недостаточно места.</string>
+    <string name="dialog_insufficient_space_on_cache">Невозможно завершить загрузку. На внутреннем накопителе недостаточно места.</string>
+    <string name="dialog_cannot_resume">Загрузка была прервана и не может быть возобновлена.</string>
+    <string name="dialog_file_already_exists">Невозможно загрузить. Файл назначения уже существует.</string>
+    <string name="dialog_media_not_found">Невозможно загрузить. Внешний носитель недоступен.</string>
+    <string name="remove_download">Удалить</string>
+    <string name="delete_download">Удалить</string>
+    <string name="keep_queued_download">Сохранить</string>
+    <string name="cancel_running_download">Отмена</string>
+    <string name="retry_download">Повторить</string>
+    <string name="deselect_all">Снять выделение</string>
+    <string name="select_all">Выбрать все</string>
+    <string name="selected_count">Выбрано %1$d из %2$d</string>
+    <string name="download_share_dialog">Поделиться через</string>
 </resources>
