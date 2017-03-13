@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="app_name">MiAccountOAuth</string>
     <string name="get_account_info">Получение доступа к Mi Аккаунту</string>
     <string name="xiaomi_account_oauth">Xiaomi авторизовала доступ вашего аккаунта Thunder</string>
     <string name="xunlei_account_oauth">Проверка доступа к воспроизведению</string>
-    <string name="oauth_failed_for_request_timeout">Время ожидания ответа истекло, проверьте сетевые настройки</string>
-    <string name="oauth_failed_for_network_disconnect">Потеряно сетевое соединение, проверьте сетевые настройки</string>
-    <string name="oauth_failed_for_account_token_error">Авторизация не удалась, повторите попытку</string>
-    <string name="oauth_failed_for_account_xiaomi_server_error">Проблема с сервером Xiaomi, повторите попытку</string>
+    <string name="oauth_failed_for_request_timeout">Время ожидания ответа истекло, проверьте сетевые настройки.</string>
+    <string name="oauth_failed_for_network_disconnect">Потеряно сетевое соединение, проверьте сетевые настройки.</string>
+    <string name="oauth_failed_for_account_token_error">Авторизация не удалась, повторите попытку.</string>
+    <string name="oauth_failed_for_account_xiaomi_server_error">Проблема с сервером Xiaomi, повторите попытку.</string>
 </resources>
