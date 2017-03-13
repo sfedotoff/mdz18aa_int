@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="app_name">Медиа библиотека</string>
     <string name="app_name_guaxiaoqi">Video library</string>
@@ -85,13 +85,13 @@
     <string name="scraper_report_error">Отправлено</string>
     <string name="uhd_img_play_err">Ошибка отображения HD изображения</string>
     <string name="img_decode_err">Ошибка отображения изображения</string>
-    <string name="get_account_info">Доступ к вашему Mi аккаунту</string>
-    <string name="xiaomi_account_oauth">Xiaomi авторизовала доступ для вашего аккаунта Thunder</string>
-    <string name="xunlei_account_oauth">Проверка прав на воспроизведение</string>
-    <string name="oauth_failed_for_request_timeout">Время ожидания запроса истекло, проверьте сетевое подключение и повторите попытку.</string>
+    <string name="get_account_info">Получение доступа к Mi Аккаунту</string>
+    <string name="xiaomi_account_oauth">Xiaomi авторизовала доступ вашего аккаунта Thunder</string>
+    <string name="xunlei_account_oauth">Проверка доступа к воспроизведению</string>
+    <string name="oauth_failed_for_request_timeout">Время ожидания ответа истекло, проверьте сетевые настройки.</string>
     <string name="oauth_failed_for_network_exception">Не удалось отправить сетевой запрос, проверьте сетевое подключение и повторите попытку.</string>
-    <string name="oauth_failed_for_network_disconnect">Сетевое подключение разорвано, проверьте сетевое подключение и повторите попытку.</string>
-    <string name="oauth_failed_for_account_token_error">Авторизация Mi аккаунта не удалась, пожалуйста, авторизуйтесь повторно.</string>
+    <string name="oauth_failed_for_network_disconnect">Потеряно сетевое соединение, проверьте сетевые настройки.</string>
+    <string name="oauth_failed_for_account_token_error">Авторизация не удалась, повторите попытку.</string>
     <string name="oauth_failed_for_account_xiaomi_server_error">Проблема с сервером Xiaomi, повторите попытку.</string>
     <string name="xunlei_entry">Вы будете перенаправлены на страницу входа</string>
     <string name="xq_video_lable_title_text">Видео</string>
@@ -149,7 +149,7 @@
     <string name="hide_introduction_psw_set_button">Пароль</string>
     <string name="privacy_folder_introduction_back_button">Назад</string>
     <string name="hide_introduction_title_pre">Вы скрываете </string>
-    <string name="hide_introduction_title_post"></string>
+    <string name="hide_introduction_title_post"/>
     <string name="hide_introduction_title_post_long">"… "</string>
     <string name="under_psw_text">Установите пароль для скрытых файлов</string>
     <string name="under_back_text">Вернуться к списку</string>
@@ -221,8 +221,8 @@
     <string name="xq_icon_space">\#R98</string>
     <string name="xq_icon_downlaod">Скачать</string>
     <string name="xq_icon_share">предоставить доступ</string>
-    <string name="music_list_item_singer_count"></string>
-    <string name="music_list_item_album_count"></string>
+    <string name="music_list_item_singer_count"/>
+    <string name="music_list_item_album_count"/>
     <string name="hd_download_loading">Загрузка...</string>
     <string name="hd_no_task_found">Нет файлов для обновления</string>
     <string name="hd_total_task">Обновлены аудиофайлы (%d)</string>
@@ -236,7 +236,7 @@
     <string name="music_list_view_header_singer">По исполнителю</string>
     <string name="music_list_view_header_album">По альбому</string>
     <string name="thunder_download">Загруженные</string>
-    <string name="music_count"></string>
+    <string name="music_count"/>
     <string name="collection_count_text">%s</string>
     <string name="delete_video_collection_text">Вы уверены, что хотите удалить это видео?</string>
     <string name="gxq_lable_movie">Видео (%s)</string>
@@ -309,4 +309,6 @@
     <string name="xq_new_file_notification_menu_open">Открыть</string>
     <string name="xq_new_file_notification_menu_close">Закрыть</string>
     <string name="default_name">Внешний накопитель</string>
-</resources>
+<string name="hello_world">Привет, мир!</string>
+    <string name="action_settings">Настройки</string>
+    </resources>
