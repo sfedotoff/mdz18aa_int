@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="device_screen_para">Параметры экрана</string>
   <string name="device_screen_text1">60 дюймов 3840х2160</string>
@@ -17,7 +17,7 @@
   <string name="mitv_bluetooth_discoverable">Доступно для обнаружения</string>
   <string name="mitv_bluetooth_scan">Поиск других устройств Bluetooth</string>
   <string name="mitv_bluetooth_title">Настройки Bluetooth</string>
-  <string name="mitv_bluetooth_subtitle" />
+  <string name="mitv_bluetooth_subtitle"/>
   <string name="mitv_bluetooth_paired_category">Сопряженные устройства</string>
   <string name="mitv_bluetooth_available_category">Доступные устройства</string>
   <string name="mitv_bluetooth_paired_device">Сопряженное устройство</string>
@@ -66,7 +66,7 @@
   <string name="bluetooth_remember_choice">"Не спрашивать повторно"</string>
   <string name="bluetooth_map_request">Запрос доступа к сообщениям</string>
   <string name="bluetooth_map_acceptance_dialog_text">%1$s пытается получить доступ к вашим сообщениям. Разрешить доступ %2$s?</string>
-  <string name="bluetooth_error_title" />
+  <string name="bluetooth_error_title"/>
   <string name="bluetooth_pairing_error_message">"Сопряжение с %1$s невозможно"</string>
   <string name="bluetooth_pairing_pin_error_message">"Сопряжение с %1$s невозможно из-за некорректного PIN или ключа."</string>
   <string name="bluetooth_pairing_device_down_error_message">"Невозможно связаться с %1$s."</string>
@@ -129,7 +129,7 @@
   <string name="input_source">Источник входного сигнала</string>
   <string name="wifi_network">Wi-Fi</string>
   <string name="network_test">Тест сети</string>
-  <string name="network_settings_desc" />
+  <string name="network_settings_desc"/>
   <string name="ethernet">Проводное подключение</string>
   <string name="wifi">Wi-Fi подключение</string>
   <string name="disconnected">Отключено</string>
@@ -329,7 +329,7 @@
   <string name="wifi_tether_ap">Точка доступа</string>
   <string name="wifi_tether_ap_desc">Использовать этот ТВ в качестве Wi-Fi точки доступа</string>
   <string name="pppoe_connect">Подключение PPPoE</string>
-  <string name="pppoe_connect_desc" />
+  <string name="pppoe_connect_desc"/>
   <string name="pppoe_username">Введите имя пользователя</string>
   <string name="pppoe_username_empty">"Имя пользователя не может быть пустым"</string>
   <string name="pppoe_username_overlength">"Имя пользователя не может превышать 30 символов"</string>
@@ -345,7 +345,7 @@
   <string name="profile">Профили</string>
   <string name="customize">Настроить</string>
   <string name="display_params">Параметры дисплея</string>
-  <string name="display_params_desc" />
+  <string name="display_params_desc"/>
   <string name="external_speaker">ВНЕШНИЙ</string>
   <string name="xiaomi_soundBar">Mi Bar &amp; Subwoofer</string>
   <string name="xiaomi_soundBar_setting">Настройки Mi Sound Bar</string>
@@ -463,7 +463,7 @@
 Затем нажмите и удерживайте кнопку питания на очках до тех пор пока не замигает красный сигнал."</string>
   <string name="active_shutter_glasses_exit_scan1">Нажмите кнопку на пульте ДУ</string>
   <string name="active_shutter_glasses_exit_scan2">Назад</string>
-  <string name="active_shutter_glasses_desc" />
+  <string name="active_shutter_glasses_desc"/>
   <string name="add_active_shutter_glasses">Добавить пару 3D-очков</string>
   <string name="add_active_shutter_glasses_trip_out">Снимите пленку с батареек</string>
   <string name="buy_glasses_type_active_shutter">3D очки ( с активным затвором )</string>
@@ -471,7 +471,7 @@
   <string name="buy_glasses_type_polarization">3D-очки ( поляризационные )</string>
   <string name="buy_glasses_type_polarization_desc">Рамки из поликарбоната + тонкие 0.38 мм линзы</string>
   <string name="add_active_shutter_glasses_success_1">Добавлены 3D-очки </string>
-  <string name="add_active_shutter_glasses_success_2"></string>
+  <string name="add_active_shutter_glasses_success_2"/>
   <string name="add_active_shutter_glasses_success_desc">Вы можете продолжить добавлять или вернуться назад</string>
   <string name="buy_glasses_scan">Отсканируйте QR код, чтобы купить</string>
   <string name="buy_glasses">Выберите очки</string>
@@ -495,7 +495,7 @@
   <string name="screen_saver_priview">Просмотр</string>
   <string name="cloudalbum_screen_saver">Использовать для заставки альбомы Mi Cloud.</string>
   <string name="cloudalbum_screen_saver_description">Показывать фотографии из альбомов в Mi Cloud в заставке</string>
-  <string name="xiaomi_account_not_logged_in_title" />
+  <string name="xiaomi_account_not_logged_in_title"/>
   <string name="xiaomi_account_not_logged_in">Вход не произведен</string>
   <string name="please_login_xiaomi_account_for_cloud_album">Войдите в свой Mi аккаунт для синхронизации облачных альбомов</string>
   <string name="tv_preview">Окно предварительного просмотра</string>
@@ -525,11 +525,11 @@
   <string name="confirm">Подтвердить</string>
   <string name="location_info">Местоположение</string>
   <string name="location_info_desc">Выберите Ваше местоположение</string>
-  <string name="device_name_desc" />
+  <string name="device_name_desc"/>
   <string name="device_name_hint">Введите имя устройства</string>
   <string name="device_name_empty_hint">"Имя устройства не может быть пустым"</string>
   <string name="device_name_overlength_hint">Имя устройства слишком длинное</string>
-  <string name="screen_saver_set" />
+  <string name="screen_saver_set"/>
   <string name="screen_saver_account_login">Войти</string>
   <string name="screen_saver_account_register">Создать Mi аккаунт</string>
   <string name="recovery_settings_contens_hint2">"Стереть все Ваши персональные данные?
@@ -538,15 +538,15 @@
   <string name="recoverying">Идет сброс</string>
   <string name="waiting">Пожалуйста, подождите...</string>
   <string name="log_enable">Журнал Android</string>
-  <string name="log_enable_desc" />
+  <string name="log_enable_desc"/>
   <string name="log_enable_hint1">Включить журнал Android?</string>
   <string name="log_enable_hint2">Включение этой функции может привести к снижению производительности системы</string>
   <string name="gallery_preference">Предпочтительная галерея</string>
-  <string name="gallery_preference_desc" />
+  <string name="gallery_preference_desc"/>
   <string name="recovery_retain">Сохранить установленные приложения</string>
   <string name="contact_us">Свяжитесь с нами</string>
-  <string name="contact_us_desc" />
-  <string name="about_desc" />
+  <string name="contact_us_desc"/>
+  <string name="about_desc"/>
   <string name="hk_product_module">MiTV L49M2-AC</string>
   <string name="product_module_gitv">Mi Box</string>
   <string name="product_module_gitv_mini">Mi Box mini</string>
@@ -570,7 +570,7 @@
   <string name="copy_right">Информация об авторском праве</string>
   <string name="privacy_policy">Политика конфиденциальности</string>
   <string name="user_agreement">Пользовательское соглашение</string>
-  <string name="network_info_desc" />
+  <string name="network_info_desc"/>
   <string name="about_soundBar">О MI SOUND BAR</string>
   <string name="connected_ap">Подключен</string>
   <string name="eth_mac">MAC-адрес Ethernet</string>
@@ -597,15 +597,15 @@
   <string name="recovery_default">Сброс данных</string>
   <string name="continue_setting">Далее</string>
   <string name="skip_setting">Пропустить</string>
-  <string name="cancel">Отменить</string>
-  <string name="attention" />
+  <string name="cancel">Отмена</string>
+  <string name="attention"/>
   <string name="location_province">Штат/Провинция</string>
   <string name="location_city">Город</string>
   <string name="location_district">Регион</string>
   <string name="rc_pair_hint_en">"Держите пульт рядом с
 нижним правым углом телевизора"</string>
-  <string name="rc_pair_hear_click_hint_en" />
-  <string name="rc_pairing_en" />
+  <string name="rc_pair_hear_click_hint_en"/>
+  <string name="rc_pairing_en"/>
   <string name="m7_rc_pair_ble">Подключить</string>
   <string name="rc_paired_hint1_en">Пульт ДУ подключен</string>
   <string name="rc_paired_hint2_en">"Пульт ДУ может быть направлен куда угодно во время операции."</string>
@@ -616,11 +616,11 @@
   <string name="rc_pair_hint">"Держите пульт рядом с
 нижним правым углом телевизора"</string>
   <string name="rc_pair_hear_click_hint">Дождитесь воспроизведения звука и отпустите кнопку</string>
-  <string name="rc_pairing" />
+  <string name="rc_pairing"/>
   <string name="rc_paired_hint1">Пульт ДУ подключен</string>
   <string name="rc_paired_hint2">"Пульт ДУ может быть направлен куда угодно во время операции."</string>
   <string name="wifi_complete_hint1">Подключен к сети</string>
-  <string name="wifi_complete_hint2" />
+  <string name="wifi_complete_hint2"/>
   <string name="all_complete_hint">Поздравляем!</string>
   <string name="start_set_soundbar">Настроить сейчас</string>
   <string name="skip_set_soundbar">Позже</string>
@@ -636,13 +636,13 @@
   <string name="connect_soundbar_hint2">Установка занимает менее 3 минут</string>
   <string name="connect_woofer_power1">"Подключите сабвуфер
 к источнику питания"</string>
-  <string name="connect_woofer_power2" />
+  <string name="connect_woofer_power2"/>
   <string name="connect_soundbar_power1">"Подключите саундбар
 к источнику питания"</string>
-  <string name="connect_soundbar_power2" />
+  <string name="connect_soundbar_power2"/>
   <string name="soundbar_cable1">"Используйте аудио кабель для
 подключения саундбара"</string>
-  <string name="soundbar_cable2" />
+  <string name="soundbar_cable2"/>
   <string name="test_soundbar_description">Убедитесь, что динамик включен и его громкость достаточна.</string>
   <string name="play_demo_description">"Это демо демонстрирует аудио и видео возможности Mi TV."</string>
   <string name="connecting">Секундочку...</string>
@@ -753,7 +753,7 @@
   <string name="static_ip">Статический IP</string>
   <string name="switcher_on">Включить</string>
   <string name="switcher_off">Выключить</string>
-  <string name="ethernet_desc" />
+  <string name="ethernet_desc"/>
   <string name="ethernet_invalid_netmask">Неверная сетевая маска</string>
   <string name="ethernet_invalid_gateway">Неверный адрес шлюза</string>
   <string name="ethernet_invalid_dns">Неверный DNS-адрес</string>
@@ -1072,17 +1072,17 @@
 Загруженные приложения будут сохранены".</string>
   <string name="recovery_settings_contens_hint1_2">"Это сотрет все данные с внутренней памяти вашего устройства, включая любые приложения, которые вы скачали".</string>
   <string name="tv_info">О Mi Box</string>
-  <string name="disk_tv_space" />
+  <string name="disk_tv_space"/>
   <string name="app_name">Настройки</string>
   <string name="product_module">Mi Box</string>
-  <string name="general_settings_desc" />
+  <string name="general_settings_desc"/>
   <string name="recovery_description">Сброс данных</string>
-  <string name="security_settings_desc" />
+  <string name="security_settings_desc"/>
   <string name="install_warning_hint2">Ваше устройство и данные подвержены атакам приложений из неизвестных источников. Вы лично несете ответственность за любые проблемы.</string>
   <string name="recovery_retain_desc">"Не удалять установленные приложения при сбросе"</string>
-  <string name="network_diagnoser_desc" />
-  <string name="network_speed_test_desc" />
-  <string name="displaysound_desc" />
+  <string name="network_diagnoser_desc"/>
+  <string name="network_speed_test_desc"/>
+  <string name="displaysound_desc"/>
   <string name="installation_welcome_desc_en">Простые шаги для настройки вашего Mi Box</string>
   <string name="rc_connecting">Подключение... держите пульт рядом</string>
   <string name="rc_connecting_fail">"Не могу подключиться, повторите попытку"</string>
