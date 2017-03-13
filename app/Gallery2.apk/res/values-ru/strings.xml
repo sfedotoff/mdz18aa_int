@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="title_activity_filter_show">"Графический редактор"</string>
-    <string name="cannot_load_image">"Не удалось загрузить изображение."</string>
+    <string name="cannot_load_image">Не удалось загрузить изображение!</string>
     <string name="cannot_edit_original">"Не удалось загрузить оригинал"</string>
-    <string name="setting_wallpaper">"Установка обоев…"</string>
+    <string name="setting_wallpaper">Установка обоев</string>
     <string name="download_failure">"Не удалось скачать фото: сеть недоступна."</string>
     <string name="original">"Оригинал"</string>
     <string name="borders">"Рамка"</string>
@@ -15,7 +15,7 @@
     <string name="export_image">"Экспортировать"</string>
     <string name="print_image">"Печать"</string>
     <string name="export_flattened">"Экспорт с объединением слоев"</string>
-    <string name="select_output_settings">"Экспортированное изображение будет копией без истории изменений"</string>
+    <string name="select_output_settings">Экспортированное изображение будет копией без истории изменений.</string>
     <string name="quality">"Качество"</string>
     <string name="size">"Размер"</string>
     <string name="x">"x"</string>
@@ -107,7 +107,7 @@
     <string name="draw_size_accept">"ОК"</string>
     <string name="state_panel_original">"Как в оригинале"</string>
     <string name="state_panel_result">"Результат"</string>
-    <string name="filtershow_notification_label">"Сохранение…"</string>
+    <string name="filtershow_notification_label">Сохранение изображения</string>
     <string name="filtershow_notification_message">"Обработка…"</string>
     <string name="filtershow_save_preset">"Сохранить этот набор настроек"</string>
     <string name="filtershow_manage_preset">"Управление настройками"</string>
@@ -137,8 +137,8 @@
     <string name="details_hms">"%1$d:%2$02d:%3$02d"</string>
     <string name="movie_view_label">"Видеопроигрыватель"</string>
     <string name="loading_video">"Загрузка видео…"</string>
-    <string name="loading_image">"Загрузка изображения..."</string>
-    <string name="loading_account">"Загрузка аккаунта..."</string>
+    <string name="loading_image">Загрузка изображения…</string>
+    <string name="loading_account">Загрузка аккаунта…</string>
     <string name="resume_playing_title">"Продолжение просмотра видео"</string>
     <string name="resume_playing_message">"Продолжить воспроизведение с %s?"</string>
     <string name="resume_playing_resume">"Продолжить воспроизведение"</string>
@@ -150,7 +150,7 @@
     <string name="crop_save_text">"ОК"</string>
     <string name="ok">"ОК"</string>
     <string name="multiface_crop_help">"Нажмите на лицо, чтобы начать."</string>
-    <string name="saving_image">"Сохранение картинки..."</string>
+    <string name="saving_image">Сохранение картинки…</string>
     <string name="filtershow_saving_image">"Сохранение в альбоме \"%1$s\"…"</string>
     <string name="save_error">"Изображение не сохранено."</string>
     <string name="crop_label">"Обрезать фотографию"</string>
@@ -162,7 +162,7 @@
     <string name="select_group">"Выбрать группы"</string>
     <string name="set_image">"Установить картинку как"</string>
     <string name="set_wallpaper">"Установить обои"</string>
-    <string name="wallpaper">"Установка обоев..."</string>
+    <string name="wallpaper">Установка обоев…</string>
     <string name="camera_setas_wallpaper">"Обои"</string>
     <string name="delete">"Удалить"</string>
     <string name="confirm">"Подтвердить"</string>
@@ -186,12 +186,12 @@
     <string name="edit">"Редактировать"</string>
     <string name="simple_edit">"Простая правка"</string>
     <string name="process_caching_requests">"Обработка запросов на кэширование"</string>
-    <string name="caching_label">"Кэширование..."</string>
+    <string name="caching_label">Кэширование…</string>
     <string name="crop_action">"Кадрировать"</string>
     <string name="trim_action">"Обрезка"</string>
     <string name="mute_action">"Отключить звук"</string>
     <string name="set_as">"Установить как"</string>
-    <string name="video_mute_err">"Произошла ошибка"</string>
+    <string name="video_mute_err">Произошла ошибка.</string>
     <string name="video_err">"Не удалось воспроизвести видео."</string>
     <string name="group_by_location">"По месту съемки"</string>
     <string name="group_by_time">"По времени создания"</string>
@@ -207,10 +207,10 @@
     <string name="show_videos_only">"Только видео"</string>
     <string name="show_all">"Изображения и видео"</string>
     <string name="appwidget_title">"Фотогалерея"</string>
-    <string name="appwidget_empty_text">"Нет фотографий"</string>
+    <string name="appwidget_empty_text">Нет фотографий.</string>
     <string name="crop_saved">"Обрезанное изображение сохранено в папке %s."</string>
     <string name="no_albums_alert">"Нет доступных альбомов."</string>
-    <string name="empty_album">"Нет фото/видео"</string>
+    <string name="empty_album">Нет фото/видео.</string>
     <string name="picasa_posts">"Записи"</string>
     <string name="make_available_offline">"Офлайн-доступ"</string>
     <string name="sync_picasa_albums">"Обновить"</string>
@@ -284,32 +284,32 @@
     <string name="folder_edited_online_photos">"Отредактированные онлайн"</string>
     <string name="folder_imported">"Импортированные"</string>
     <string name="folder_screenshot">"Скриншоты"</string>
-    <string name="help">"Справка"</string>
+    <string name="help">Помощь</string>
     <string name="no_external_storage_title">"Накопитель не найден"</string>
     <string name="no_external_storage">"Нет внешних накопителей"</string>
     <string name="switch_photo_filmstrip">"Лента"</string>
     <string name="switch_photo_grid">"Сетка"</string>
     <string name="switch_photo_fullscreen">"Во весь экран"</string>
     <string name="trimming">"Обрезка"</string>
-    <string name="muting">"Подождите…"</string>
-    <string name="please_wait">"Подождите…"</string>
+    <string name="muting">Подождите</string>
+    <string name="please_wait">Подождите</string>
     <string name="save_into">"Сохранение в альбом \"%1$s\"…"</string>
     <string name="trim_too_short">"Нельзя обрезать видео: оно слишком короткое"</string>
-    <string name="pano_progress_text">"Создание панорамы…"</string>
+    <string name="pano_progress_text">Создание панорамы</string>
     <string name="save">"Сохранить"</string>
     <string name="ingest_scanning">"Сканирование…"</string>
     <string name="ingest_sorting">"Сортировка…"</string>
     <string name="ingest_scanning_done">"Сканирование завершено"</string>
     <string name="ingest_importing">"Импорт…"</string>
-    <string name="ingest_empty_device">"Ничего не найдено"</string>
+    <string name="ingest_empty_device">Нет данных для импортирования.</string>
     <string name="ingest_no_device">"MTP-устройство не подключено"</string>
     <string name="camera_error_title">"Ошибка камеры"</string>
     <string name="cannot_connect_camera">"Не удалось подключиться к камере."</string>
     <string name="camera_disabled">"Камера отключена в соответствии с политикой безопасности."</string>
     <string name="camera_label">"Камера"</string>
-    <string name="wait">"Подождите..."</string>
+    <string name="wait">Подождите…</string>
     <string name="no_storage">"Вставьте SD-карту перед использованием камеры."</string>
-    <string name="preparing_sd">"Подготовка карты SD..."</string>
+    <string name="preparing_sd">Подготовка карты SD…</string>
     <string name="access_sd_fail">"Нет доступа к SD-карте."</string>
     <string name="review_cancel">"ОТМЕНА"</string>
     <string name="review_ok">"ГОТОВО"</string>
@@ -386,7 +386,7 @@
     <string name="pref_camera_countdown_label_three">"3 СЕКУНДЫ"</string>
     <string name="pref_camera_countdown_label_ten">"10 СЕКУНД"</string>
     <string name="pref_camera_countdown_label_fifteen">"15 СЕКУНД"</string>
-    <string name="not_selectable_in_scene_mode">"Недоступно в режиме съемки"</string>
+    <string name="not_selectable_in_scene_mode">Недоступно в режиме съемки.</string>
     <string name="pref_exposure_title">"Экспозиция"</string>
     <string name="pref_exposure_label">"ЭКСПОЗИЦИЯ"</string>
     <string name="pref_camera_hdr_label">"HDR"</string>
@@ -396,13 +396,13 @@
     <string name="spaceIsLow_content">"Место на вашей SD-карте заканчивается. Измените настройки качества или удалите ненужные изображения и другие файлы."</string>
     <string name="video_reach_size_limit">"Достигнут предельный размер видео."</string>
     <string name="pano_too_fast_prompt">"Очень быстро"</string>
-    <string name="pano_dialog_prepare_preview">"Обработка..."</string>
+    <string name="pano_dialog_prepare_preview">Обработка панорамы</string>
     <string name="pano_dialog_panorama_failed">"Не удалось сохранить файл."</string>
     <string name="pano_dialog_title">"Панорама"</string>
-    <string name="pano_capture_indication">"Создание панорамы..."</string>
-    <string name="pano_dialog_waiting_previous">"Обработка предыдущего файла…"</string>
+    <string name="pano_capture_indication">Создание панорамы</string>
+    <string name="pano_dialog_waiting_previous">Обработка предыдущего файла</string>
     <string name="pano_review_saving_indication_str">"Сохранение…"</string>
-    <string name="pano_review_rendering">"Создание панорамы…"</string>
+    <string name="pano_review_rendering">Создание панорамы</string>
     <string name="tap_to_focus">"Нажмите для фокусировки."</string>
     <string name="pref_video_effect_title">"Эффекты"</string>
     <string name="effect_none">"Оригинал"</string>
@@ -417,8 +417,8 @@
     <string name="effect_backdropper_gallery">"Мои видео"</string>
     <string name="bg_replacement_message">"Установите устройство на твердой поверхности.\nЗатем отойдите, чтобы вас было видно в камеру."</string>
     <string name="video_snapshot_hint">"Нажмите, чтобы сделать фотографию во время записи."</string>
-    <string name="video_recording_started">"Запись начата"</string>
-    <string name="video_recording_stopped">"Запись остановлена"</string>
+    <string name="video_recording_started">Видеозапись начата.</string>
+    <string name="video_recording_stopped">Видеозапись остановлена.</string>
     <string name="disable_video_snapshot_hint">"Невозможно сделать снимок при включенных спецэффектах."</string>
     <string name="clear_effects">"Убрать эффекты"</string>
     <string name="effect_silly_faces">"СМЕШНЫЕ РОЖИЦЫ"</string>
@@ -508,9 +508,11 @@
     <string name="camera_menu_more_label">"ЕЩЁ"</string>
     <string name="camera_menu_settings_label">"НАСТРОЙКИ"</string>
     <plurals name="delete_selection">
-        <item quantity="one">"Удалить выбранный файл?"</item>
-        <item quantity="other">"Удалить выбранные файлы?"</item>
-    </plurals>
+	<item quantity="one">Удалить выбранный файл?</item>
+	<item quantity="few">Удалить %d выбранных файла?</item>
+	<item quantity="many">Удалить %d выбранных файлов?</item>
+	<item quantity="other"/>
+</plurals>
     <plurals name="number_of_items_selected">
         <item quantity="zero">"%1$d"</item>
         <item quantity="one">"%1$d"</item>
@@ -527,20 +529,26 @@
         <item quantity="other">"%1$d"</item>
     </plurals>
     <plurals name="make_albums_available_offline">
-        <item quantity="one">"Загрузка альбома для офлайн-доступа"</item>
-        <item quantity="other">"Загрузка альбомов для офлайн-доступа."</item>
-    </plurals>
+	<item quantity="one">Загрузка %d альбома для офлайн-доступа.</item>
+	<item quantity="few">Загрузка %d альбомов для офлайн-доступа.</item>
+	<item quantity="many">Загрузка %d альбомов для офлайн-доступа.</item>
+	<item quantity="other"></item>
+</plurals>
     <plurals name="ingest_number_of_items_scanned">
         <item quantity="zero">"Отсканировано: %1$d"</item>
         <item quantity="one">"Отсканировано: %1$d"</item>
         <item quantity="other">"Отсканировано: %1$d"</item>
     </plurals>
     <plurals name="pref_camera_timer_entry">
-        <item quantity="one">"1 сек."</item>
-        <item quantity="other">"%d сек."</item>
-    </plurals>
+	<item quantity="one">1 секунда</item>
+	<item quantity="few">%d секунды</item>
+	<item quantity="many">%d секунд</item>
+	<item quantity="other"/>
+</plurals>
     <plurals name="number_of_photos">
-        <item quantity="one">"%1$d фото"</item>
-        <item quantity="other">"%1$d фото"</item>
-    </plurals>
+	<item quantity="one">%1$d фотография</item>
+	<item quantity="few">%1$d фотографии</item>
+	<item quantity="many">%1$d фотографий</item>
+	<item quantity="other"/>
+</plurals>
 </resources>
