@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="application_name">"Браузер"</string>
     <string name="choose_upload">"Выберите файл для загрузки"</string>
@@ -35,7 +35,7 @@
     <string name="ssl_date_invalid">"Дата этого сертификата недействительна."</string>
     <string name="ssl_invalid">"Этот сертификат недействителен."</string>
     <string name="ssl_unknown">"Неизвестная ошибка сертификата."</string>
-    <string name="stopping">"Остановка..."</string>
+    <string name="stopping">Остановка…</string>
     <string name="stop">"Стоп"</string>
     <string name="reload">"Обновить"</string>
     <string name="back">"Назад"</string>
@@ -48,7 +48,7 @@
     <string name="new_folder">"Новая папка"</string>
     <string name="edit_folder">"Изменить папку"</string>
     <string name="delete_folder">"Удалить папку"</string>
-    <string name="no_subfolders">"Нет подпапок"</string>
+    <string name="no_subfolders">Нет подпапок.</string>
     <string name="add_to_bookmarks_menu_option">"Закладки"</string>
     <string name="add_to_homescreen_menu_option">"Главный экран"</string>
     <string name="add_to_other_folder_menu_option">"Другая папка"</string>
@@ -102,7 +102,7 @@
     <string name="contextmenu_download_image">"Сохранить изображение"</string>
     <string name="contextmenu_view_image">"Просмотреть изображение"</string>
     <string name="contextmenu_set_wallpaper">"Установить как обои"</string>
-    <string name="contextmenu_dial_dot">"Набор номера..."</string>
+    <string name="contextmenu_dial_dot">Набор номера…</string>
     <string name="contextmenu_add_contact">"Добавить контакт"</string>
     <string name="contextmenu_send_mail">"Отправить сообщение по электронной почте"</string>
     <string name="contextmenu_map">"Карта"</string>
@@ -235,13 +235,13 @@
     <string name="pref_link_prefetch_dialogtitle">"Предзагрузка веб-страниц"</string>
     <string name="browserFrameNetworkErrorLabel">"Ошибка подключения"</string>
     <string name="browserFrameFileErrorLabel">"Проблема с файлом"</string>
-    <string name="browserFrameFormResubmitLabel"></string>
+    <string name="browserFrameFormResubmitLabel"/>
     <string name="browserFrameFormResubmitMessage">"Страница, которую вы пытаетесь открыть, содержит уже отправленные данные (POSTDATA). В случае их повторной отправки повторятся все действия, выполненные на странице после заполнения формы (например, поиск или покупка)."</string>
     <string name="loadSuspendedTitle">"Нет подключения"</string>
     <string name="loadSuspended">"Не удалось загрузить страницу: нет интернет-подключения."</string>
     <string name="clear_history">"Очистить историю"</string>
     <string name="browser_history">"Недавно посещенные страницы"</string>
-    <string name="empty_history">"Нет данных"</string>
+    <string name="empty_history">Нет данных.</string>
     <string name="go_home">"Домашняя страница"</string>
     <string name="add_new_bookmark">"Добавить закладку"</string>
     <string name="add_bookmark_short">"Добавить"</string>
@@ -286,9 +286,9 @@
     <string name="website_settings_clear_all_dialog_message">"Удалить все данные веб-сайта и разрешения на доступ к сведениям о вашем местоположении?"</string>
     <string name="website_settings_clear_all_dialog_ok_button">"ОК"</string>
     <string name="website_settings_clear_all_dialog_cancel_button">"Отмена"</string>
-    <string name="progress_dialog_setting_wallpaper">"Установка обоев..."</string>
+    <string name="progress_dialog_setting_wallpaper">Установка обоев…</string>
     <string name="defaultBookmarksUpButton">"Закладки"</string>
-    <string name="empty_bookmarks_folder">"Нет закладок"</string>
+    <string name="empty_bookmarks_folder">Нет закладок.</string>
     <string name="other_bookmarks">"Другие закладки"</string>
     <string name="rlz_access_point">"Y1"</string>
     <string name="account_chooser_dialog_title">"Выберите аккаунт"</string>
@@ -312,7 +312,7 @@
     <string name="local_bookmarks">"Локальные"</string>
     <string name="ua_switcher_desktop">"Полная версия"</string>
     <string name="permission_preload_label">"Загрузить результаты"</string>
-    <string name="empty_snapshots_folder">"Нет сохраненных страниц"</string>
+    <string name="empty_snapshots_folder">Нет сохраненных страниц.</string>
     <string name="remove_snapshot">"Удалить сохраненную страницу"</string>
     <string name="snapshot_go_live">"Интерактивная версия"</string>
     <string name="accessibility_button_back">"Назад"</string>
@@ -335,4 +335,6 @@
     <string name="accessibility_state_frozen">"Сохраненная страница"</string>
     <string name="accessibility_transition_navscreen">"Управление вкладками"</string>
     <string name="accessibility_button_bookmarks_folder_up">"Предыдущая папка"</string>
-</resources>
+<string name="pref_default_text_encoding_default">UTF-8</string>
+    <string name="pref_development_viewport">Use wide viewport</string>
+    </resources>
