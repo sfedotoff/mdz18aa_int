@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="cancel">Отмена</string>
     <string name="copy">Копировать</string>
@@ -23,7 +23,7 @@
     <string name="yes">ОК</string>
     <string name="dialog_alert_title">Внимание</string>
     <string name="selectTextMode">Выбрать текст</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_bar_notification_info_overflow">&gt;999</string>
     <string name="numeric_date_template" formatted="false">%s-%s-%s</string>
     <string name="month_day_year" formatted="false">%B %-e, %Y</string>
     <string name="time_of_day">%-l:%M:%S %p</string>
@@ -1030,10 +1030,10 @@
     <string name="chooseActivity">"Выберите действие"</string>
     <string name="chooseUsbActivity">"Выбор приложения для USB-устройства"</string>
     <string name="noApplications">"Действие не поддерживается ни в одном приложении."</string>
-    <string name="aerr_title"></string>
+    <string name="aerr_title"/>
     <string name="aerr_application">"В приложении \"%1$s\" произошла ошибка."</string>
     <string name="aerr_process">"В приложении \"%1$s\" произошла ошибка."</string>
-    <string name="anr_title"></string>
+    <string name="anr_title"/>
     <string name="anr_activity_application">"Приложение \"%2$s\" не отвечает.\n\nЗакрыть его?"</string>
     <string name="anr_activity_process">"Приложение \"%1$s\" не отвечает.\n\nЗакрыть его?"</string>
     <string name="anr_application_process">"Приложение \"%1$s\" не отвечает. Закрыть его?"</string>
@@ -1240,7 +1240,7 @@
     <string name="vpn_lockdown_config">"Нажмите, чтобы изменить настройки"</string>
     <string name="upload_file">"Выбрать файл"</string>
     <string name="no_file_chosen">"Не выбран файл"</string>
-    <string name="reset">"Сбросить"</string>
+    <string name="reset">Сброс</string>
     <string name="submit">"Отправить"</string>
     <string name="car_mode_disable_notification_title">"Включен режим \"Штурман\""</string>
     <string name="car_mode_disable_notification_message">"Чтобы выйти, нажмите здесь."</string>
