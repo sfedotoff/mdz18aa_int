@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="app_name">MitvOauth</string>
     <string name="micloud_account_name">Mi аккаунт</string>
@@ -8,10 +8,10 @@
     <string name="login_title_v2">Вход в Mi аккаунт</string>
     <string name="login_qrcode_title_v3">Вход с помощью QR кода</string>
     <string name="login_input_desc_v3">Воспользуйтесь Mi аккаунтом для входа</string>
-    <string name="login_qrcode_desc_v3">Используйте сканер QR из последней версии MIUI</string>
-    <string name="login_qrcode_loading">Загрузка...</string>
+    <string name="login_qrcode_desc_v3">Используйте сканер QR из последней версии MIUI.</string>
+    <string name="login_qrcode_loading">Загрузка…</string>
     <string name="login_qrcode_loading_failed">Что-то пошло не так. Повторите попытку через пару минут.</string>
-    <string name="login_qrcode_logining">Авторизация...</string>
+    <string name="login_qrcode_logining">Авторизация…</string>
     <string name="locale_china_name">Материковый Китай</string>
     <string name="locale_china_hk_name">Гонконг</string>
     <string name="locale_china_tw_name">Тайвань</string>
@@ -21,13 +21,13 @@
     <string name="login_hint_captcha">Проверочный код</string>
     <string name="login_vcode_edit_hit">Динамический код из 6 символов</string>
     <string name="login_vcode_edit_title">Пожалуйста, введите 6-значный код</string>
-    <string name="login_vcode_checkbox_prompt">Это мое личное устройство, не требовать ввод пароля после входа</string>
+    <string name="login_vcode_checkbox_prompt">Это мое личное устройство, не требовать ввод пароля после входа.</string>
     <string name="familyid_error">Авторизация семейного аккаунта не удалась</string>
     <string name="register_notification_head">Регистрируя аккаунт вы соглашаетесь с условиями </string>
     <string name="register_notification_and">и</string>
     <string name="register_notification_agreement">Пользовательского соглашения</string>
     <string name="register_notification_privacy">Заявления о конфиденциальности</string>
-    <string name="relogin_reason">Нажмите "Зарегистрироваться"</string>
+    <string name="relogin_reason">Пароль вашего аккаунта изменен. Повторите вход.</string>
     <string name="relogin_user">ID аккаунта %s</string>
     <string name="relogin_button_ok">ОК</string>
     <string name="register_title">Зарегистрироваться</string>
@@ -38,7 +38,7 @@
     <string name="register_verification">%s код подтверждения получен</string>
     <string name="register_password_v2">Введите пароль аккаунта</string>
     <string name="account_bn_register">Зарегистрироваться</string>
-    <string name="dialog_send_verification_code_failed">Не удалось отправить код подтверждения</string>
+    <string name="dialog_send_verification_code_failed">Не удалось отправить код подтверждения.</string>
     <string name="dialog_phone_number_incorrect">Неправильно указан номер телефона</string>
     <string name="dialog_wrong_user">Имя пользователя или пароль неверны.</string>
     <string name="dialog_server_exception">Невозможно подключиться к серверу. Попробуйте через пару минут.</string>
@@ -47,9 +47,9 @@
     <string name="dialog_access_denied">Ваш аккаунт заблокирован. За дополнительной информацией обратитесь по почте mishu@xiaomi.com.</string>
     <string name="dialog_illegal_password">Неправильный пароль</string>
     <string name="dialog_phone_number_used">Этот номер телефона уже используется в другом аккаунте.</string>
-    <string name="dialog_bind_fail">Невозможно создать аккаунт. Попробуйте создать его на xiaomi.com</string>
-    <string name="dialog_verification_code_incorrect">Введенный код подтверждения некорректен.</string>
-    <string name="dialog_info_password_format">Пароль должен быть длиной 8-16 символов и содержать как буквы, так и цифры</string>
+    <string name="dialog_bind_fail">Невозможно создать аккаунт. Попробуйте создать его на account.xiaomi.com.</string>
+    <string name="dialog_verification_code_incorrect">Введенный код подтверждения некорректен</string>
+    <string name="dialog_info_password_format">Пароль должен быть длиной 8-16 символов и содержать как буквы, так и цифры.</string>
     <string name="dialog_invalid_userlocale_title">Не удалось войти</string>
     <string name="dialog_invalid_userlocale_info">Этот аккаунт связан с другим регионом. Воспользуйтесь аккаунтом, связанным с текущим регионом.</string>
     <string name="dialog_invalid_user">Неправильный пользователь</string>
@@ -76,22 +76,22 @@
     <string name="boot_login_mitoken_title">Введите токен Mi Security</string>
     <string name="boot_login_mitoken_subtitle">Введите динамический пароль, сгенерированный Mi Security</string>
     <string name="boot_login_qrcode_desc">Отсканируйте QR код</string>
-    <string name="login_forget_password">Забыли пароль?</string>
+    <string name="login_forget_password">Не помню пароль</string>
     <string name="login_forget_password_desc">Отсканируйте QR код для сброса пароля</string>
     <string name="login_forget_password_title">Сбросить пароль</string>
     <string name="need_relogin_notification_title">Ошибка входа %1$s</string>
-    <string name="need_relogin_notification_content">Пожалуйста, войдите снова</string>
+    <string name="need_relogin_notification_content">Пожалуйста, войдите снова.</string>
     <string name="passport_account_identity_title">Подтвердите личность</string>
     <string name="passport_account_identity_desc">Вам необходимо подтверждение для доступа к %s</string>
     <string name="cloud_entry_title">Использовать Mi Cloud</string>
     <string name="cloud">Mi Cloud</string>
-    <string name="cloud_entry_subtitle">Синхронизируйте музыку, фото и другие данные между своими устройствами</string>
+    <string name="cloud_entry_subtitle">Синхронизируйте музыку, фото и другие данные между своими устройствами.</string>
     <string name="cloud_entry_btn">ОК</string>
     <string name="cloud_entry_login_confirm_desc">Введите пароль</string>
     <string name="switch_on">вкл.</string>
     <string name="switch_off">откл.</string>
-    <string name="dialog_wrong_password">Неправильно введен пароль</string>
-    <string name="login_need_notification">Аккаунт требует подтверждения, отсканируйте QR код</string>
+    <string name="dialog_wrong_password">Неправильно введен пароль.</string>
+    <string name="login_need_notification">Аккаунт требует подтверждения, отсканируйте QR код!</string>
     <string name="account_security_hit">Безопасность аккаунта!</string>
     <string name="dialog_pk_notification">Была обнаружена подозрительная активность в вашем аккаунте.</string>
     <string name="account_notification_title">Безопасность аккаунта</string>
