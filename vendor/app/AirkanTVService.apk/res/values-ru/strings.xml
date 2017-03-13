@@ -62,4 +62,5 @@
     <string name="sony">SonyDTV</string>
 <string name="hello_world">Привет, мир!</string>
     <string name="action_settings">Настройки</string>
-    </resources>
+    <string name="btrc_service">Сервис пульта ДУ Mi Bluetooth</string>
+</resources>
