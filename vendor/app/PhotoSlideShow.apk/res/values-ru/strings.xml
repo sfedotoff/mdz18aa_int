@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="app_name">"Milink-Photo-Show"</string>
     <string name="action_settings">"Настройки"</string>
-    <string name="hello_world">"Hello world!"</string>
+    <string name="hello_world">Привет, мир!</string>
     <string name="menu_settings">"Настройки"</string>
     <string name="showtype_sliding">"Слайдшоу"</string>
     <string name="showtype_gallerywall">"Стена фото"</string>
