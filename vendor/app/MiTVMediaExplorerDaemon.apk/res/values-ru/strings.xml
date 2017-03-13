@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="app_name">MiTVMediaExplorerDaemon</string>
     <string name="title_activity_main">MainActivity</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Привет, мир!</string>
     <string name="action_settings">Настройки</string>
     <string name="new_usb_device">Обнаружено новое USB-устройство</string>
     <string name="new_sdcard_device">Обнаружена новая Micro SD карта</string>
