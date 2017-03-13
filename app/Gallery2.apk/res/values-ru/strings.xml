@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="title_activity_filter_show">"Графический редактор"</string>
     <string name="cannot_load_image">"Не удалось загрузить изображение."</string>
@@ -29,7 +29,7 @@
     <string name="reset">"Сброс"</string>
     <string name="imageState">"Эффекты"</string>
     <string name="compare_original">"Сравнить"</string>
-    <string name="apply_effect"></string>
+    <string name="apply_effect"/>
     <string name="reset_effect">"Сброс"</string>
     <string name="aspect">"Формат"</string>
     <string name="aspect1to1_effect">"1:1"</string>
@@ -173,7 +173,7 @@
     <string name="deleted">"Удалено"</string>
     <string name="undo">"ОТМЕНИТЬ"</string>
     <string name="select_all">"Выбрать все"</string>
-    <string name="deselect_all">"Отменить все"</string>
+    <string name="deselect_all">Снять выделение</string>
     <string name="slideshow">"Слайд-шоу"</string>
     <string name="details">"Сведения"</string>
     <string name="details_title">"Элементов %1$d из %2$d:"</string>
