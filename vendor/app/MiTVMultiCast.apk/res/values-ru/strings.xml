@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -10,7 +10,7 @@
     <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
     <string name="abc_capital_off">ОТКЛ.</string>
     <string name="abc_capital_on">ВКЛ.</string>
-    <string name="abc_search_hint">Поиск</string>
+    <string name="abc_search_hint">Поиск…</string>
     <string name="abc_searchview_description_clear">Удалить запрос</string>
     <string name="abc_searchview_description_query">Поисковый запрос</string>
     <string name="abc_searchview_description_search">Поиск</string>
@@ -19,7 +19,7 @@
     <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
-    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="status_bar_notification_info_overflow">&gt;999</string>
     <string name="airplay_version">1.0.0.0</string>
     <string name="app_code">1</string>
     <string name="app_name">Беспроводной экран</string>
@@ -84,4 +84,5 @@
     <string name="mm_music_detail_1">1. Подключите устройство и ТВ к одной WiFi сети</string>
     <string name="mm_music_detail_2">2. Нажмите эту иконку в плеере, выберите ТВ и начните воспроизведение</string>
     <string name="mm_video_detail_1">"1. Подключите устройство и ТВ к одной WiFi сети \n2. В плеере нажмите эту иконку, выберите ТВ и начните воспроизведение."</string>
-</resources>
+<string name="user">Пользователь</string>
+    </resources>
