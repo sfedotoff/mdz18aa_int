@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="app_name">Музыка</string>
     <string name="default_ttf">FZLTH_GBK.ttf</string>
@@ -41,11 +41,11 @@
     <string name="music_payment_subtitle_loseless">Насладитесь прослушиванием музыки в качестве Lossless</string>
     <string name="music_baidu_high">Высокое качество</string>
     <string name="music_baidu_lossless">Lossless</string>
-    <string name="music_baidu" />
+    <string name="music_baidu"/>
     <string name="music_month_fee">Mi Кредитов в месяц</string>
     <string name="music_normal_vip">VIP</string>
     <string name="music_gold_vip">Золотой VIP</string>
-    <string name="music_vip_dayhint1"></string>
+    <string name="music_vip_dayhint1"/>
     <string name="music_vip_dayhint2">дн.</string>
     <string name="renew_normal_to_gold_vip">Извините, VIP не может продлить действие Золотого VIP</string>
     <string name="renew_gold_to_normal_vip">Извините, Золотой VIP не может продлить VIP</string>
@@ -104,4 +104,6 @@
     <string name="music_url_error">Извините, не удалось получить данные о треке</string>
     <string name="cur_ch">Текущий канал</string>
     <string name="unknown">Неизвестно</string>
-</resources>
+<string name="hello_world">Привет, мир!</string>
+    <string name="action_settings">Настройки</string>
+    </resources>
