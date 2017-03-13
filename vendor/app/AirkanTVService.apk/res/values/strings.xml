@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AirkanParseAndroid</string>
+    <string name="app_name" translatable="false">AirkanParseAndroid</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="phonename_default">Xiaomi device</string>
@@ -17,24 +17,24 @@
     <string name="airkan_service_start">Airkan TV Serivce Started.</string>
     <string name="airkan_daemon_start">Airkan TV Daemon Started.</string>
     <string name="rc_daemon_start">Remote Controller TV Daemon Started.</string>
-    <string name="airkan_daemon_handle_progress">Airkan Handle Progress</string>
+    <string name="airkan_daemon_handle_progress" translatable="false">Airkan Handle Progress</string>
     <string name="recv_service_start">to receive service start broadcast</string>
     <string name="send_service_start">to send service start broadcast</string>
     <string name="mdns_service_name">mDNSSDRes Service</string>
     <string name="mdns_service_start">mDNSSD Responder Serivce Started.</string>
-    <string name="airplay_stub_activity_title">Airplay Stub Activity</string>
+    <string name="airplay_stub_activity_title" translatable="false">Airplay Stub Activity</string>
     <string name="airplay_applying_new_name">Setting Airplay device name:</string>
     <string name="airplay_please_wait">Please wait</string>
     <string name="airplay_service_started">Airplay Service Started</string>
     <string name="airplay_menu_settings">Settings</string>
     <string name="airplay_starting_service">Starting Airplay service</string>
-    <string name="rc_sensor_recv_service">Sensor Service</string>
-    <string name="title_activity_airplay_mirror">AirplayMirrorActivity</string>
+    <string name="rc_sensor_recv_service" translatable="false">Sensor Service</string>
+    <string name="title_activity_airplay_mirror" translatable="false">AirplayMirrorActivity</string>
     <string name="receiving_mirror_text">Receiving video from an Apple device</string>
     <string name="itool_text">iTools.cn</string>
-    <string name="milink_httpservice_name">MiLinkHttpServer</string>
+    <string name="milink_httpservice_name" translatable="false">MiLinkHttpServer</string>
     <string name="connect_fail_text">Mirror connection failed</string>
-    <string name="default_client_name" />
+    <string name="default_client_name" translatable="false" />
     <string name="default_device_name">MiBox</string>
     <string name="default_video_title">Video</string>
     <string name="default_music_title">Music</string>
@@ -59,7 +59,7 @@
     <string name="security_toast_note_2">Too many times to cancel certification, please try it later.</string>
     <string name="security_toast_note_1_pre">Too many times to cancel certification, please try it after</string>
     <string name="security_toast_note_1_last">minutes</string>
-    <string name="cast_ad_name_box">MiBox</string>
-    <string name="cast_ad_name_tv">MiTV</string>
+    <string name="cast_ad_name_box" translatable="false">MiBox</string>
+    <string name="cast_ad_name_tv" translatable="false">MiTV</string>
     <string name="btrc_service">Mi Bluetooth Remote Control Service</string>
 </resources>
