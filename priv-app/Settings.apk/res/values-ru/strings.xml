@@ -2811,4 +2811,5 @@
         <item quantity="other">Несколько приложений (%d) задают условия</item>
         <item quantity="one">%d приложение задает условия</item>
     </plurals>
-</resources>
+<string name="ok">ОК</string>
+    </resources>
