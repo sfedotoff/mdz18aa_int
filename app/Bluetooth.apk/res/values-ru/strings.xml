@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="permlab_bluetoothShareManager">"Доступ к диспетчеру загрузки."</string>
     <string name="permdesc_bluetoothShareManager">"Позволяет приложению получать доступ к диспетчеру передачи файлов по каналу Bluetooth и использовать его для передачи файлов."</string>
-    <string name="permlab_bluetoothWhitelist">"Доступ для устройств Bluetooth из белого списка"</string>
-    <string name="permdesc_bluetoothWhitelist">"Приложение сможет временно внести устройство Bluetooth в белый список и разрешит ему отправлять файлы на ваше устройство, не требуя от вас подтверждения"</string>
+    <string name="permlab_bluetoothWhitelist">Доступ для устройств Bluetooth из белого списка.</string>
+    <string name="permdesc_bluetoothWhitelist">Приложение сможет временно внести устройство Bluetooth в белый список и разрешит ему отправлять файлы на ваше устройство, не требуя от вас подтверждения.</string>
     <string name="bt_share_picker_label">"Bluetooth"</string>
     <string name="unknown_device">"Неизвестное устройство"</string>
     <string name="unknownNumber">"Неизвестно"</string>
     <string name="airplane_error_title">"Режим полета"</string>
     <string name="airplane_error_msg">"В режиме полета нельзя использовать Bluetooth."</string>
-    <string name="bt_enable_title"></string>
+    <string name="bt_enable_title"/>
     <string name="bt_enable_line1">"Чтобы использовать службы Bluetooth, включите адаптер Bluetooth."</string>
     <string name="bt_enable_line2">"Включить Bluetooth?"</string>
     <string name="bt_enable_cancel">"Отмена"</string>
@@ -28,28 +28,28 @@
     <string name="notification_received_fail">"Файл не передан: %1$s"</string>
     <string name="notification_sending">"Отправка по Bluetooth: %1$s"</string>
     <string name="notification_sent">"Передано по Bluetooth: %1$s"</string>
-    <string name="notification_sent_complete">"100% завершено."</string>
+    <string name="notification_sent_complete">100% завершено</string>
     <string name="notification_sent_fail">"Файл не передан: %1$s"</string>
     <string name="download_title">"Передача файла"</string>
     <string name="download_line1">"От: \"%1$s\""</string>
     <string name="download_line2">"Файл: %1$s"</string>
     <string name="download_line3">"Размер файла: %1$s"</string>
-    <string name="download_line4"></string>
-    <string name="download_line5">"Получение файла..."</string>
+    <string name="download_line4"/>
+    <string name="download_line5">Получение файла…</string>
     <string name="download_cancel">"Остановить"</string>
     <string name="download_ok">"Скрыть"</string>
-    <string name="incoming_line1">"От:"</string>
-    <string name="incoming_line2">"Файл:"</string>
-    <string name="incoming_line3">"Размер:"</string>
-    <string name="download_fail_line1">"Файл не получен."</string>
+    <string name="incoming_line1">От</string>
+    <string name="incoming_line2">Файл</string>
+    <string name="incoming_line3">Размер</string>
+    <string name="download_fail_line1">Файл не получен</string>
     <string name="download_fail_line2">"Файл: %1$s"</string>
     <string name="download_fail_line3">"Причина: %1$s"</string>
     <string name="download_fail_ok">"ОК"</string>
-    <string name="download_succ_line5">"Файл получен."</string>
+    <string name="download_succ_line5">Файл получен</string>
     <string name="download_succ_ok">"Открыть"</string>
     <string name="upload_line1">"Куда: \"%1$s\""</string>
     <string name="upload_line3">"Тип файла: %1$s (%2$s)"</string>
-    <string name="upload_line5">"Отправка файла..."</string>
+    <string name="upload_line5">Отправка файла…</string>
     <string name="upload_succ_line5">"Файл отправлен"</string>
     <string name="upload_succ_ok">"ОК"</string>
     <string name="upload_fail_line1">"Файл не был отправлен на устройство \"%1$s\"."</string>
@@ -61,8 +61,8 @@
     <string name="unknown_file_desc">"Нет приложений для работы с файлами этого типа. "\n</string>
     <string name="not_exist_file">"Нет файла"</string>
     <string name="not_exist_file_desc">"Файл не существует. "\n</string>
-    <string name="enabling_progress_title">"Подождите..."</string>
-    <string name="enabling_progress_content">"Включение Bluetooth..."</string>
+    <string name="enabling_progress_title">Подождите…</string>
+    <string name="enabling_progress_content">Включение Bluetooth…</string>
     <string name="bt_toast_1">"Этот файл будет получен. Ход выполнения отображается на панели уведомлений."</string>
     <string name="bt_toast_2">"Невозможно получить файл."</string>
     <string name="bt_toast_3">"Получение файла от \"%1$s\" прервано"</string>
@@ -82,13 +82,13 @@
     <string name="status_no_sd_card" product="default">"Отсутствует SD-карта. Вставьте SD-карту для сохранения переданных файлов."</string>
     <string name="status_connection_error">"Не удалось установить соединение."</string>
     <string name="status_protocol_error">"Невозможно правильно обработать запрос."</string>
-    <string name="status_unknown_error">"Неизвестная ошибка"</string>
+    <string name="status_unknown_error">Неизвестная ошибка.</string>
     <string name="btopp_live_folder">"Получено по Bluetooth"</string>
     <string name="download_success">"Получено: %1$s."</string>
     <string name="upload_success">"Отправлено: %1$s."</string>
     <string name="inbound_history_title">"Входящие передачи"</string>
     <string name="outbound_history_title">"Исходящие передачи"</string>
-    <string name="no_transfers">"Нет данных"</string>
+    <string name="no_transfers">История передачи пуста.</string>
     <string name="transfer_clear_dlg_msg">"Все элементы будут удалены из списка."</string>
     <string name="outbound_noti_title">"Передано по Bluetooth"</string>
     <string name="inbound_noti_title">"Получено по Bluetooth"</string>
@@ -107,11 +107,11 @@
     <string name="bluetooth_map_email_settings_count">"Осталось мест:"</string>
     <string name="bluetooth_map_email_settings_app_icon">"Значок приложения"</string>
     <string name="bluetooth_map_email_settings_title">"Настройки доступа к сообщениям через Bluetooth"</string>
-    <string name="bluetooth_map_email_settings_no_account_slots_left">"Не удалось выбрать аккаунт: не осталось мест."</string>
+    <string name="bluetooth_map_email_settings_no_account_slots_left">Не удалось выбрать аккаунт: не осталось мест</string>
     <string name="pbap_session_key_dialog_title">"Введите ключ сеанса для %1$s"</string>
-    <string name="pbap_session_key_dialog_header">"Необходим ключ сеанса Bluetooth."</string>
-    <string name="pbap_acceptance_timeout_message">"Истекло время ожидания при установке подключения к %1$s."</string>
-    <string name="pbap_authentication_timeout_message">"Истекло время ожидания ввода ключа сеанса для связи с %1$s."</string>
+    <string name="pbap_session_key_dialog_header">Необходим ключ сеанса Bluetooth</string>
+    <string name="pbap_acceptance_timeout_message">Истекло время ожидания при установке подключения к %1$s</string>
+    <string name="pbap_authentication_timeout_message">Истекло время ожидания ввода ключа сеанса для связи с %1$s</string>
     <string name="auth_notif_ticker">"Запрос на аутентификацию Obex"</string>
     <string name="auth_notif_title">"Ключ сеанса"</string>
     <string name="auth_notif_message">"Введите ключ сеанса для %1$s"</string>
@@ -140,4 +140,11 @@
     <string name="map_unknownName">"Без названия"</string>
     <string name="map_localPhoneName">"Мое название"</string>
     <string name="map_defaultnumber">"000000"</string>
-</resources>
+<string name="bt_advanced_settings">Расширенные настройки Bluetooth</string>
+    <string name="profile_hidd">Устройство HID</string>
+    <string name="profile_description_hidd">Профиль устройства (HID)</string>
+    <string name="active_mode">Режим</string>
+    <string name="TV_mode">Режим ТВ</string>
+    <string name="Headset_mode">Режим гарнитуры</string>
+    <string name="bt_toast_conn">Подключение в этом режиме запрещено</string>
+    </resources>
