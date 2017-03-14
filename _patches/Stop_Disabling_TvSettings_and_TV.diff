@@ -1,0 +1,35 @@
+From 4044a737c700e23a3d3bf6d7438ce2fb05e1e48f Mon Sep 17 00:00:00 2001
+From: Stanislav Fedotov <me@moneyseeker.ru>
+Date: Tue, 14 Mar 2017 23:17:18 +0300
+Subject: [PATCH] Stop_Disabling_TvSettings_and_TV
+
+---
+ .../com/android/server/am/MitvActivityManagerService.smali   | 12 ------------
+ 1 file changed, 12 deletions(-)
+
+diff --git a/framework/services.jar/smali/com/android/server/am/MitvActivityManagerService.smali b/framework/services.jar/smali/com/android/server/am/MitvActivityManagerService.smali
+index e93cdd1..045354e 100644
+--- a/framework/services.jar/smali/com/android/server/am/MitvActivityManagerService.smali
++++ b/framework/services.jar/smali/com/android/server/am/MitvActivityManagerService.smali
+@@ -119,18 +119,6 @@
+ 
+     const/4 v1, 0x7
+ 
+-    const-string v2, "com.android.tv.settings"
+-
+-    aput-object v2, v0, v1
+-
+-    const/16 v1, 0x8
+-
+-    const-string v2, "com.android.tv"
+-
+-    aput-object v2, v0, v1
+-
+-    const/16 v1, 0x9
+-
+     const-string v2, "com.android.providers.calendar"
+ 
+     aput-object v2, v0, v1
+-- 
+2.10.2.windows.1
+
