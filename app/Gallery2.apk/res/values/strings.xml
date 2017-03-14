@@ -3,7 +3,7 @@
     <string name="title_activity_filter_show">Photo Editor</string>
     <string name="cannot_load_image">Cannot load the image!</string>
     <string name="cannot_edit_original">Cannot edit original</string>
-    <string name="original_picture_text">@string/original</string>
+    <string name="original_picture_text" translatable="false">@string/original</string>
     <string name="setting_wallpaper">Setting wallpaper</string>
     <string name="download_failure">Could not download photo. Network unavailable.</string>
     <string name="original">Original</string>
@@ -28,7 +28,7 @@
     <string name="exit">Exit</string>
     <string name="history">History</string>
     <string name="reset">Reset</string>
-    <string name="history_original">@string/original</string>
+    <string name="history_original" translatable="false">@string/original</string>
     <string name="imageState">Applied Effects</string>
     <string name="compare_original">Compare</string>
     <string name="apply_effect">Apply</string>
@@ -42,7 +42,7 @@
     <string name="aspect7to5_effect">7:5</string>
     <string name="aspect9to16_effect">16:9</string>
     <string name="aspectNone_effect">None</string>
-    <string name="aspectOriginal_effect">@string/original</string>
+    <string name="aspectOriginal_effect" translatable="false">@string/original</string>
     <string name="Fixed">Fixed</string>
     <string name="tinyplanet">Tiny Planet</string>
     <string name="exposure">Exposure</string>
@@ -300,16 +300,16 @@
     <string name="trim_too_short">Can not trim : target video is too short</string>
     <string name="pano_progress_text">Rendering panorama</string>
     <string name="save">Save</string>
-    <string name="ingest_import">@string/Import</string>
-    <string name="ingest_import_complete">@string/import_complete</string>
+    <string name="ingest_import" translatable="false">@string/Import</string>
+    <string name="ingest_import_complete" translatable="false">@string/import_complete</string>
     <string name="ingest_scanning">Scanning content...</string>
     <string name="ingest_sorting">Sorting...</string>
     <string name="ingest_scanning_done">Scanning done</string>
     <string name="ingest_importing">Importing...</string>
     <string name="ingest_empty_device">There is no content available for importing on this device.</string>
     <string name="ingest_no_device">There is no MTP device connected</string>
-    <string name="ingest_switch_photo_grid">@string/switch_photo_grid</string>
-    <string name="ingest_switch_photo_fullscreen">@string/switch_photo_fullscreen</string>
+    <string name="ingest_switch_photo_grid" translatable="false">@string/switch_photo_grid</string>
+    <string name="ingest_switch_photo_fullscreen" translatable="false">@string/switch_photo_fullscreen</string>
     <string name="camera_error_title">Camera error</string>
     <string name="cannot_connect_camera">"Can't connect to the camera."</string>
     <string name="camera_disabled">Camera has been disabled because of security policies.</string>
@@ -322,29 +322,29 @@
     <string name="review_ok">DONE</string>
     <string name="time_lapse_title">Time lapse recording</string>
     <string name="pref_camera_id_title">Choose camera</string>
-    <string name="pref_camera_id_default">0</string>
+    <string name="pref_camera_id_default" translatable="false">0</string>
     <string name="pref_camera_id_entry_back">Back</string>
     <string name="pref_camera_id_entry_front">Front</string>
     <string name="pref_camera_recordlocation_title">Store location</string>
-    <string name="pref_camera_recordlocation_default">none</string>
+    <string name="pref_camera_recordlocation_default" translatable="false">none</string>
     <string name="pref_camera_location_label">LOCATION</string>
     <string name="pref_camera_timer_title">Countdown timer</string>
-    <string name="pref_camera_timer_default">0</string>
-    <string name="pref_camera_timer_sound_default">@string/setting_on_value</string>
+    <string name="pref_camera_timer_default" translatable="false">0</string>
+    <string name="pref_camera_timer_sound_default" translatable="false">@string/setting_on_value</string>
     <string name="pref_camera_timer_sound_title">Beep during countdown</string>
     <string name="setting_off">Off</string>
     <string name="setting_on">On</string>
-    <string name="setting_off_value">off</string>
-    <string name="setting_on_value">on</string>
+    <string name="setting_off_value" translatable="false">off</string>
+    <string name="setting_on_value" translatable="false">on</string>
     <string name="pref_video_quality_title">Video quality</string>
-    <string name="pref_video_quality_default">5</string>
+    <string name="pref_video_quality_default" translatable="false">5</string>
     <string name="pref_video_quality_entry_1080p">HD 1080p</string>
     <string name="pref_video_quality_entry_720p">HD 720p</string>
     <string name="pref_video_quality_entry_480p">SD 480p</string>
     <string name="pref_video_quality_entry_high">High</string>
     <string name="pref_video_quality_entry_low">Low</string>
     <string name="pref_video_time_lapse_frame_interval_title">Time lapse</string>
-    <string name="pref_video_time_lapse_frame_interval_default">0</string>
+    <string name="pref_video_time_lapse_frame_interval_default" translatable="false">0</string>
     <string name="pref_camera_settings_category">Camera settings</string>
     <string name="pref_camcorder_settings_category">Camcorder settings</string>
     <string name="pref_camera_picturesize_title">Picture size</string>
@@ -366,8 +366,8 @@
     <string name="pref_camera_focusmode_label_auto">AUTO</string>
     <string name="pref_camera_focusmode_label_infinity">INFINITY</string>
     <string name="pref_camera_focusmode_label_macro">MACRO</string>
-    <string name="pref_camera_flashmode_default">auto</string>
-    <string name="pref_camera_flashmode_no_flash">no_flash</string>
+    <string name="pref_camera_flashmode_default" translatable="false">auto</string>
+    <string name="pref_camera_flashmode_no_flash" translatable="false">no_flash</string>
     <string name="pref_camera_flashmode_title">Flash mode</string>
     <string name="pref_camera_flashmode_label">FLASH MODE</string>
     <string name="pref_camera_flashmode_entry_auto">Auto</string>
@@ -376,8 +376,8 @@
     <string name="pref_camera_flashmode_label_auto">FLASH AUTO</string>
     <string name="pref_camera_flashmode_label_on">FLASH ON</string>
     <string name="pref_camera_flashmode_label_off">FLASH OFF</string>
-    <string name="pref_camera_video_flashmode_default">off</string>
-    <string name="pref_camera_whitebalance_default">auto</string>
+    <string name="pref_camera_video_flashmode_default" translatable="false">off</string>
+    <string name="pref_camera_whitebalance_default" translatable="false">auto</string>
     <string name="pref_camera_whitebalance_title">White balance</string>
     <string name="pref_camera_whitebalance_label">WHITE BALANCE</string>
     <string name="pref_camera_whitebalance_entry_auto">Auto</string>
@@ -390,7 +390,7 @@
     <string name="pref_camera_whitebalance_label_daylight">DAYLIGHT</string>
     <string name="pref_camera_whitebalance_label_fluorescent">FLUORESCENT</string>
     <string name="pref_camera_whitebalance_label_cloudy">CLOUDY</string>
-    <string name="pref_camera_scenemode_default">auto</string>
+    <string name="pref_camera_scenemode_default" translatable="false">auto</string>
     <string name="pref_camera_scenemode_title">Scene mode</string>
     <string name="pref_camera_scenemode_entry_auto">Auto</string>
     <string name="pref_camera_scenemode_entry_hdr">HDR</string>
@@ -411,17 +411,17 @@
     <string name="pref_camera_countdown_label_fifteen">15 SECONDS</string>
     <string name="not_selectable_in_scene_mode">Not selectable in scene mode.</string>
     <string name="pref_exposure_title">Exposure</string>
-    <string name="pref_exposure_default">0</string>
+    <string name="pref_exposure_default" translatable="false">0</string>
     <string name="pref_exposure_label">EXPOSURE</string>
-    <string name="pref_camera_hdr_default">@string/setting_off_value</string>
+    <string name="pref_camera_hdr_default" translatable="false">@string/setting_off_value</string>
     <string name="pref_camera_hdr_label">HDR</string>
     <string name="pref_camera_id_label_back">FRONT CAMERA</string>
     <string name="pref_camera_id_label_front">BACK CAMERA</string>
     <string name="dialog_ok">OK</string>
     <string name="spaceIsLow_content">Your SD card is running out of space. Change the quality setting or delete some images or other files.</string>
-    <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
-    <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
-    <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
+    <string name="image_file_name_format" translatable="false">"'IMG'_yyyyMMdd_HHmmss"</string>
+    <string name="video_file_name_format" translatable="false">"'VID'_yyyyMMdd_HHmmss"</string>
+    <string name="pano_file_name_format" translatable="false">"'PANO'_yyyyMMdd_HHmmss"</string>
     <string name="video_reach_size_limit">Size limit reached.</string>
     <string name="pano_too_fast_prompt">Too fast</string>
     <string name="pano_dialog_prepare_preview">Preparing panorama</string>
@@ -432,7 +432,7 @@
     <string name="pano_review_saving_indication_str">Saving…</string>
     <string name="pano_review_rendering">Rendering panorama</string>
     <string name="tap_to_focus">Touch to focus.</string>
-    <string name="pref_video_effect_default">none</string>
+    <string name="pref_video_effect_default" translatable="false">none</string>
     <string name="pref_video_effect_title">Effects</string>
     <string name="effect_none">None</string>
     <string name="effect_goofy_face_squeeze">Squeeze</string>
@@ -476,7 +476,7 @@ Step out of view for a moment."</string>
     <string name="accessibility_pause_video">Pause video</string>
     <string name="accessibility_reload_video">Reload video</string>
     <string name="accessibility_time_bar">Video player time bar</string>
-    <string name="empty">" "</string>
+    <string name="empty" translatable="false">" "</string>
     <string name="capital_on">ON</string>
     <string name="capital_off">OFF</string>
     <string name="pref_video_time_lapse_frame_interval_off">Off</string>

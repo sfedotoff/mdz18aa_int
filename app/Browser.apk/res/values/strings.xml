@@ -216,20 +216,20 @@
     <string name="pref_extras_reset_default_summary">Restore default settings</string>
     <string name="pref_extras_reset_default_dlg">Revert settings to default values?</string>
     <string name="pref_development_title">Debug</string>
-    <string name="pref_development_viewport">Use wide viewport</string>
-    <string name="pref_development_single_column_rendering">Single column rendering</string>
-    <string name="pref_development_normal_rendering">Normal rendering</string>
-    <string name="pref_development_trace">Enable tracing</string>
-    <string name="pref_development_nav_dump">Enable nav cache dump</string>
-    <string name="pref_development_hardware_accel">Enable OpenGL Rendering</string>
-    <string name="pref_development_hardware_accel_skia">Enable HW Accelerated Skia</string>
-    <string name="pref_development_visual_indicator">Enable Visual Indicator</string>
-    <string name="pref_development_cpu_upload_path">Enable Cpu Upload Path</string>
-    <string name="js_engine_flags">Set JS flags</string>
-    <string name="pref_development_uastring">UAString</string>
-    <string name="pref_development_error_console">Show JavaScript Console</string>
-    <string name="pref_development_reset_prelogin">Reset prelogin</string>
-    <string name="pref_default_text_encoding">Text encoding</string>
+    <string name="pref_development_viewport" tranlatable="false">Use wide viewport</string>
+    <string name="pref_development_single_column_rendering" tranlatable="false">Single column rendering</string>
+    <string name="pref_development_normal_rendering" tranlatable="false">Normal rendering</string>
+    <string name="pref_development_trace" tranlatable="false">Enable tracing</string>
+    <string name="pref_development_nav_dump" tranlatable="false">Enable nav cache dump</string>
+    <string name="pref_development_hardware_accel" tranlatable="false">Enable OpenGL Rendering</string>
+    <string name="pref_development_hardware_accel_skia" tranlatable="false">Enable HW Accelerated Skia</string>
+    <string name="pref_development_visual_indicator" tranlatable="false">Enable Visual Indicator</string>
+    <string name="pref_development_cpu_upload_path" tranlatable="false">Enable Cpu Upload Path</string>
+    <string name="js_engine_flags" tranlatable="false">Set JS flags</string>
+    <string name="pref_development_uastring" tranlatable="false">UAString</string>
+    <string name="pref_development_error_console" tranlatable="false">Show JavaScript Console</string>
+    <string name="pref_development_reset_prelogin" tranlatable="false">Reset prelogin</string>
+    <string name="pref_default_text_encoding" tranlatable="false">Text encoding</string>
     <string name="pref_default_text_encoding_dialogtitle">Text encoding</string>
     <string name="pref_accessibility_title">Accessibility</string>
     <string name="pref_font_size_category">Text size</string>
@@ -242,17 +242,17 @@
     <string name="pref_lab_fullscreen_summary">Use fullscreen mode to hide the status bar</string>
     <string name="pref_data_title">Bandwidth management</string>
     <string name="pref_data_preload_title">Search result preloading</string>
-    <string name="pref_data_preload_value_never">NEVER</string>
-    <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
-    <string name="pref_data_preload_value_always">ALWAYS</string>
-    <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
+    <string name="pref_data_preload_value_never" tranlatable="false">NEVER</string>
+    <string name="pref_data_preload_value_wifi_only" tranlatable="false">WIFI_ONLY</string>
+    <string name="pref_data_preload_value_always" tranlatable="false">ALWAYS</string>
+    <string name="pref_data_preload_default_value" tranlatable="false">@string/pref_data_preload_value_wifi_only</string>
     <string name="pref_data_preload_summary">Allow browser to preload high confidence search results in the background</string>
     <string name="pref_data_preload_dialogtitle">Search result preloading</string>
     <string name="pref_link_prefetch_title">Web page preloading</string>
-    <string name="pref_link_prefetch_value_never">NEVER</string>
-    <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
-    <string name="pref_link_prefetch_value_always">ALWAYS</string>
-    <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
+    <string name="pref_link_prefetch_value_never" tranlatable="false">NEVER</string>
+    <string name="pref_link_prefetch_value_wifi_only" tranlatable="false">WIFI_ONLY</string>
+    <string name="pref_link_prefetch_value_always" tranlatable="false">ALWAYS</string>
+    <string name="pref_link_prefetch_default_value" tranlatable="false">@string/pref_link_prefetch_value_wifi_only</string>
     <string name="pref_link_prefetch_summary">Allow browser to preload linked web pages in the background</string>
     <string name="pref_link_prefetch_dialogtitle">Web page preloading</string>
     <string name="browserFrameNetworkErrorLabel">Connection problem</string>
@@ -285,7 +285,7 @@
     <string name="cannot_download">Can only download \"http\" or \"https\" URLs.</string>
     <string name="download_pending">Starting download…</string>
     <string name="dump_nav">Dump navigation cache</string>
-    <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
+    <string name="homepage_base" tranlatable="false">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="picasa">Picasa</string>
     <string name="search_the_web">Search the web</string>
     <string name="webstorage_outofspace_notification_title">Browser storage full</string>

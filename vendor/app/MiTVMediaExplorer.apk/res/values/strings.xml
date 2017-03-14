@@ -80,7 +80,7 @@ are connected to the same LAN"</string>
     <string name="failed_text_11">The movie cannot be played, you have not purchased this movie in your current account. To purchase, please visit Thunder Cinema.</string>
     <string name="failed_text_49">The movie you requested is currently unavailable. Please request it again after it becomes available.</string>
     <string name="failed_text_21">Maximum number of concurrent playbacks exceeded. You can view the movie on a previously logged on device.</string>
-    <string name="failed_text_708" />
+    <string name="failed_text_708">Maximum number of concurrent playbacks exceeded. You can view the movie on a previously logged on device.</string>
     <string name="failed_text_502">The movie that you requested has expired or has been taken off the shelf.</string>
     <string name="scraper_zipai_folder">[Profile Video]</string>
     <string name="scraper_mv_folder">[Music Video]</string>
@@ -153,7 +153,7 @@ are connected to the same LAN"</string>
     <string name="hide_introduction_psw_set_button">Set Password</string>
     <string name="privacy_folder_introduction_back_button">Return</string>
     <string name="hide_introduction_title_pre">You are hiding.</string>
-    <string name="hide_introduction_title_post" />
+    <string name="hide_introduction_title_post" translatable="false" />
     <string name="hide_introduction_title_post_long">"… "</string>
     <string name="under_psw_text">Set password for the private videos</string>
     <string name="under_back_text">Return to Movies List</string>
@@ -211,7 +211,7 @@ you can restore the device to factory settings to clear the password"</string>
     <string name="empty_photo_des">You can connect USB drives to %s or share through local network</string>
     <string name="empty_dev_tilte">No Device Found</string>
     <string name="empty_dev_des">You can connect USB drives or create share folder through local network</string>
-    <string name="miwifi_empty_title" />
+    <string name="miwifi_empty_title">Empty :(</string>
     <string name="miwifi_empty_photo_des">"You need to install an app
 to back up your photos to your router"</string>
     <string name="miwifi_empty_dev_des">"You need to install a file exporer app
@@ -226,13 +226,13 @@ to transfer files to your router"</string>
     <string name="empty_video_des">You can connect USB drives or create share folder through local network</string>
     <string name="empty_music_title">No Music Found</string>
     <string name="empty_music_des">You can connect USB drives or create share folder through local network</string>
-    <string name="default_font">sans-serif-light</string>
+    <string name="default_font" translatable="false">sans-serif-light</string>
     <string name="wrong_pwd">Incorrect password</string>
-    <string name="xq_icon_space">\#R98</string>
+    <string name="xq_icon_space" translatable="false">\#R98</string>
     <string name="xq_icon_downlaod">Download</string>
     <string name="xq_icon_share">share files</string>
-    <string name="music_list_item_singer_count" />
-    <string name="music_list_item_album_count" />
+    <string name="music_list_item_singer_count" translatable="false" />
+    <string name="music_list_item_album_count" translatable="false" />
     <string name="hd_download_loading">Loading…</string>
     <string name="hd_no_task_found">No files can be upgraded</string>
     <string name="hd_total_task">Upgraded %d song files</string>
@@ -246,7 +246,7 @@ to transfer files to your router"</string>
     <string name="music_list_view_header_singer">By Artist</string>
     <string name="music_list_view_header_album">By Album</string>
     <string name="thunder_download">Downloaded</string>
-    <string name="music_count" />
+    <string name="music_count" translatable="false" />
     <string name="collection_count_text">%s</string>
     <string name="delete_video_collection_text">Are you sure you want to delete this video?</string>
     <string name="gxq_lable_movie">%s videos</string>
@@ -291,7 +291,7 @@ You can see the video details"</string>
     <string name="empty_music_des_nodisk">You can play music via LAN sharing</string>
     <string name="require_current_password_input">Enter current password</string>
     <string name="require_new_password_input">Enter new password</string>
-    <string name="title_activity_media_detail">MediaDetailActivity</string>
+    <string name="title_activity_media_detail" translatable="false">MediaDetailActivity</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="xq_dialog_title">Accessing shared files</string>

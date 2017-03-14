@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">RemoteControllerService</string>
+    <string name="app_name" translatable="false">RemoteControllerService</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
@@ -23,7 +23,7 @@
     <string name="mihome_remote_logout_main">Your account was logged in remotely</string>
     <string name="mihome_remote_logout_title">Sign in to change</string>
     <string name="a_code_title">Verification code</string>
-    <string name="a_code_content_font">sans-serif-light</string>
+    <string name="a_code_content_font" translatable="false">sans-serif-light</string>
     <string name="a_code_note_1">Press</string>
     <string name="a_code_note_2">to return</string>
     <string name="upgrade_assistant_app_tip">Update MiTVAssistant app</string>

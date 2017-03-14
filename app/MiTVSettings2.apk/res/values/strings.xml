@@ -17,7 +17,7 @@
     <string name="mitv_bluetooth_discoverable">Discoverable</string>
     <string name="mitv_bluetooth_scan">Discover Bluetooth devices</string>
     <string name="mitv_bluetooth_title">Bluetooth settings for %1$s</string>
-    <string name="mitv_bluetooth_subtitle" />
+    <string name="mitv_bluetooth_subtitle">Add or manage external devices</string>
     <string name="mitv_bluetooth_paired_category">Paired devices</string>
     <string name="mitv_bluetooth_available_category">Available devices</string>
     <string name="mitv_bluetooth_paired_device">Paired device</string>
@@ -66,7 +66,7 @@
     <string name="bluetooth_remember_choice">"Don't ask again"</string>
     <string name="bluetooth_map_request">Message access request</string>
     <string name="bluetooth_map_acceptance_dialog_text">%1$s wants to access your messages. Give access to %2$s?</string>
-    <string name="bluetooth_error_title" />
+    <string name="bluetooth_error_title" translatable="false" />
     <string name="bluetooth_pairing_error_message">"Couldn't pair with %1$s."</string>
     <string name="bluetooth_pairing_pin_error_message">"Couldn't pair with %1$s because of an incorrect PIN or passkey."</string>
     <string name="bluetooth_pairing_device_down_error_message">"Can't communicate with %1$s."</string>
@@ -129,7 +129,7 @@
     <string name="input_source">Input source</string>
     <string name="wifi_network">WI-FI</string>
     <string name="network_test">TEST NETWORK</string>
-    <string name="network_settings_desc" />
+    <string name="network_settings_desc">Network related settings</string>
     <string name="ethernet">Ethernet</string>
     <string name="wifi">Wi-Fi</string>
     <string name="disconnected">Disconnected</string>
@@ -329,7 +329,7 @@ total free time %2$s minutes in 30 days."</string>
     <string name="wifi_tether_ap">Hotspot</string>
     <string name="wifi_tether_ap_desc">Use this TV as a Wi-Fi hotspot</string>
     <string name="pppoe_connect">PPPOE connection</string>
-    <string name="pppoe_connect_desc" />
+    <string name="pppoe_connect_desc">PPPOE connection related settings</string>
     <string name="pppoe_username">Enter username</string>
     <string name="pppoe_username_empty">"Username can't be empty"</string>
     <string name="pppoe_username_overlength">"Username can't exceed 30 characters"</string>
@@ -345,7 +345,7 @@ total free time %2$s minutes in 30 days."</string>
     <string name="profile">Profiles</string>
     <string name="customize">Custom</string>
     <string name="display_params">Display parameters</string>
-    <string name="display_params_desc" />
+    <string name="display_params_desc">Customize display parameters</string>
     <string name="external_speaker">EXTERNAL</string>
     <string name="xiaomi_soundBar">BAR &amp; WOOFER</string>
     <string name="xiaomi_soundBar_setting">MI SOUND BAR Setting</string>
@@ -463,7 +463,7 @@ total free time %2$s minutes in 30 days."</string>
  Then press &amp; hold the Power button on the glasses until the light blinks red."</string>
     <string name="active_shutter_glasses_exit_scan1">Press remote</string>
     <string name="active_shutter_glasses_exit_scan2">Back</string>
-    <string name="active_shutter_glasses_desc" />
+    <string name="active_shutter_glasses_desc" translatable="false" />
     <string name="add_active_shutter_glasses">Add a pair of 3D glasses</string>
     <string name="add_active_shutter_glasses_trip_out">Remove the film around the batteries</string>
     <string name="buy_glasses_type_active_shutter">3D Glasses ( active shutter )</string>
@@ -495,7 +495,7 @@ total free time %2$s minutes in 30 days."</string>
     <string name="screen_saver_priview">Preview</string>
     <string name="cloudalbum_screen_saver">Use Mi Cloud albums for screensaver</string>
     <string name="cloudalbum_screen_saver_description">Display photos from albums in Mi Cloud during screensaver</string>
-    <string name="xiaomi_account_not_logged_in_title" />
+    <string name="xiaomi_account_not_logged_in_title">Not signed in</string>
     <string name="xiaomi_account_not_logged_in">Not signed in</string>
     <string name="please_login_xiaomi_account_for_cloud_album">Sign in to your Mi Account to sync cloud albums</string>
     <string name="tv_preview">Preview window</string>
@@ -525,11 +525,11 @@ Use it to copy data between your computer and your device, install apps on your 
     <string name="confirm">Confirm</string>
     <string name="location_info">Location</string>
     <string name="location_info_desc">Choose your location</string>
-    <string name="device_name_desc" />
+    <string name="device_name_desc">Name your device</string>
     <string name="device_name_hint">Enter device name</string>
     <string name="device_name_empty_hint">"Device name can't be empty"</string>
     <string name="device_name_overlength_hint">Device name is too long</string>
-    <string name="screen_saver_set" />
+    <string name="screen_saver_set">Screensaver related settings</string>
     <string name="screen_saver_account_login">Sign in</string>
     <string name="screen_saver_account_register">Create Mi Account</string>
     <string name="recovery_settings_contens_hint2">"Erase all your personal information?
@@ -538,15 +538,15 @@ You cannot reverse this action!"</string>
     <string name="recoverying">Resetting</string>
     <string name="waiting">Please wait…</string>
     <string name="log_enable">Android log</string>
-    <string name="log_enable_desc" />
+    <string name="log_enable_desc">Save the log and allow the log to be uploaded</string>
     <string name="log_enable_hint1">Turn on android log?</string>
     <string name="log_enable_hint2">Turn on this option may degrade system performance</string>
     <string name="gallery_preference">Gallery preference</string>
-    <string name="gallery_preference_desc" />
+    <string name="gallery_preference_desc">Set gallery and HD imaging preferences</string>
     <string name="recovery_retain">Keep installed apps</string>
     <string name="contact_us">Contact us</string>
-    <string name="contact_us_desc" />
-    <string name="about_desc" />
+    <string name="contact_us_desc">Contact Xiaomi customer service</string>
+    <string name="about_desc">Information about this device</string>
     <string name="hk_product_module">MiTV L49M2-AC</string>
     <string name="product_module_gitv">Mi Box</string>
     <string name="product_module_gitv_mini">Mi Box</string>
@@ -570,7 +570,7 @@ You cannot reverse this action!"</string>
     <string name="copy_right">Copyright info</string>
     <string name="privacy_policy">Privacy policy</string>
     <string name="user_agreement">User agreement</string>
-    <string name="network_info_desc" />
+    <string name="network_info_desc">Device networking information</string>
     <string name="about_soundBar">ABOUT MI SOUND BAR</string>
     <string name="connected_ap">Connected</string>
     <string name="eth_mac">Ethernet MAC address</string>
@@ -598,14 +598,14 @@ You cannot reverse this action!"</string>
     <string name="continue_setting">Continue</string>
     <string name="skip_setting">Skip</string>
     <string name="cancel">Cancel</string>
-    <string name="attention" />
+    <string name="attention">Warning</string>
     <string name="location_province">State/Province</string>
     <string name="location_city">City</string>
     <string name="location_district">Region</string>
     <string name="rc_pair_hint_en">"Keep the remote near the
 lower-right corner of the TV set"</string>
-    <string name="rc_pair_hear_click_hint_en" />
-    <string name="rc_pairing_en" />
+    <string name="rc_pair_hear_click_hint_en" translatable="false" />
+    <string name="rc_pairing_en" translatable="false" />
     <string name="m7_rc_pair_ble">Connect</string>
     <string name="rc_paired_hint1_en">Remote paired</string>
     <string name="rc_paired_hint2_en">"You can point the remote in any direction during operation."</string>
@@ -616,11 +616,11 @@ lower-right corner of the TV set"</string>
     <string name="rc_pair_hint">"Keep the remote near the
 lower-right corner of the TV set"</string>
     <string name="rc_pair_hear_click_hint">Release it when you hear the Beep sound</string>
-    <string name="rc_pairing" />
+    <string name="rc_pairing">Pairing. Please, keep closer and wait</string>
     <string name="rc_paired_hint1">Remote paired</string>
     <string name="rc_paired_hint2">"You can point the remote in any direction during operation."</string>
     <string name="wifi_complete_hint1">Connected to network</string>
-    <string name="wifi_complete_hint2" />
+    <string name="wifi_complete_hint2">Now you can watch videos and listen to music</string>
     <string name="all_complete_hint">Congratulations!</string>
     <string name="start_set_soundbar">Set up now</string>
     <string name="skip_set_soundbar">Later</string>
@@ -636,13 +636,13 @@ soundbar and woofer"</string>
     <string name="connect_soundbar_hint2">Set up takes less than 3 minutes</string>
     <string name="connect_woofer_power1">"Connect the woofer
 to a power source"</string>
-    <string name="connect_woofer_power2" />
+    <string name="connect_woofer_power2">"Turn on the woofer"</string>
     <string name="connect_soundbar_power1">"Connect the soundbar
 to a power source"</string>
-    <string name="connect_soundbar_power2" />
+    <string name="connect_soundbar_power2">Turn on the soundbar</string>
     <string name="soundbar_cable1">"Use the audio cable to
 connect the soundbar"</string>
-    <string name="soundbar_cable2" />
+    <string name="soundbar_cable2">Connect the soundbar</string>
     <string name="test_soundbar_description">Make sure the speaker is powered on and adjusted to a suitable volume.</string>
     <string name="play_demo_description">"This demo shows off your Mi TV's audio and visual capabilities."</string>
     <string name="connecting">Just a sec...</string>
@@ -753,7 +753,7 @@ Keep the 3D glasses closer to the lower right corner of your TV (20cm or less)"<
     <string name="static_ip">Static IP</string>
     <string name="switcher_on">Turn on</string>
     <string name="switcher_off">Turn off</string>
-    <string name="ethernet_desc" />
+    <string name="ethernet_desc">Wired network related settings</string>
     <string name="ethernet_invalid_netmask">Invalid network mask</string>
     <string name="ethernet_invalid_gateway">Invalid gateway address</string>
     <string name="ethernet_invalid_dns">Invalid DNS address</string>
@@ -1072,17 +1072,17 @@ Until the LED indicator starts flashing"</string>
 Apps you've downloaded will be saved."</string>
     <string name="recovery_settings_contens_hint1_2">"This will erase all data from your Box's internal storage, including any apps you've downloaded."</string>
     <string name="tv_info">ABOUT BOX</string>
-    <string name="disk_tv_space" />
+    <string name="disk_tv_space">Box disk space and contents</string>
     <string name="app_name">Settings</string>
     <string name="product_module">Mi Box</string>
-    <string name="general_settings_desc" />
+    <string name="general_settings_desc">Box system related settings</string>
     <string name="recovery_description">Factory data reset</string>
-    <string name="security_settings_desc" />
+    <string name="security_settings_desc">Box system account and security settings</string>
     <string name="install_warning_hint2">Your Box and personal data are more vulnerable to attack by apps from unknown sources. You agree that you are soley responsible for any damage to your device or loss of data that may result from using these apps.</string>
     <string name="recovery_retain_desc">"Don't delete installed apps during reset"</string>
-    <string name="network_diagnoser_desc" />
-    <string name="network_speed_test_desc" />
-    <string name="displaysound_desc" />
+    <string name="network_diagnoser_desc">Check the network connection status</string>
+    <string name="network_speed_test_desc">Check the network speed</string>
+    <string name="displaysound_desc">Display and sound settings</string>
     <string name="installation_welcome_desc_en">Simple steps to set up your Mi Box</string>
     <string name="rc_connecting">Connecting... keep the remote close by</string>
     <string name="rc_connecting_fail">"Can't connect, please reconnect"</string>

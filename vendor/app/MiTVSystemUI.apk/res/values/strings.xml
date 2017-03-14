@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MiTVSystemUI</string>
+    <string name="app_name" translatable="false">MiTVSystemUI</string>
     <string name="notification_title">Notifications</string>
     <string name="notification_but_clear">Clear</string>
     <string name="notification_no_notification">No notifications</string>
@@ -11,9 +11,9 @@
     <string name="network_is_up_title">Network connected</string>
     <string name="network_is_up_des">The TV is connected to the Internet</string>
     <string name="sd_is_down_title">The USB drive has been removed</string>
-    <string name="sd_is_down_des" />
+    <string name="sd_is_down_des" translatable="false" />
     <string name="sd_is_up_title">A USB drive has been plugged in</string>
-    <string name="sd_is_up_des" />
+    <string name="sd_is_up_des" translatable="false" />
     <string name="sd_default_name">Removable storage devices</string>
     <string name="recent_clear_all">Clear all</string>
     <string name="recent_clear_memory_size_prompt_ok_already">The internal memory is already in its optimal state</string>

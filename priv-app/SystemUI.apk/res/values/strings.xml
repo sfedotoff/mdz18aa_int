@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="config_statusBarComponent">com.android.systemui.statusbar.tv.TvStatusBar</string>
-    <string name="quick_settings_tiles_default">wifi,bt,inversion,cell,flashlight,cast,hotspot</string>
-    <string name="quick_settings_tiles">default</string>
-    <string name="velocity_tracker_impl">platform</string>
-    <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
-    <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
+    <string name="config_statusBarComponent" translatable="false">com.android.systemui.statusbar.tv.TvStatusBar</string>
+    <string name="quick_settings_tiles_default" translatable="false">wifi,bt,inversion,cell,flashlight,cast,hotspot</string>
+    <string name="quick_settings_tiles" translatable="false">default</string>
+    <string name="velocity_tracker_impl" translatable="false">platform</string>
+    <string name="doze_pulse_schedule" translatable="false">1s,10s,30s,60s</string>
+    <string name="system_ui_date_pattern" translatable="false">@android:string/system_ui_date_pattern</string>
     <string name="lland">L Land</string>
     <string name="wfd_sink_summary">Discoverable by others</string>
     <string name="more">More</string>
@@ -36,7 +36,7 @@ Use only the supplied charger."</string>
     <string name="status_bar_settings_mute_label">MUTE</string>
     <string name="status_bar_settings_auto_brightness_label">AUTO</string>
     <string name="status_bar_settings_notifications">Notifications</string>
-    <string name="status_bar_network_name_separator">|</string>
+    <string name="status_bar_network_name_separator" translatable="false">|</string>
     <string name="bluetooth_tethered">Bluetooth tethered</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Set up input methods</string>
     <string name="status_bar_use_physical_keyboard">Physical keyboard</string>
@@ -144,7 +144,7 @@ Use only the supplied charger."</string>
     <string name="accessibility_tty_enabled">TeleTypewriter enabled.</string>
     <string name="accessibility_ringer_vibrate">Ringer vibrate.</string>
     <string name="accessibility_ringer_silent">Ringer silent.</string>
-    <string name="accessibility_casting">@string/quick_settings_casting</string>
+    <string name="accessibility_casting" translatable="false">@string/quick_settings_casting</string>
     <string name="accessibility_recents_item_will_be_dismissed">Dismiss %s.</string>
     <string name="accessibility_recents_item_dismissed">%s dismissed.</string>
     <string name="accessibility_recents_item_launched">Starting %s.</string>
@@ -273,7 +273,7 @@ Turning it back on may lead to charges from your carrier."</string>
     <string name="expanded_header_battery_charging">Charging</string>
     <string name="expanded_header_battery_charging_with_time">%s until full</string>
     <string name="expanded_header_battery_not_charging">Not charging</string>
-    <string name="battery_meter_very_low_overlay_symbol">!</string>
+    <string name="battery_meter_very_low_overlay_symbol" translatable="false">!</string>
     <string name="ssl_ca_cert_warning">"Network may
 be monitored"</string>
     <string name="description_target_search">Search</string>
@@ -411,13 +411,13 @@ Also, you're connected to a VPN (\"%3$s\"). Your VPN service provider can monito
     <string name="quick_settings_reset_confirmation_title">Hide %1$s?</string>
     <string name="quick_settings_reset_confirmation_message">It will reappear the next time you turn it on in settings.</string>
     <string name="quick_settings_reset_confirmation_button">Hide</string>
-    <string name="ok">@android:string/ok</string>
-    <string name="widget_default_package_name" />
-    <string name="widget_default_class_name" />
-    <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
-    <string name="abbrev_wday_month_day_no_year_alarm">EEEMMMd</string>
-    <string name="clock_12hr_format">hm</string>
-    <string name="clock_24hr_format">Hm</string>
+    <string name="ok" translatable="false">@android:string/ok</string>
+    <string name="widget_default_package_name" translatable="false" />
+    <string name="widget_default_class_name" translatable="false" />
+    <string name="abbrev_wday_month_day_no_year" translatable="false">EEEEMMMMd</string>
+    <string name="abbrev_wday_month_day_no_year_alarm" translatable="false">EEEMMMd</string>
+    <string name="clock_12hr_format" translatable="false">hm</string>
+    <string name="clock_24hr_format" translatable="false">Hm</string>
     <string name="app_name">Keyguard</string>
     <string name="keyguard_password_enter_pin_code">Type PIN code</string>
     <string name="keyguard_password_enter_puk_code">Type SIM PUK and new PIN code</string>
@@ -444,8 +444,8 @@ Also, you're connected to a VPN (\"%3$s\"). Your VPN service provider can monito
     <string name="keyguard_sim_locked_message">SIM card is locked.</string>
     <string name="keyguard_sim_puk_locked_message">SIM card is PUK-locked.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
-    <string name="keyguard_widget_12_hours_format">hmm</string>
-    <string name="keyguard_widget_24_hours_format">kkmm</string>
+    <string name="keyguard_widget_12_hours_format" translatable="false">hmm</string>
+    <string name="keyguard_widget_24_hours_format" translatable="false">kkmm</string>
     <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d of %3$d.</string>
     <string name="keyguard_accessibility_add_widget">Add widget.</string>
     <string name="keyguard_accessibility_widget_empty_slot">Empty</string>

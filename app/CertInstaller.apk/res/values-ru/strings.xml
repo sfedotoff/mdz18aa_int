@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">"Программа установки сертификата"</string>
     <string name="pick_file_title">"Выбор сертификата"</string>
     <string name="pkcs12_password_dialog_title">"Извлечение сертификата"</string>
-    <string name="extracting_pkcs12">Загрузка…</string>
+    <string name="extracting_pkcs12">"Загрузка..."</string>
     <string name="pkcs12_file_password_dialog_title">"Извлечение из %s"</string>
     <string name="name_credential_dialog_title">"Укажите название сертификата"</string>
     <string name="credential_name">"Название сертификата:"</string>
@@ -20,10 +20,10 @@
     <string name="name_char_error">"Можно использовать только буквы и цифры."</string>
     <string name="storage_error">"Не удалось сохранить сертификат. Чтобы повторить попытку, нажмите \"ОК\"."</string>
     <string name="unable_to_save_cert">"Не удалось сохранить сертификат, поскольку хранилище учетных данных не включено или не инициализировано."</string>
-    <string name="cert_not_saved">Сертификат не установлен.</string>
+    <string name="cert_not_saved">"Сертификат не установлен"</string>
     <string name="no_cert_to_saved">"Отсутствует сертификат для установки."</string>
     <string name="invalid_cert">"Сертификат недействителен."</string>
-    <string name="cert_is_added">%s установлен.</string>
+    <string name="cert_is_added">"%s установлен"</string>
     <string name="cert_too_large_error">"Установка не выполнена, поскольку сертификат слишком большой."</string>
     <string name="cert_missing_error">"Установка не выполнена, поскольку не удалось найти файл сертификата."</string>
     <string name="cert_read_error">"Установка не выполнена, поскольку не удалось открыть файл сертификата."</string>

@@ -225,7 +225,7 @@
     <string name="launch_error">"Couldn't launch the application!"</string>
     <string name="dlg_confirm_unmount_usb_title">Unmount USB storage?</string>
     <string name="dlg_confirm_unmount_usb_text">If you unmount the USB storage, some apps you are using will stop and may be unavailable until you remount the USB storage.</string>
-    <string name="dlg_error_unmount_usb_title"/>
+    <string name="dlg_error_unmount_usb_title" translatable="false" />
     <string name="dlg_error_unmount_usb_text">"Couldn't unmount USB storage. Try again later."</string>
     <string name="unmount_usb_inform_text">USB storage will be unmounted.</string>
     <string name="sd_eject_usbstorage">Unmount USB storage</string>
@@ -371,15 +371,15 @@ Are you sure to enable GPS now and wait for GPS provided time?"</string>
     <string name="ims_toggle_title">IMS</string>
     <string name="ims_toggle_summary">Providing IP Multimedia Subsystem services</string>
     <string name="sms_vibrate_summary">vibrate devices for sms</string>
-    <string name="additional_system_update"/>
-    <string name="additional_system_update_menu"/>
+    <string name="additional_system_update" translatable="false" />
+    <string name="additional_system_update_menu" translatable="false"/>
     <string name="input_method_selector_show_automatically_value">0</string>
     <string name="input_method_selector_always_show_value">1</string>
     <string name="input_method_selector_always_hide_value">2</string>
     <string name="input_method_selector_visibility_default_value">0</string>
     <string name="mitv_wifi_activity">Mi TV Wi-Fi activity</string>
     <string name="wifi">Wi-Fi</string>
-    <string name="wifi_desc"/>
+    <string name="wifi_desc">Wireless network settings</string>
     <string name="isConnecting">Enter password to connect to\u0009</string>
     <string name="input_wifi_password">Password</string>
     <string name="input_wifi_user">Username</string>
@@ -408,7 +408,7 @@ Are you sure to enable GPS now and wait for GPS provided time?"</string>
     <string name="switcher_on">Turn on</string>
     <string name="switcher_off">Turn off</string>
     <string name="ethernet">Ethernet</string>
-    <string name="ethernet_desc"/>
+    <string name="ethernet_desc">Wired network related settings</string>
     <string name="ethernet_invalid_netmask">Invalid network mask</string>
     <string name="ethernet_invalid_gateway">Invalid gateway address</string>
     <string name="ethernet_invalid_dns">Invalid DNS address</string>
@@ -600,7 +600,7 @@ Are you sure to enable GPS now and wait for GPS provided time?"</string>
     <string name="bluetooth_disconnected">Disconnected</string>
     <string name="bluetooth_disconnecting">Disconnecting…</string>
     <string name="bluetooth_connecting">Connecting…</string>
-    <string name="bluetooth_unknown"/>
+    <string name="bluetooth_unknown" translatable="false" />
     <string name="bluetooth_pairing">Pairing…</string>
     <string name="bluetooth_device">Unnamed Bluetooth device</string>
     <string name="progress_scanning">Searching</string>
@@ -784,7 +784,7 @@ This setting affects all users on this phone."</string>
     <string name="owner_info_settings_title">Owner info</string>
     <string name="security_enable_widgets_title">Enable widgets</string>
     <string name="security_enable_widgets_disabled_summary">Disabled by administrator</string>
-    <string name="owner_info_settings_summary"/>
+    <string name="owner_info_settings_summary">None</string>
     <string name="owner_info_settings_edit_text_hint">Type text to display on the lock screen</string>
     <string name="show_user_info_on_lockscreen_label">Show user info on lock screen</string>
     <string name="user_info_settings_title">User info</string>
@@ -834,7 +834,7 @@ To resume using your phone, you need to perform a factory reset. When you set up
     <string name="unlock_set_unlock_launch_picker_enable_summary">Choose a method to lock the screen</string>
     <string name="unlock_backup_info_summary">"When Face Unlock can't see you, how do you want to unlock?"</string>
     <string name="unlock_set_unlock_off_title">None</string>
-    <string name="unlock_set_unlock_off_summary"/>
+    <string name="unlock_set_unlock_off_summary" translatable="false" />
     <string name="unlock_set_unlock_none_title">Swipe</string>
     <string name="unlock_set_unlock_none_summary">No security</string>
     <string name="unlock_set_unlock_biometric_weak_title">Face Unlock</string>
@@ -906,7 +906,7 @@ To resume using your phone, you need to perform a factory reset. When you set up
     <string name="bluetooth_pairing_accept_all_caps">PAIR</string>
     <string name="bluetooth_pairing_decline">Cancel</string>
     <string name="bluetooth_pairing_will_share_phonebook">Pairing grants access to your contacts and call history when connected.</string>
-    <string name="bluetooth_error_title"/>
+    <string name="bluetooth_error_title" translatable="false" />
     <string name="bluetooth_pairing_error_message">"Couldn't pair with %1$s."</string>
     <string name="bluetooth_pairing_pin_error_message">"Couldn't pair with %1$s because of an incorrect PIN or passkey."</string>
     <string name="bluetooth_pairing_device_down_error_message">"Can't communicate with %1$s."</string>
@@ -1234,7 +1234,7 @@ You can't activate device protection features at this time."</string>
     <string name="home_settings">Home</string>
     <string name="display_settings_title">Display</string>
     <string name="sound_settings">Sound</string>
-    <string name="ringtone_summary"/>
+    <string name="ringtone_summary" translatable="false" />
     <string name="all_volume_title">Volumes</string>
     <string name="musicfx_title">Music effects</string>
     <string name="ring_volume_title">Ringer volume</string>
@@ -1343,7 +1343,7 @@ Possibly incorrect PIN."</string>
     <string name="pin_failed">SIM PIN operation failed!</string>
     <string name="device_info_settings">Phone status</string>
     <string name="system_update_settings_list_item_title">System updates</string>
-    <string name="system_update_settings_list_item_summary"/>
+    <string name="system_update_settings_list_item_summary" translatable="false" />
     <string name="firmware_version">Android version</string>
     <string name="model_number">Model number</string>
     <string name="fcc_equipment_id">Equipment ID</string>
@@ -1396,7 +1396,7 @@ Possibly incorrect PIN."</string>
     <string name="sd_eject_summary">Unmount the SD card so you can safely remove it</string>
     <string name="sd_insert_summary">Insert an SD card for mounting</string>
     <string name="sd_mount">Mount SD card</string>
-    <string name="sd_mount_summary"/>
+    <string name="sd_mount_summary" translatable="false" />
     <string name="sd_format">Erase SD card</string>
     <string name="sd_format_summary">Erases all data on the SD card, such as music and photos</string>
     <string name="memory_clear_cache_title">Clear cached data?</string>
@@ -1404,7 +1404,7 @@ Possibly incorrect PIN."</string>
     <string name="mtp_ptp_mode_summary">MTP or PTP function is active</string>
     <string name="dlg_confirm_unmount_title">Unmount SD card?</string>
     <string name="dlg_confirm_unmount_text">If you unmount the SD card, some apps you are using will stop and may be unavailable until you remount the SD card.</string>
-    <string name="dlg_error_unmount_title"/>
+    <string name="dlg_error_unmount_title" translatable="false" />
     <string name="dlg_error_unmount_text">"Couldn't unmount SD card. Try again later."</string>
     <string name="unmount_inform_text">SD card will be unmounted.</string>
     <string name="sd_ejecting_title">Unmounting</string>
@@ -1455,7 +1455,7 @@ Possibly incorrect PIN."</string>
     <string name="menu_new">New APN</string>
     <string name="menu_save">Save</string>
     <string name="menu_cancel">Discard</string>
-    <string name="error_title"/>
+    <string name="error_title" translatable="false" />
     <string name="error_name_empty">"The Name field can't be empty."</string>
     <string name="error_apn_empty">"The APN can't be empty."</string>
     <string name="error_mcc_not3">MCC field must be 3 digits.</string>
@@ -1607,9 +1607,9 @@ To clear music, pictures, and other user data, the "<b>SD card</b> needs to be e
     <string name="lockpattern_change_lock_pattern_label">Change unlock pattern</string>
     <string name="lockpattern_change_lock_pin_label">Change unlock PIN</string>
     <string name="lockpattern_need_to_unlock">Confirm saved pattern</string>
-    <string name="lockpattern_need_to_unlock_footer"/>
+    <string name="lockpattern_need_to_unlock_footer" translatable="false" />
     <string name="lockpattern_need_to_unlock_wrong">Try again:</string>
-    <string name="lockpattern_need_to_unlock_wrong_footer"/>
+    <string name="lockpattern_need_to_unlock_wrong_footer" translatable="false" />
     <string name="lockpattern_recording_intro_header">Draw an unlock pattern</string>
     <string name="lockpattern_recording_intro_footer">Press Menu for help.</string>
     <string name="lockpattern_recording_inprogress">Release finger when done</string>
@@ -1711,7 +1711,7 @@ To clear music, pictures, and other user data, the "<b>SD card</b> needs to be e
     <string name="clear_data_dlg_text">"All this app's data will be deleted permanently. This includes all files, settings, accounts, databases, etc."</string>
     <string name="dlg_ok">OK</string>
     <string name="dlg_cancel">Cancel</string>
-    <string name="app_not_found_dlg_title"/>
+    <string name="app_not_found_dlg_title" translatable="false" />
     <string name="app_not_found_dlg_text">"The app wasn't found in the list of installed apps."</string>
     <string name="clear_data_failed">"Couldn't clear app data."</string>
     <string name="app_factory_reset_dlg_title">Uninstall updates?</string>
@@ -1741,7 +1741,7 @@ To clear music, pictures, and other user data, the "<b>SD card</b> needs to be e
     <string name="system_package">"System updates can't be installed on external media."</string>
     <string name="force_stop_dlg_title">Force stop?</string>
     <string name="force_stop_dlg_text">If you force stop an app, it may misbehave.</string>
-    <string name="move_app_failed_dlg_title"/>
+    <string name="move_app_failed_dlg_title" translatable="false" />
     <string name="move_app_failed_dlg_text">"Couldn't move app. %1$s"</string>
     <string name="app_install_location_title">Preferred install location</string>
     <string name="app_install_location_summary">Change the preferred installation location for new apps</string>
@@ -1801,7 +1801,7 @@ To clear music, pictures, and other user data, the "<b>SD card</b> needs to be e
     <string name="language_settings_category">Language settings</string>
     <string name="keyboard_settings_category">Keyboard &amp; input methods</string>
     <string name="phone_language">Language</string>
-    <string name="phone_language_summary"/>
+    <string name="phone_language_summary" translatable="false" />
     <string name="auto_replace">Auto-replace</string>
     <string name="auto_replace_summary">Correct mistyped words</string>
     <string name="auto_caps">Auto-capitalization</string>
@@ -1826,7 +1826,7 @@ To clear music, pictures, and other user data, the "<b>SD card</b> needs to be e
     <string name="keyboard_layout_default_label">Default</string>
     <string name="keyboard_layout_picker_title">Keyboard layouts</string>
     <string name="user_dict_settings_title">Personal dictionary</string>
-    <string name="user_dict_settings_summary"/>
+    <string name="user_dict_settings_summary" translatable="false" />
     <string name="user_dict_settings_add_menu_title">Add</string>
     <string name="user_dict_settings_add_dialog_title">Add to dictionary</string>
     <string name="user_dict_settings_add_screen_title">Phrase</string>
@@ -2283,7 +2283,7 @@ If the device has multiple users, using this shortcut on the lock screen tempora
     <string name="credential_storage_type_software">Software only</string>
     <string name="credentials_settings_not_available">Credentials are not available for this user</string>
     <string name="credentials_install_gesture_explanation">You need to draw your unlock pattern to confirm credential installation.</string>
-    <string name="credentials_unlock"/>
+    <string name="credentials_unlock" translatable="false" />
     <string name="credentials_unlock_hint">Type the password for credential storage.</string>
     <string name="credentials_old_password">Current password:</string>
     <string name="credentials_reset_hint">Remove all the contents?</string>
@@ -2319,7 +2319,7 @@ If the device has multiple users, using this shortcut on the lock screen tempora
     <string name="local_backup_password_toast_success">New backup password set</string>
     <string name="local_backup_password_toast_confirmation_mismatch">"New password and confirmation don't match"</string>
     <string name="local_backup_password_toast_validation_failure">Failure setting backup password</string>
-    <string name="backup_erase_dialog_title"/>
+    <string name="backup_erase_dialog_title" translatable="false" />
     <string name="backup_erase_dialog_message">Stop backing up your Wi‑Fi passwords, bookmarks, other settings, and app data, plus erase all copies on Google servers?</string>
     <string name="device_admin_settings_title">Device administration settings</string>
     <string name="active_device_admin_msg">Device administrator</string>
@@ -2737,23 +2737,23 @@ Any user can update apps for all other users."</string>
     <string name="restriction_menu_change_pin">Change PIN</string>
     <string name="app_notifications_switch_label">Show notifications</string>
     <string name="help_label">Help &amp; feedback</string>
-    <string name="help_url_wifi"/>
-    <string name="help_url_bluetooth"/>
-    <string name="help_url_data_usage"/>
-    <string name="help_url_more_networks"/>
-    <string name="help_url_vpn"/>
-    <string name="help_url_sound"/>
-    <string name="help_url_battery"/>
-    <string name="help_url_accounts"/>
-    <string name="help_url_choose_lockscreen"/>
-    <string name="help_url_backup_reset"/>
-    <string name="help_url_tether"/>
-    <string name="help_url_dreams"/>
-    <string name="help_url_users"/>
-    <string name="help_url_location_access"/>
-    <string name="help_url_security"/>
-    <string name="help_url_nfc_payment"/>
-    <string name="help_url_remote_display"/>
+    <string name="help_url_wifi" translatable="false" />
+    <string name="help_url_bluetooth" translatable="false"/>
+    <string name="help_url_data_usage" translatable="false" />
+    <string name="help_url_more_networks" translatable="false" />
+    <string name="help_url_vpn" translatable="false" />
+    <string name="help_url_sound" translatable="false" />
+    <string name="help_url_battery" translatable="false" />
+    <string name="help_url_accounts" translatable="false" />
+    <string name="help_url_choose_lockscreen" translatable="false" />
+    <string name="help_url_backup_reset" translatable="false" />
+    <string name="help_url_tether" translatable="false" />
+    <string name="help_url_dreams" translatable="false" />
+    <string name="help_url_users" translatable="false" />
+    <string name="help_url_location_access" translatable="false" />
+    <string name="help_url_security" translatable="false" />
+    <string name="help_url_nfc_payment" translatable="false" />
+    <string name="help_url_remote_display" translatable="false" />
     <string name="user_account_title">Account for content</string>
     <string name="user_picture_title">Photo ID</string>
     <string name="extreme_threats_title">Extreme threats</string>
@@ -2796,7 +2796,7 @@ Any user can update apps for all other users."</string>
     <string name="user_image_take_photo">Take photo</string>
     <string name="user_image_choose_photo">Choose photo from Gallery</string>
     <string name="user_image_photo_selector">Select photo</string>
-    <string name="regulatory_info_text"/>
+    <string name="regulatory_info_text" translatable="false" />
     <string name="sim_setup_wizard_title">SIM cards</string>
     <string name="sim_settings_title">SIM cards</string>
     <string name="sim_settings_summary">%1$s - %2$s</string>
@@ -2963,7 +2963,7 @@ Any user can update apps for all other users."</string>
     <string name="notification_settings_apps_title">App notifications</string>
     <string name="notification_app_settings_button">Notification settings</string>
     <string name="device_feedback">Send feedback about this device</string>
-    <string name="oem_preferred_feedback_reporter"/>
+    <string name="oem_preferred_feedback_reporter" translatable="false" />
     <string name="restr_pin_enter_admin_pin">Enter administrator PIN</string>
     <string name="switch_on_text">On</string>
     <string name="switch_off_text">Off</string>

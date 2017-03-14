@@ -134,7 +134,7 @@
     <string name="preferences_hide_declined_title">Hide declined events</string>
     <string name="preferences_week_start_day_title">Week starts on</string>
     <string name="preferences_week_start_day_dialog">Week starts on</string>
-    <string name="preferences_week_start_day_default">-1</string>
+    <string name="preferences_week_start_day_default" translatable="false">-1</string>
     <string name="preferences_clear_search_history_title">Clear search history</string>
     <string name="preferences_clear_search_history_summary">"Remove all the searches you've performed"</string>
     <string name="search_history_cleared">Search history cleared.</string>
@@ -155,7 +155,7 @@
     <string name="preferences_build_version">Build version</string>
     <string name="gadget_title">Calendar</string>
     <string name="gadget_no_events">No upcoming calendar events</string>
-    <string name="tardis">TARDIS</string>
+    <string name="tardis" translatable="false">TARDIS</string>
     <string name="preferences_experimental_category">Experimental</string>
     <string name="preferences_reminders_category">Reminders</string>
     <string name="preferences_reminders_responded_label">Skip Reminders</string>
@@ -199,7 +199,7 @@
     <string name="recurrence_end_date">Until %s</string>
     <string name="recurrence_end_count_label">For a number of events</string>
     <string name="acessibility_recurrence_choose_end_date_description">change end date</string>
-    <string name="notification_sender_id" />
+    <string name="notification_sender_id" translatable="false" />
     <string name="hint_time_zone_search">Type country name</string>
     <string name="searchview_description_clear">Clear query</string>
     <string name="no_results_found">No results found</string>
@@ -227,9 +227,9 @@
     <string name="deleted_key">%1$s deleted</string>
     <string name="time_placeholder">--</string>
     <string name="time_separator">:</string>
-    <string name="radial_numbers_typeface">sans-serif</string>
-    <string name="sans_serif">sans-serif</string>
-    <string name="day_of_week_label_typeface">sans-serif</string>
+    <string name="radial_numbers_typeface" translatable="false">sans-serif</string>
+    <string name="sans_serif" translatable="false">sans-serif</string>
+    <string name="day_of_week_label_typeface" translatable="false">sans-serif</string>
     <string name="color_picker_default_title">Select a Color</string>
     <string name="color_swatch_description">Color %1$d</string>
     <string name="color_swatch_description_selected">Color %1$d selected</string>
