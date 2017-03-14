@@ -9,6 +9,7 @@ There are corresponding Android strings files and graphics inside the directorie
  - framework
  - priv-app
  - vendor
+
 To add your language to the next package for device modification you can fork this repo and translate the needed apps. You can see how it's done for Russian and do the same for your own language or the language you speak. Don't forget that some apps not only have strings, but also some drawable resources to translate (again, look how's Russian translation done)
 After you finish translation you can go for a PR.
 
