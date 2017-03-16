@@ -1,0 +1,4 @@
+<permissions>
+    <library name="com.google.android.pano.v1"
+            file="/system/framework/com.google.android.pano.v1.jar" />
+</permissions>

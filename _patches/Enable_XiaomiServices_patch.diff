@@ -1,0 +1,48 @@
+From 724e9f17aea2442a914363d4bb0fa80d6d53575d Mon Sep 17 00:00:00 2001
+From: Stanislav Fedotov <me@moneyseeker.ru>
+Date: Tue, 14 Mar 2017 23:13:05 +0300
+Subject: [PATCH] Xiaomi services working (MiTVAssistant, WiFi Display etc)
+
+---
+ framework/MitvAPIImpl.jar/smali/mitv/os/Build.smali                   | 4 ++--
+ .../smali/com/xiaomi/mitv/smartshare/wifidisplay/Build.smali          | 2 +-
+ 2 files changed, 3 insertions(+), 3 deletions(-)
+
+diff --git a/framework/MitvAPIImpl.jar/smali/mitv/os/Build.smali b/framework/MitvAPIImpl.jar/smali/mitv/os/Build.smali
+index 5beab93..d152595 100644
+--- a/framework/MitvAPIImpl.jar/smali/mitv/os/Build.smali
++++ b/framework/MitvAPIImpl.jar/smali/mitv/os/Build.smali
+@@ -371,7 +371,7 @@
+ 
+     .line 96
+     :cond_10
+-    const-string v1, "leon"
++    const-string v1, "once"
+ 
+     invoke-virtual {v0, v1}, Ljava/lang/String;->contains(Ljava/lang/CharSequence;)Z
+ 
+@@ -380,7 +380,7 @@
+     if-eqz v1, :cond_11
+ 
+     .line 97
+-    const/16 v1, 0xb
++    const/16 v1, 0xa
+ 
+     sput v1, Lmitv/os/Build;->sProductCode:I
+ 
+diff --git a/vendor/app/MiTVMultiCast.apk/smali/com/xiaomi/mitv/smartshare/wifidisplay/Build.smali b/vendor/app/MiTVMultiCast.apk/smali/com/xiaomi/mitv/smartshare/wifidisplay/Build.smali
+index 8c1458b..c8a3c16 100644
+--- a/vendor/app/MiTVMultiCast.apk/smali/com/xiaomi/mitv/smartshare/wifidisplay/Build.smali
++++ b/vendor/app/MiTVMultiCast.apk/smali/com/xiaomi/mitv/smartshare/wifidisplay/Build.smali
+@@ -58,7 +58,7 @@
+ 
+     const/4 v4, 0x0
+ 
+-    const/4 v3, 0x7
++    const/16 v3, 0xa
+ 
+     const/4 v2, 0x1
+ 
+-- 
+2.10.2.windows.1
+
