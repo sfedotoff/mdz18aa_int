@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="abc_action_bar_home_description">Zur Startseite</string>
     <string name="abc_action_bar_home_description_format">%1$s: %2$s</string>
@@ -20,4 +20,76 @@
     <string name="abc_shareactionprovider_share_with_application">Freigeben für %s</string>
     <string name="abc_toolbar_collapse_description">Minimieren</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+<string name="airplay_version">1.0.0.0</string>
+    <string name="app_code">7</string>
+    <string name="app_name">WLAN Freigabe</string>
+    <string name="app_version">1.0.0</string>
+    <string name="disabling_wifi">WLAN-Verbindung wird beendet…</string>
+    <string name="help">Hilfe</string>
+    <string name="help_text_1_1">Folgende Geräte sind unterstützt</string>
+    <string name="help_text_1_2">Die unten stehenden Mi Geräte (Mi 2 und später, Redmi, Mi Pad) unterstützten alle Intel WiDi und Miracast Protokolle.</string>
+    <string name="help_text_2_1">Auf deinem Mi TV,</string>
+    <string name="help_text_2_2">zur Miracast &amp; Intel WiDi Verbindungsübersicht gehen.</string>
+    <string name="help_text_3_1">Auf deinem Mi Gerät,</string>
+    <string name="help_text_3_2">Gehe zu Einstellungen &gt; Mehr &gt; Wireless Bildschirmübertragung.</string>
+    <string name="help_text_4_1">Auf deinem Mi Gerät</string>
+    <string name="help_text_4_2">wähle deinen Mi TV von der Lister der verfügbaren Geräte aus.</string>
+    <string name="help_title">Wireless Display Hilfe</string>
+    <string name="loading_mirror_service">Empfange Bilddaten…</string>
+    <string name="mirror">Bildschirmübertragung</string>
+    <string name="mirror_back_main">Bildschirmübertragung</string>
+    <string name="mirror_back_to_main">Zur Hauptanzeige Spiegeln</string>
+    <string name="mirror_title">Sende den Bildschirm deines Mobilen Gerätes zu deinem TV</string>
+    <string name="multimedia">Medienübertragung</string>
+    <string name="peer_connect_error">Verbindungsfehler, bitte nochmal versuchen</string>
+    <string name="peer_connected">%s verbunden</string>
+    <string name="peer_connecting">Verbinden mit %s…</string>
+    <string name="peer_disconnected">Verbindung getrennt</string>
+    <string name="peer_disconnecting">Verbindung mit %s trennen…</string>
+    <string name="setting">Einstellungen</string>
+    <string name="starting_wfd">Starte WLAN Anzeige…</string>
+    <string name="supported_devices">Geräte</string>
+    <string name="title">Bitte wähle einen Modus</string>
+    <string name="title_activity_load">Wireless Freigabe</string>
+    <string name="toupingshenqi">MiTVAssistent</string>
+    <string name="wait_for_connection">%s wartet auf eine Verbindung…</string>
+    <string name="webchat">WeChat</string>
+    <string name="wfd_started">WLAN Anzeige wurde gestartet</string>
+    <string name="widi_title">Wireless Display</string>
+    <string name="wifi_disabled">WLAN ausgeschaltet</string>
+    <string name="android_miui">Android / MIUI</string>
+    <string name="android_miui_desc">MIUI 6.0 oder höher
+Android 4.0 oder höher</string>
+    <string name="apple">Apple</string>
+    <string name="apple_desc">iPhone / iPad iOS 4.2 oder höher
+MAC OS - OS X oder höher</string>
+    <string name="other_apps">Apps</string>
+    <string name="other_apps_desc">App-Bildschirmübertragung
+Alle Apple / Android Geräte werden unterstützt</string>
+    <string name="miracast">Miracast</string>
+    <string name="screencast">Medienübertragung</string>
+    <string name="airplay">Airplay</string>
+    <string name="lebo">Lebo</string>
+    <string name="usage_help">Benuzterhilfe</string>
+    <string name="username">Benutzername</string>
+    <string name="function_desc">Funktionsbeschreibung</string>
+    <string name="binding_management">Hotkey-Management</string>
+    <string name="new_user">Benutzer hinzufügen</string>
+    <string name="bind_user">Benutzer festlegen</string>
+    <string name="user">Benutzer</string>
+    <string name="wechat_function_desc">WeChat Übertragung. Nachdem Sie einen Benuzer festgelegt haben, können sie von eine WeChat Übertragung aufbauen
+
+</string>
+    <string name="mirrlist_devices">Geräte</string>
+    <string name="ios_detail_1">1. Verbinde deine Geräte mit dem selben WLAN Netzwerk</string>
+    <string name="ios_detail_2">2. Wische von unten nach oben, und wähle \"AirPlay-Verbindun\" im Control Center aus.
+Wähle MiTV von der Liste aller Geräte aus und starte die Bildschirmübertragung</string>
+    <string name="miracast_detail_1">Diese Seite muss auf deinem TV offen bleiben, damit der TV für dein Smartphone sichtbar ist</string>
+    <string name="miracast_detail_2">1. Gehe zu Einstellungen &gt; Mehr &gt; WLAN
+2. Wähle dein TV aus der Geräteliste aus.</string>
+    <string name="miracast_detail_3">Starte eine Bildschirmübertragung von MIUI (Android)</string>
+    <string name="mm_music_detail_1">1. Verbinde dein Gerät und dein TV mit dem selben WLAN Netzwerk</string>
+    <string name="mm_music_detail_2">2. Drucke dieses Symbol in deinem Videoplayer, suche den TV aus und starte die Übertragung</string>
+    <string name="mm_video_detail_1">1. Verbinde dein Gerät und dein TV zum selben WLAN Netzwerk.
+2. Drücke dieses Symbol in deinem Videoplayer, suche den TV aus und starte die Übertragung.</string>
 </resources>
