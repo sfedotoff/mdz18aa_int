@@ -21,4 +21,10 @@
     <string name="abc_toolbar_collapse_description">Zwiń</string>
     <string name="status_bar_notification_info_overflow">999+</string>
 <string name="help">Pomoc</string>
+    <string name="help_text_1_1">Wspierane są następujące urządzenia</string>
+    <string name="help_text_1_2">Intel WiDi i Miracast obsługiwane są przez następujące urządzenia Mi: Mi 2 i nowsze, Redmi oraz Mi Pad.</string>
+    <string name="help_text_2_1">W twoim Mi TV,</string>
+    <string name="help_text_2_2">przejdź do ekranu ustawień Miracast i Intel WiDi</string>
+    <string name="help_text_3_1">W twoim urządzeniu Mi,</string>
+    <string name="help_text_3_2">Przejdź do Ustawienia &gt; Więcej &gt; Wyświetlacz bezprzewodowy.</string>
     </resources>
