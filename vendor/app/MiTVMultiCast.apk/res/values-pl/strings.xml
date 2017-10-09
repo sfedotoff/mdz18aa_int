@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="abc_action_bar_home_description">Przejdź do strony głównej</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -20,4 +20,5 @@
     <string name="abc_shareactionprovider_share_with_application">Udostępnij dla %s</string>
     <string name="abc_toolbar_collapse_description">Zwiń</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-</resources>
+<string name="help">Pomoc</string>
+    </resources>
