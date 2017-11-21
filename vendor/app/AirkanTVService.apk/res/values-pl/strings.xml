@@ -1,2 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="action_settings">Ustawienia</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="phonename_default">Urządzenie Xiaomi</string>
+    <string name="xiaomi_default">Telefon Mi</string>
+    <string name="xiaomi_1">Mi-One</string>
+    <string name="xiaomi_1s">Mi-One 1S</string>
+    <string name="xiaomi_2">Mi 2</string>
+    <string name="airkan_app_name">Usługi Mi-Link(Airkan/DLNA/Airplay)</string>
+    <string name="airkan_activity_name">Airkan TV Manager</string>
+    <string name="playerservice_name">Usługa Airkan TV Player</string>
+    <string name="airkan_daemon_name">Airkan TV Daemon</string>
+    <string name="rc_daemon_name">Zarządzanie zdalne TV</string>
+    <string name="airkan_daemon_config">Konfiguracja Airkan TV</string>
+    <string name="airkan_service_start">Usługa Airkan TV została uruchomiona.</string>
+    <string name="airkan_daemon_start">Daemon Airkan TV został uruchomiony.</string>
+    <string name="airplay_menu_settings">Ustawienia</string>
+    <string name="airplay_starting_service">Uruchamianie usługi Airplay</string>
+    <string name="receiving_mirror_text">Przechwytywanie obrazu z urządzenia Apple</string>
+    <string name="itool_text">iTools.cn</string>
+    <string name="default_device_name">MiBox</string>
+    <string name="default_video_title">Wideo</string>
+    <string name="default_music_title">Muzyka</string>
+    <string name="default_photo_title">Obrazy</string>
+    <string name="weixin">WeChat</string>
+    <string name="pc">PC</string>
+    <string name="miliao">MiChat</string>
+    <string name="mdns_service_name">Usługa mDNSSDRes</string>
+    <string name="mdns_service_start">Usługa respondera mDNSSD została uruchomiona.</string>
+    <string name="airplay_applying_new_name">Ustawianie nowej nazwy urządzenia Airplay:</string>
+    <string name="airplay_please_wait">Proszę czekać</string>
+    <string name="airplay_service_started">Usługa Airplay została uruchomiona</string>
+    <string name="connect_fail_text">Połączenie nie zestawione</string>
+    <string name="tv_notification_title">Odnalezione urządzenia</string>
+    <string name="tv_notification_content">Przesyłanie obrazu z urządzenia.</string>
+    <string name="tv_not_support_mirror">Telewizor MiTV nie obsługuje aktualnie przesyłania obrazu z urządzeń Apple.</string>
+    <string name="security_confirmation_title_tv">Urządzenie chce przesłać dane do twojego MiTV by pokazać zdjęcie/filmy</string>
+    <string name="security_confirmation_title_box">Urządzenie chce przesłać dane do twojego Mi box by pokazać zdjęcie/filmy</string>
+    <string name="security_confirmation_main">Zezwalasz?</string>
+    <string name="security_confirmation_button_confirm">Akteptuj</string>
+    <string name="security_confirmation_button_cancel">Odrzuć</string>
+    <string name="security_password_title_tv">Urządzenie chce przejąć kontrole nad MiTV</string>
+    <string name="security_password_title_box">Urządzenie chce przejąć kontrole na Mi box</string>
+    <string name="security_password_main">Naciśnij poniższa kombinację przycisków na pliocie</string>
+    <string name="security_password_help">Naciśnij Powrót by anulować</string>
+    <string name="a_code_note_1">Naciśnij</string>
+    <string name="a_code_note_2">przycisk by powrócić</string>
+    <string name="security_toast_note_2">Zbyt wiele prób anulowania certyfikatu, spróbuj później.</string>
+    <string name="security_toast_note_1_pre">Zbyt wiele prób anulowania certyfikatu, spróbuj później</string>
+    <string name="security_toast_note_1_last">minut</string>
+    <string name="btrc_service">Usługa Pilota bluetooth Mi</string>
+<string name="rc_daemon_start">Zdalny dostęp uruchomiony.</string>
+    <string name="recv_service_start">rozpocznij nadawanie</string>
+    <string name="send_service_start">by wysłać, rozpocznij nadawanie</string>
+    </resources>
