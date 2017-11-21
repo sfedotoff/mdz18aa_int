@@ -1,2 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="backup_confirm_title">Pełna kopia</string>
+    <string name="restore_confirm_title">Pełne przywrócenie</string>
+    <string name="backup_confirm_text">Wybrano przywrócenie pełnej kopii. Czy chcesz to zrobić?
+
+Jeżeli nie tego nie wybrałeś, nie kończ tej operacji.</string>
+    <string name="allow_backup_button_label">Zachowaj moje dane</string>
+    <string name="deny_backup_button_label">Nie zachowuj</string>
+    <string name="restore_confirm_text">Wybrano przywrócenie danych z kopie znajdującej się na komputerze. Czy chcesz kontynuować?
+
+Jeżeli nie wybrałeś tej opcji, anuluj wykonywanie dalszych działań. Wszystkie dane na urządzeniu zostaną usunięte!</string>
+    <string name="allow_restore_button_label">Odtwórz moje dane</string>
+    <string name="deny_restore_button_label">Nie odtwarzaj</string>
+    <string name="current_password_text">Podaj hasło kopii zapasowej:</string>
+    <string name="device_encryption_restore_text">Podaj hasło szyfrowania urządzenia.</string>
+    <string name="device_encryption_backup_text">Podaj hasło szyfrowania urządzenia, zostanie ono również użyte do zaszyfrowania kopii zapasowej.</string>
+    <string name="toast_backup_started">Rozpoczęto tworzenie kopii...</string>
+    <string name="toast_backup_ended">Zakończono</string>
+    <string name="toast_restore_started">Rozpoczęto odtwarzanie...</string>
+    <string name="toast_restore_ended">Zakończono</string>
+    <string name="toast_timeout">Upłynął czas wykonywania operacji</string>
+<string name="backup_enc_password_text">Podaj hasło użyte do szyfrowania pełnej kopi. Jeżeli pozostawisz je puste, użyte zostanie twoje aktualne hasło:</string>
+    <string name="backup_enc_password_optional">Jeżeli chcesz zaszyfrować kopię, podaj hasło:</string>
+    <string name="backup_enc_password_required">Z racji że twoje urządzenie jest zaszyfrowane, kopia także musi być zaszyfrowana. Podaj hasło:</string>
+    <string name="restore_enc_password_text">Jeżeli odtwarzane dane są zaszyfrowane, podaj hasło:</string>
+    </resources>
