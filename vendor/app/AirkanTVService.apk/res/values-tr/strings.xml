@@ -1,2 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="action_settings">Ayarlar</string>
+    <string name="hello_world">Merhaba dünya!</string>
+    <string name="phonename_default">Xiaomi cihaz</string>
+    <string name="xiaomi_default">Mi telefon</string>
+    <string name="xiaomi_1">Mi-One</string>
+    <string name="airkan_app_name">Mi-Link(Airkan/DLNA/Airplay) Servisleri</string>
+    <string name="airkan_activity_name">Airkan TV Yöneticisi</string>
+    <string name="playerservice_name">Airkan TV Oynatıcı Servis</string>
+    <string name="rc_daemon_name">Uzaktan Kumanda TV Daemon</string>
+    <string name="airkan_daemon_config">Airkan TV Konfigür</string>
+    <string name="airkan_service_start">Airkan TV Servis Başladı.</string>
+    <string name="airkan_daemon_start">Airkan TV Daemon Başladı.</string>
+    <string name="rc_daemon_start">Uzaktan Kumanda TV Daemon Başladı.</string>
+    <string name="recv_service_start">servis almak için yayını başlat</string>
+    <string name="send_service_start">servisi göndermek için yayını başlat</string>
+    <string name="mdns_service_name">mDNSSDRes Servisi</string>
+    <string name="mdns_service_start">mDNSSD Responder Servisi Başladı.</string>
+    </resources>
