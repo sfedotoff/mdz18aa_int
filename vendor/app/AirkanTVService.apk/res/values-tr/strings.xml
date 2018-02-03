@@ -16,4 +16,25 @@
     <string name="send_service_start">servisi göndermek için yayını başlat</string>
     <string name="mdns_service_name">mDNSSDRes Servisi</string>
     <string name="mdns_service_start">mDNSSD Responder Servisi Başladı.</string>
+    <string name="airplay_applying_new_name">Airplay cihaz adı ayarı:</string>
+    <string name="airplay_please_wait">Lütfen bekleyiniz</string>
+    <string name="airplay_service_started">Airplay Servis Başladı</string>
+    <string name="airplay_menu_settings">Ayarlar</string>
+    <string name="airplay_starting_service">Airplay servisi başlatılıyor</string>
+    <string name="receiving_mirror_text">Bir Apple cihazdan video alınıyor</string>
+    <string name="connect_fail_text">İkiz bağlantı başarısız</string>
+    <string name="default_video_title">Video</string>
+    <string name="default_music_title">Müzik</string>
+    <string name="default_photo_title">Resimler</string>
+    <string name="weixin">WeChat</string>
+    <string name="pc">PC</string>
+    <string name="miliao">MiChat</string>
+    <string name="tv_notification_title">Cihaz bulundu</string>
+    <string name="tv_notification_content">Yakın bir cihazdan ekran yayını.</string>
+    <string name="tv_not_support_mirror">MiTV henüz Apple cihazlarla eşleşmeyi desteklemiyor.</string>
+    <string name="security_confirmation_title_tv">Bir Cihaz Xiaomi TV\'nize fotoğraf/video göstermek üzere veri göndermek istiyor</string>
+    <string name="security_confirmation_title_box">Bir Cihaz Xiaomi TV\'nize fotoğraf/video göstermek üzere veri göndermek istiyor</string>
+    <string name="security_confirmation_main">Bu işleme izin verecek misiniz?</string>
+    <string name="security_confirmation_button_confirm">Kabul</string>
+    <string name="security_confirmation_button_cancel">Reddet</string>
     </resources>
