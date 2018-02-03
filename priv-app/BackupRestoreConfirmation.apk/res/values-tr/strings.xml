@@ -1,2 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="backup_confirm_title">Tam yedek</string>
+    <string name="restore_confirm_title">Tam geri kurtarma</string>
+    <string name="backup_confirm_text">Bağlı bir bilgisayara tüm verinin tam yedeklemesi talep edildi. Bu işleme izin veriyor musunuz?
+
+Eğer yedeklemeyi siz talep etmediyseniz, bu işlemin yürütülmesine izin vermeyin.</string>
+    <string name="allow_backup_button_label">Verilerimi yedekle</string>
+    <string name="deny_backup_button_label">Hayır yedekleme</string>
+    <string name="restore_confirm_text">Bağlı bir bilgisayara tüm verinin tam yedeklemesi talep edildi. Bu işleme izin veriyor musunuz?
+
+Eğer yedeklemeyi siz talep etmediyseniz, bu işlemin yürütülmesine izin vermeyin. Bu işlem cihazınızdaki tüm veriyi değiştirecek!</string>
+    <string name="allow_restore_button_label">Verilerimi geri kurtar</string>
+    <string name="deny_restore_button_label">Hayır kurtarma</string>
+    <string name="current_password_text">Lütfen mevcut yedekleme şifrenizi aşağıya giriniz:</string>
+    <string name="device_encryption_restore_text">Lütfen cihaz kriptolama şifrenizi aşağıya giriniz.</string>
+    <string name="device_encryption_backup_text">Lütfen cihaz kriptolama şifrenizi aşağıya giriniz. Bu şifre yedek arşivini kriptolamak için de kullanılacaktır.</string>
+    <string name="backup_enc_password_text">Lütfen tam yedek verisini kriptolamak için şifre giriniz. Eğer burayı boş bırakırsanız, mevcut yedekleme şifreniz kullanılacak:</string>
+    <string name="backup_enc_password_optional">Eğer tam yedek verisini kriptolamak istiyorsanız, aşağıya bir şifre giriniz:</string>
+    <string name="backup_enc_password_required">Cihazınız kriptolu olduğu için, yedek dosyasını da kriptolamanız gerekmektedir. Lütfen aşağıya bir şifre giriniz:</string>
+    <string name="restore_enc_password_text">Eğer kurtarma verisi kriptolu ise lütfen aşağıya şifresini giriniz:</string>
+    <string name="toast_backup_started">Yedekleme başlıyor...</string>
+    <string name="toast_backup_ended">Yedekleme bitti</string>
+    <string name="toast_restore_started">Kurtarma başlıyor...</string>
+    <string name="toast_restore_ended">Kurtarma bitti</string>
+    <string name="toast_timeout">İşlem zaman aşımına uğradı</string>
+</resources>
